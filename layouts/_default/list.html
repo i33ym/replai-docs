@@ -1,0 +1,73 @@
+{{ define "main" }}
+<div class="max-w-6xl mx-auto px-4 py-12">
+    <div class="flex flex-col md:flex-row gap-8">
+        <!-- Sidebar -->
+        <aside class="md:w-64 shrink-0">
+            <nav class="sticky top-8">
+                <h3 class="text-sm font-semibold uppercase tracking-wider text-text-secondary-light dark:text-text-secondary-dark mb-4">{{ .Title }}</h3>
+                <div class="space-y-1">
+                    {{ range .Pages }}
+                    <a href="{{ .RelPermalink }}" class="block px-3 py-2 rounded-md text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark hover:bg-bg-secondary-light dark:hover:bg-bg-secondary-dark transition-all duration-200 text-sm">
+                        {{ .Title }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ if .Parent }}
+                <div class="mt-6 pt-4 border-t border-border-primary-light dark:border-border-primary-dark">
+                    <a href="{{ .Parent.RelPermalink }}" class="text-sm text-text-secondary-light dark:text-text-secondary-dark hover:text-accent-light dark:hover:text-accent-dark transition-colors">&larr; Back</a>
+                </div>
+                {{ end }}
+            </nav>
+        </aside>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <h1 class="text-4xl font-bold mb-4 text-text-primary-light dark:text-text-primary-dark">{{ .Title }}</h1>
+            {{ if .Content }}
+            <div class="prose-docs mb-8">
+                {{ .Content }}
+            </div>
+            {{ end }}
+
+            <div class="space-y-4">
+                {{ range .Pages }}
+                <a href="{{ .RelPermalink }}" class="block p-5 rounded-lg bg-bg-secondary-light dark:bg-bg-secondary-dark border border-border-primary-light dark:border-border-primary-dark hover:border-accent-light dark:hover:border-accent-dark transition-all duration-300 group">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h2 class="text-xl font-semibold text-text-primary-light dark:text-text-primary-dark mb-1">{{ .Title }}</h2>
+                            {{ if .Description }}
+                            <p class="text-text-secondary-light dark:text-text-secondary-dark text-sm">{{ .Description }}</p>
+                            {{ end }}
+                        </div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-text-secondary-light dark:text-text-secondary-dark opacity-0 group-hover:opacity-100 transition-opacity shrink-0 ml-4">
+                            <path d="M5 12h14M12 5l7 7-7 7"/>
+                        </svg>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .prose-docs {
+        color: #4b5563;
+        font-size: 1.0625rem;
+        line-height: 1.75;
+    }
+    html.dark .prose-docs {
+        color: #9ca3af;
+    }
+    .prose-docs p {
+        margin-bottom: 1rem;
+    }
+    .prose-docs a {
+        color: #0284c7;
+        text-decoration: underline;
+    }
+    html.dark .prose-docs a {
+        color: #0ea5e9;
+    }
+</style>
+{{ end }}

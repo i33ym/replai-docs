@@ -1,0 +1,30 @@
+name: Deploy Docs
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - run: hugo --minify
+
+      - name: Deploy
+        uses: easingthemes/ssh-deploy@v5
+        with:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: ${{ secrets.GCP_HOST }}
+          REMOTE_USER: ${{ secrets.GCP_USER }}
+          SOURCE: public/
+          TARGET: /var/www/docs.replai.uz/
+          ARGS: "--delete"

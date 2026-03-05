@@ -1,0 +1,59 @@
+baseURL = 'https://docs.replai.uz/'
+languageCode = 'en-us'
+title = 'Replai Docs'
+theme = "hugo-noir"
+defaultContentLanguage = "en"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
+  [languages.ru]
+    languageName = "Русский"
+    weight = 2
+    contentDir = "content/ru"
+  [languages.uz]
+    languageName = "O'zbekcha"
+    weight = 3
+    contentDir = "content/uz"
+
+[params]
+  name = "Replai"
+  description = "AI-powered social media comment management"
+  github = "https://github.com/i33ym/replai-docs"
+  email = "help@replai.uz"
+
+[menu]
+  [[menu.main]]
+    name = "Getting Started"
+    url = "/getting-started/"
+    weight = 1
+  [[menu.main]]
+    name = "Platforms"
+    url = "/platforms/"
+    weight = 2
+
+[languages.ru.menu]
+  [[languages.ru.menu.main]]
+    name = "Начало работы"
+    url = "/getting-started/"
+    weight = 1
+  [[languages.ru.menu.main]]
+    name = "Платформы"
+    url = "/platforms/"
+    weight = 2
+
+[languages.uz.menu]
+  [[languages.uz.menu.main]]
+    name = "Boshlash"
+    url = "/getting-started/"
+    weight = 1
+  [[languages.uz.menu.main]]
+    name = "Platformalar"
+    url = "/platforms/"
+    weight = 2
