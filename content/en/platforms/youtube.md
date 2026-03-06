@@ -21,13 +21,13 @@ This guide walks you through obtaining a YouTube Data API v3 token and connectin
 
 Open your browser and go to [cloud.google.com](https://cloud.google.com).
 
-![Open Google Cloud](/images/01-open-google-cloud.png)
+![Open Google Cloud](../../static/images/01-open-google-cloud.png)
 
 ### Step 2: Click Console
 
 Click **Console** in the top-right corner of the page.
 
-![Click Console](/images/02-click-console.png)
+![Click Console](../../static/images/02-click-console.png)
 
 ### Step 3: Open the Dashboard
 
