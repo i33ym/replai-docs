@@ -9,3 +9,15 @@ other = "Создано с помощью"
 
 [takeALookAtMy]
 other = "Исходный код на"
+
+[privacyPolicy]
+other = "Политика конфиденциальности"
+
+[termsAndConditions]
+other = "Условия использования"
+
+[legal]
+other = "Правовая информация"
+
+[dataDeletionInstructions]
+other = "Удаление данных"

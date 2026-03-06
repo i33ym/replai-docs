@@ -9,3 +9,15 @@ other = "Yaratilgan"
 
 [takeALookAtMy]
 other = "Manba kodi"
+
+[privacyPolicy]
+other = "Maxfiylik siyosati"
+
+[termsAndConditions]
+other = "Foydalanish shartlari"
+
+[legal]
+other = "Huquqiy"
+
+[dataDeletionInstructions]
+other = "Ma’lumotlarni o‘chirish"
