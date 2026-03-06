@@ -9,3 +9,15 @@ other = "Built using"
 
 [takeALookAtMy]
 other = "View source on"
+
+[privacyPolicy]
+other = "Privacy Policy"
+
+[termsAndConditions]
+other = "Terms & Conditions"
+
+[legal]
+other = "Legal"
+
+[dataDeletionInstructions]
+other = "Data Deletion"
