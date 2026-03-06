@@ -3,6 +3,14 @@
         <div class="border-t border-border-primary-light dark:border-border-primary-dark pt-5">
             <div class="flex flex-col items-center justify-center gap-2">
                 <p class="text-text-secondary-light dark:text-text-secondary-dark text-sm">&copy; {{ now.Format "2006" }} Replai</p>
+
+                <div class="flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-sm">
+                    <span class="text-text-secondary-light dark:text-text-secondary-dark">{{ i18n "legal" }}</span>
+                    <a href="{{ "privacy-policy/" | relLangURL }}" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">{{ i18n "privacyPolicy" }}</a>
+                    <a href="{{ "terms-and-conditions/" | relLangURL }}" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">{{ i18n "termsAndConditions" }}</a>
+                    <a href="{{ "data-deletion-instructions/" | relLangURL }}" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">{{ i18n "dataDeletionInstructions" }}</a>
+                </div>
+
                 <p class="text-text-secondary-light dark:text-text-secondary-dark text-sm pb-12">
                     Built with <a href="https://gohugo.io/" target="_blank" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">Hugo</a>.
                     View source on <a href="{{ .Site.Params.github }}" target="_blank" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">GitHub</a>
