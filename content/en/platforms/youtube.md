@@ -69,6 +69,12 @@ Click **Select a project** again and choose the project you just created.
 
 ![Select new project](../../images/08-select-new-project.png)
 
+### Step 8: Select the Project 
+
+Click the project you just created.
+
+![Select new project](../../images/08-1-select-new-project.png)
+
 ---
 
 ## 3. Enable YouTube Data API v3
@@ -85,29 +91,29 @@ Navigate to **APIs & Services** → **Library**.
 
 ![APIs and Services](../../images/10-apis-and-services.png)
 
-### Step 11: Search for YouTube Data API
+### Step 11: Go to APIs & Services
+
+Navigate to **APIs & Services** → **Library**.
+
+![APIs and Services](../../images/11-enable-apis-and-services.png)
+
+### Step 12: Search for YouTube Data API
 
 In the API Library, search for `YouTube Data API v3`.
 
-![Search YouTube API](../../images/11-search-youtube-api.png)
+![Search YouTube API](../../images/12-search-youtube-api.png)
 
-### Step 12: Select YouTube Data API v3
+### Step 13: Select YouTube Data API v3
 
 Click on **YouTube Data API v3** from the search results.
 
-![Select YouTube API](../../images/12-select-youtube-api.png)
+![Select YouTube API](../../images/13-select-youtube-api.png)
 
-### Step 13: Enable the API
+### Step 14: Enable the API
 
 Click the **Enable** button.
 
-![Enable API](../../images/13-enable-api.png)
-
-### Step 14: API Enabled Confirmation
-
-You will see the API overview page confirming it is enabled.
-
-![API enabled](../../images/14-api-enabled.png)
+![Enable API](../../images/14-enable-api.png)
 
 ---
 
@@ -119,49 +125,55 @@ In the left sidebar, click **OAuth consent screen**.
 
 ![OAuth consent screen](../../images/15-oauth-consent-screen.png)
 
-### Step 16: Select User Type
+### Step 16: Get start
 
-Select **External** and click **Create**.
+Select **Get start button** and Click **Create**.
 
-![Select user type](../../images/16-select-user-type.png)
+![Select user type](../../images/16-get-start.png)
 
 ### Step 17: Fill App Information
 
-Enter the required app information: App name, User support email, and Developer contact email. Click **Save and Continue**.
+Enter the required app information: App name, User support email. Click **Next**.
 
 ![App information](../../images/17-app-information.png)
 
-### Step 18: Configure Scopes
+### Step 18: Select user type
 
-Click **Add or Remove Scopes**, add the required YouTube scopes, and click **Save and Continue**.
+Click **External** and click **Next**.
 
-![Configure scopes](../../images/18-configure-scopes.png)
+![Configure scopes](../../images/18-user-type-information.png)
 
-### Step 19: Add Test Users
+### Step 19: Contact information
 
-Add your email as a test user and click **Save and Continue**.
+Add your email and click **Next**.
 
-![Add test users](../../images/19-add-test-users.png)
+![Add test users](../../images/19-contact-information.png)
 
-### Step 20: Review Summary
+### Step 20: Finish
 
-Review the summary and click **Back to Dashboard**.
+Agree Google user data policy and click **Continue**.
 
-![Review summary](../../images/20-review-summary.png)
+![Add test users](../../images/20-finish.png)
+
+### Step 21: Create
+
+Click on **Create**.
+
+![Review summary](../../images/21-create.png)
 
 ---
 
 ## 5. Create OAuth Credentials
 
-### Step 21: Go to Credentials
+### Step 21: Go to Overview
 
-In the left sidebar, click **Credentials**.
+In the left sidebar, click **Overview**.
 
 ![Go to credentials](../../images/21-go-to-credentials.png)
 
 ### Step 22: Click Create Credentials
 
-Click **Create Credentials** → **OAuth client ID**.
+Click **Create OAuth client**.
 
 ![Create credentials](../../images/22-create-credentials.png)
 
@@ -173,7 +185,7 @@ Select **Web application** as the application type.
 
 ### Step 24: Configure Redirect URI
 
-Enter the name and add the Replai redirect URI in **Authorized redirect URIs**. Click **Create**.
+Enter the name and add the **https://developers.google.com/oauthplayground/* redirect URI in **Authorized redirect URIs**. Click **Create**.
 
 ![Configure redirect URI](../../images/24-configure-redirect-uri.png)
 
