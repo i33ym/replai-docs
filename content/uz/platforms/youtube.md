@@ -22,14 +22,14 @@ Platformalar ro'yxatidan **YouTube**-ni tanlang.
 
 ### 3-qadam: Google orqali ruxsat berish
 
-**Continue with Google** tugmasini bosing. 
+**Continue with Google** tugmasini bosing.
 
 1. **Hisobni tanlang**: YouTube kanalingizga bog'langan Gmail/Google hisobini tanlang.
 2. **Ruxsatlarni tasdiqlang**: So'rovni ko'rib chiqing va **Allow** (Ruxsat berish) tugmasini bosing.
 
 ### 4-qadam: Kanalni tanlang
 
-Agar Google hisobingizda bir nechta kanal bo'lsa, kerakli kanalni tanlang va **Finish Connection** tugmasini bosing.
+Agar Google hisobingizda bir nechta kanal yoki brend-hisob bo'lsa, ulashni xohlagan kanalni tanlang va **Finish Connection** tugmasini bosing.
 
 ---
 
@@ -45,7 +45,12 @@ Ulangandan so'ng, Replai quyidagilarni avtomatik boshlaydi:
 
 ## Sozlamalar
 
-Kanal sozlamalarini **Account Settings** bo'limida o'zgartirishingiz mumkin:
+Kanal xatti-harakatini **Account Settings** bo'limida sozlashingiz mumkin:
 
-* **Enable auto-reply**: AI javoblarini avtomatik joylashtirish.
-* **Review before posting**: Javoblarni yuborishdan oldin qo'lda tekshirish uchun ushlab turish.
+### Avtomatik javob sozlamalari
+* **Enable auto-reply**: Ishonch darajangizga mos keladigan AI javoblarini avtomatik joylashtirish.
+* **Review before posting**: Javoblarni e'lon qilishdan oldin qo'lda tasdiqlash uchun ushlab turish.
+
+### Sharh filtrlari
+* **Privacy Filter**: Ochiq, yopiq yoki ikki turdagi videolardagi sharhlarni sinxronlash.
+* **Unlisted Filter**: Boshqaruv panelini tartibli saqlash uchun havolali (Unlisted) videolar sukut bo'yicha yashirilgan.
