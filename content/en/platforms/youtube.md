@@ -77,12 +77,6 @@ Configure your channel behavior in the **Account Settings**:
 
 ---
 
-## Need Help?
-
-**Email:** support@replai.uz  
-**Response time:** Within 24 hours
----
-
 ## FAQ
 
 **Q: Can I connect multiple YouTube channels?** A: Yes! Simply repeat the "Add Account" process for each channel.
