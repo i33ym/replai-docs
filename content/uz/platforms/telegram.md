@@ -1,21 +1,9 @@
 ---
 title: "Telegram"
-description: "Connect and configure Telegram with Replai."
+description: "Telegram-ni Replai bilan bog'lash va sozlash."
 weight: 9
 ---
 
-## Overview
+# 🚀 Tez kunda
 
-> Fill in the Telegram integration guide here.
-
-## Authentication
-
-> OAuth flow / API key setup for Telegram.
-
-## Configuration
-
-> Platform-specific settings and response rules.
-
-## Limitations
-
-> Rate limits, API restrictions, and known limitations.
+Telegram integratsiyasi hozirda ishlab chiqilmoqda. Yangiliklarni kuzatib boring!
