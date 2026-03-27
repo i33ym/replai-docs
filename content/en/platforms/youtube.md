@@ -1,11 +1,6 @@
 ---
-<<<<<<< Updated upstream
-title: "Youtube"
-description: "Connect and configure Youtube with Replai."
-=======
 title: "YouTube"
 description: "Connect your YouTube channel to Replai in three simple steps"
->>>>>>> Stashed changes
 weight: 8
 ---
 
