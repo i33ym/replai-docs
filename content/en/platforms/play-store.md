@@ -143,29 +143,35 @@ The JSON credentials file will be automatically downloaded to your computer. Kee
 
 ## 5. Enable Google Play Android Developer API
 
-### Step 20: Go to APIs & Services
+### Step 18: Go to APIs & Services
 
-Navigate to **APIs & Services** → **Library**.
+In the left sidebar, navigate to **APIs & Services** → **Library**.
 
-![APIs and Services](/images/play-store/20-apis-and-services.png)
+![APIs and Services](/images/play-store/18-apis-and-services.png)
 
-### Step 21: Search for Google Play Android Developer API
+### Step 19: Open API Library
 
-In the API Library, search for `Google Play Android Developer API`.
+You will see the API Library welcome screen. Click on the search bar.
 
-![Search API](/images/play-store/21-search-play-api.png)
+![API Library](/images/play-store/19-api-library.png)
 
-### Step 22: Select the API
+### Step 20: Search for Google Play Android Developer API
+
+In the API Library search bar, type `Google Play Android Developer API`.
+
+![Search API](/images/play-store/20-search-play-api.png)
+
+### Step 21: Select the API
 
 Click on **Google Play Android Developer API** from the search results.
 
-![Select API](/images/play-store/22-select-play-api.png)
+![Select API](/images/play-store/21-select-play-api.png)
 
-### Step 23: Enable the API
+### Step 22: Enable the API
 
 Click the **Enable** button.
 
-![Enable API](/images/play-store/23-enable-play-api.png)
+![Enable API](/images/play-store/22-enable-play-api.png)
 
 ---
 
@@ -197,19 +203,13 @@ Paste the service account email address you copied in Step 12.
 
 ### Step 27: Set Permissions
 
-Under **Permissions**, select the app you want to connect. Grant the following permissions: **View app information and download bulk reports**, **Reply to reviews**, and **View app quality information**.
-
-![Set permissions](/images/play-store/27-set-permissions.png)
-
-### Step 28: Click Invite
+Under **Permissions**, select the app you want to connect. Grant the following permissions:  **Admin(all permission)**
 
 Click **Invite** to add the service account.
 
-![Click invite](/images/play-store/28-click-invite.png)
+![Set permissions](/images/play-store/27-set-permissions.png)
 
----
-
-## 7. Connect to Replai
+<!-- ## 7. Connect to Replai
 
 ### Step 29: Open Replai Settings
 
@@ -225,7 +225,7 @@ Click on the **Play Store** integration.
 
 ### Step 31: Upload JSON Credentials
 
-Upload the JSON credentials file you downloaded in Step 22.
+Upload the JSON credentials file you downloaded in Step 17.
 
 ![Upload JSON](/images/play-store/31-upload-json.png)
 
@@ -242,4 +242,4 @@ You will see a confirmation that Play Store is connected to Replai.
 - **API Quota**: Google Play Developer API has daily quota limits for review replies.
 - **Review Access**: Only reviews from the last 7 days can be replied to via the API.
 - **Service Account Scope**: The service account only has access to apps explicitly granted in Google Play Console permissions.
-- **Reply Length**: Google Play review replies have a maximum length of 350 characters.
+- **Reply Length**: Google Play review replies have a maximum length of 350 characters. -->
