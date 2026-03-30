@@ -1,5 +1,5 @@
 ---
-title: "Facebook-ni ulash"
+title: "Facebook"
 description: "Facebook Page-ingizni Replai-ga bir necha oddiy qadamda ulang"
 weight: 9
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Подключение Instagram"
+title: "Instagram"
 description: "Подключите свой Instagram-аккаунт к Replai за несколько простых шагов"
 weight: 10
 ---

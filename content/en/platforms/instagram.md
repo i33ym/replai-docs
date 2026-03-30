@@ -1,5 +1,5 @@
 ---
-title: "Connect Instagram"
+title: "Instagram"
 description: "Connect your Instagram account to Replai in a few simple steps"
 weight: 10
 ---

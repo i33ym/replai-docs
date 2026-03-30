@@ -1,5 +1,5 @@
 ---
-title: "Instagram-ni ulash"
+title: "Instagram"
 description: "Instagram accountingizni Replai-ga bir necha oddiy qadamda ulang"
 weight: 10
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Подключение Facebook"
+title: "Facebook"
 description: "Подключите свою Facebook Page к Replai за несколько простых шагов"
 weight: 9
 ---

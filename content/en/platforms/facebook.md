@@ -1,5 +1,5 @@
 ---
-title: "Connect Facebook"
+title: "Facebook"
 description: "Connect your Facebook Page to Replai in a few simple steps"
 weight: 9
 ---
