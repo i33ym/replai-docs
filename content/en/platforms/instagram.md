@@ -1,12 +1,12 @@
 ---
-title: "Connect Instagram"
-description: "Connect your Instagram business account to Replai to manage comments with AI"
+title: "Instagram"
+description: "Connect your Instagram business account to manage comments with AI"
 weight: 10
 ---
 
 ## Overview
 
-Connect your Instagram business account to Replai to automatically sync posts, manage comments with AI, and engage with your audience — all from one dashboard.
+Connect your Instagram Business or Creator account to Replai to automatically sync posts, manage comments with AI, and engage with your audience — all from one dashboard.
 
 ---
 
@@ -14,18 +14,77 @@ Connect your Instagram business account to Replai to automatically sync posts, m
 
 Before connecting Instagram to Replai, make sure the following requirements are met:
 
-### 1. Switch to a Professional Account
+---
+
+## 1. Switch to a Professional Account
 
 Instagram only allows API access for **Business** or **Creator** accounts. Personal accounts cannot be connected.
 
-1. Open the **Instagram app** on your phone.
-2. Go to **Settings → Account → Switch to Professional Account**.
-3. Choose **Business** or **Creator**.
-4. Select a category and confirm.
+### Step 1: Open Instagram Profile
+
+Open the **Instagram app** on your phone. Tap the **☰ menu** icon in the top-right corner of your profile.
+
+![Open Instagram](/images/instagram/01-open-instagram.png)
+
+### Step 2: Go to Account Type & Tools
+
+In the Settings menu, find the **Account type and tools** section and tap on it.
+
+![Open Settings](/images/instagram/02-open-settings.png)
+
+### Step 3: Switch to Professional Account
+
+Tap **Switch to professional account** to begin the process.
+
+![Switch to Professional](/images/instagram/03-switch-professional.png)
+
+### Step 4: Continue
+
+You'll see the benefits of a professional account. Tap **Next** to continue.
+
+![Continue](/images/instagram/04-switch-professional-page.png)
+
+### Step 5: Choose a Category
+
+Search and select a category that best describes your account. Then tap **Switch to professional account**.
+
+![Choose Category](/images/instagram/05-choose-business.png)
+
+### Step 6: Select Business
+
+Choose **Business** as your account type and tap **Next**.
+
+![Select Business](/images/instagram/06-select-category.png)
+
+### Step 7: Review Contact Information
+
+Review your contact information. You can edit or skip this step. Tap **Next** to continue.
+
+![Contact Information](/images/instagram/07-check-contact-information.png)
+
+### Step 8: Skip Facebook Page Connection
+
+You'll be asked to connect a Facebook Page. Tap **Skip** for now — we'll do this from a computer later.
+
+![Skip Facebook](/images/instagram/08-preprocess-professional-account.png)
+
+### Step 9: Complete Setup
+
+You'll see setup suggestions for your professional account. You can explore them or tap **✕** to close.
+
+![Complete Setup](/images/instagram/09-last-step-switch-professional-account.png)
+
+### Step 10: Professional Account Ready
+
+Your profile now shows **Professional dashboard**. Your account has been successfully switched!
+
+![Professional Account](/images/instagram/10-switch-professional-account.png)
 
 > This is free and takes less than a minute.
 
-### 2. Create a Facebook Page
+---
+
+## 2. Create a Facebook Page
 
 Instagram's API works through Facebook. You need a Facebook Page linked to your Instagram account.
 
@@ -35,42 +94,43 @@ Instagram's API works through Facebook. You need a Facebook Page linked to your 
 
 > If you already have a Facebook Page, skip this step.
 
-### 3. Link Instagram to Your Facebook Page
+---
+
+## 3. Link Instagram to Your Facebook Page
 
 1. Open your **Facebook Page**.
-2. Go to **Settings → Linked Accounts → Instagram**.
-3. Click **Connect Account** and log in with your Instagram credentials.
+2. Go to **Settings** → **Linked Accounts** → **Instagram**.
+3. Click **Connect Account** and log in to your Instagram.
 4. Confirm the connection.
 
-> This step is required. Without it, Replai cannot discover your Instagram account.
+> This step is required. The Instagram API only works through a Facebook Page.
 
 ---
 
-## How to Connect
+## 4. Connect Instagram to Replai
 
-### Step 1: Add Account from Sidebar
+### Step 1: Add Account
 
-In the Replai dashboard, locate the **Accounts** section on the left-hand sidebar. Click the **+ Add account** button.
+In the Replai dashboard, click the **+ Add account** button in the sidebar.
 
 ### Step 2: Select Instagram
 
-A menu will appear listing the supported social platforms. Select **Instagram** from the list.
+Select **Instagram** from the list of supported platforms.
 
 ### Step 3: Authorize via Facebook
 
-A popup window will appear with the Facebook login page.
+Click **Continue with Facebook**.
 
-1. **Log in**: Enter your Facebook credentials (the account that manages your Facebook Page).
-2. **Select Pages**: Choose which Facebook Pages you want to give Replai access to.
-3. **Confirm Permissions**: Review the access request and click **Continue**.
+1. **Log in to Facebook**: Sign in with the Facebook account linked to your Instagram.
+2. **Confirm Permissions**: Review the requested permissions and click **Continue**.
 
-> Replai requests access to read your posts, manage comments, and view page insights.
+### Step 4: Select Your Facebook Page
 
-### Step 4: Select Your Instagram Account
+A list of your Facebook Pages will appear. Select the Page linked to your Instagram account and click **Connect**.
 
-After authorization, Replai will display a list of Instagram business accounts linked to your Facebook Pages. Select the account you want to connect and click **Finish Connection**.
+### Step 5: Done!
 
-> If no accounts appear, make sure your Instagram is set to Business/Creator and is linked to a Facebook Page (see "Before You Start" above).
+Your Instagram account is now successfully connected.
 
 ---
 
@@ -78,86 +138,64 @@ After authorization, Replai will display a list of Instagram business accounts l
 
 Once connected, Replai automatically begins the following processes:
 
-1. **Post Syncing** — We fetch your Instagram posts (images, videos, carousels) to prepare for comment management.
+1. **Post Syncing** — Your Instagram posts will appear in the Replai dashboard.
 2. **Comment Monitoring** — The system checks for new comments every 5 minutes.
-3. **AI Suggestion Engine** — Replai starts generating high-quality response suggestions based on your post context.
-
----
-
-## Features
-
-### Read Comments
-View all comments on your Instagram posts in one place, organized by post.
-
-### Reply to Comments
-Respond to any comment directly from the Replai dashboard. Replies appear on Instagram as your business account.
-
-### Hide Comments
-Hide inappropriate or spam comments with one click. Hidden comments are no longer visible to the public.
-
-### AI-Powered Auto-Reply
-Let Replai's AI suggest or automatically post replies to common questions and comments.
+3. **AI Suggestion Engine** — Replai generates response suggestions based on your post context.
 
 ---
 
 ## Settings
 
-Configure your account behavior in the **Account Settings**:
+Configure your account behavior in **Account Settings**:
 
 ### Auto-Reply Settings
 * **Enable auto-reply**: Automatically post AI responses that meet your confidence score.
 * **Review before posting**: Hold replies for manual approval before they go live.
 
 ### Comment Filters
-* **Hide replied**: Filter out comments you've already responded to.
-* **Show unreplied only**: Focus on comments that still need attention.
+* **Comment Filter**: Sync all comments or only unanswered ones.
 
 ---
 
 ## Troubleshooting
 
-### "No Instagram Account Found"
-**Problem:** After authorization, the account list is empty.
-**Solution:** Make sure your Instagram account is switched to **Business** or **Creator** mode AND is linked to a **Facebook Page**. Then try connecting again.
+### "Instagram account not showing"
+**Problem:** Instagram doesn't appear in the account selection.
+**Solution:** Make sure your Instagram account is **Business** or **Creator** and is **linked to a Facebook Page**. Both accounts must belong to the same person.
+
+### "Comments not appearing"
+**Problem:** No comments visible in the dashboard.
+**Solution:** Comments sync every **5 minutes**. Wait a moment. If a post has no comments, it will appear empty.
 
 ### "Invalid or Expired Token"
 **Problem:** Your session has timed out or permissions were revoked.
-**Solution:** Click the **Disconnect** button in your account settings and follow the connection process again to refresh the token.
-
-### "Comments Not Loading"
-**Problem:** Posts appear but comments are empty.
-**Solution:** Comments sync every 5 minutes. Wait a few minutes and refresh. If the issue persists, disconnect and reconnect the account.
+**Solution:** Click **Disconnect** in Account Settings and follow the connection process again.
 
 ---
 
 ## Privacy & Security
 
-* **No Passwords**: We use official Facebook OAuth. We never see your Instagram password.
-* **Limited Access**: Replai only accesses your Instagram posts and comments. We cannot read your DMs or personal data.
-* **Revocable**: You can remove Replai's access at any time via Instagram → Settings → Apps and Websites.
-
----
-
-## Limitations
-
-* **Business/Creator accounts only** — Personal Instagram accounts are not supported by Meta's API.
-* **Facebook Page required** — Instagram API access requires a linked Facebook Page.
-* **Reply length** — Instagram comment replies are limited to 2,200 characters.
-* **No DM access** — Replai does not read or manage Instagram Direct Messages.
-* **Comment deletion** — Instagram API does not support deleting other users' comments.
+* **No Passwords**: We use official Facebook OAuth. We never see your password.
+* **Limited Access**: Replai only accesses Instagram data. We cannot access your other Facebook data.
+* **Revocable**: You can remove Replai's access at any time via Facebook Settings.
 
 ---
 
 ## FAQ
 
 **Q: Can I connect multiple Instagram accounts?**
-A: Yes! Simply repeat the "Add Account" process for each account. Each account must have its own linked Facebook Page.
+A: Yes! Simply repeat the "Add Account" process for each account.
 
-**Q: Do I need a Facebook account?**
-A: Yes. Instagram's API works through Facebook. You need a Facebook account with a Facebook Page linked to your Instagram business account.
+**Q: Are video posts supported?**
+A: Yes, video posts are supported, though they may take slightly longer to load.
 
-**Q: Does Replai support Reels and Carousel posts?**
-A: Yes. Replai syncs all post types including single images, videos (Reels), and carousel albums.
+**Q: How do I disconnect an account?**
+A: Go to Settings and click the **Disconnect** button next to the account.
 
-**Q: How often are comments synced?**
-A: Comments are checked every 5 minutes. New comments will appear in your dashboard shortly after they are posted.
+---
+
+## Limitations
+
+- **API Restriction**: Only Business and Creator accounts can manage comments via the Instagram API.
+- **Story Replies**: Replies to Instagram Stories are not available through the API.
+- **Sync Interval**: Comments sync every 5 minutes, not in real-time.

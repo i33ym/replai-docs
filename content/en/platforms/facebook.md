@@ -1,29 +1,23 @@
 ---
-title: "Connect Facebook"
-description: "Connect your Facebook Page to Replai to manage comments with AI"
+title: "Facebook"
+description: "Connect your Facebook Page to Replai in a few simple steps"
 weight: 9
 ---
 
 ## Overview
 
-Connect your Facebook Page to Replai to automatically sync posts, manage comments with AI, and respond to your audience — all from one dashboard.
+Connect your Facebook Page to Replai to manage comments on your posts with AI, reply to your audience, and improve engagement.
 
 ---
 
-## Before You Start
+## Prerequisites
 
-Before connecting Facebook to Replai, make sure the following requirement is met:
+### Have a Facebook Page
 
-### You Need a Facebook Page
+- You need a Facebook **Page** (Business or Community)
+- You must be an **Admin** of that Page
 
-Replai works with **Facebook Pages** only — personal profiles are not supported. This is a Meta API restriction, not a Replai limitation.
-
-1. Go to [facebook.com/pages/create](https://facebook.com/pages/create).
-2. Enter a **Page name** and **category**.
-3. Click **Create Page**.
-4. You must be an **Admin** of the Page.
-
-> If you already have a Facebook Page, skip this step.
+> Personal profiles cannot be connected. Only Facebook Pages are supported.
 
 ---
 
@@ -35,21 +29,22 @@ In the Replai dashboard, locate the **Accounts** section on the left-hand sideba
 
 ### Step 2: Select Facebook
 
-A menu will appear listing the supported social platforms. Select **Facebook** from the list.
+Select **Facebook** from the list of supported platforms.
 
 ### Step 3: Authorize via Facebook
 
-A popup window will appear with the Facebook login page.
+Click the **Continue with Facebook** button.
 
-1. **Log in**: Enter your Facebook credentials.
-2. **Select Pages**: Choose which Facebook Pages you want to give Replai access to.
-3. **Confirm Permissions**: Review the access request and click **Continue**.
-
-> Replai requests access to read your posts, manage comments, view engagement metrics, and subscribe to real-time notifications.
+1. **Log in to Facebook**: Sign in with your Facebook account.
+2. **Confirm Permissions**: Review the requested permissions and click **Continue**.
 
 ### Step 4: Select Your Page
 
-After authorization, Replai will display a list of Facebook Pages you manage. Select the Page you want to connect and click **Finish Connection**.
+A list of Pages you manage will appear. Select the Page you want to connect and click **Connect**.
+
+### Step 5: Done!
+
+Your Facebook Page is now successfully connected.
 
 ---
 
@@ -57,78 +52,46 @@ After authorization, Replai will display a list of Facebook Pages you manage. Se
 
 Once connected, Replai automatically begins the following processes:
 
-1. **Post Syncing** — We fetch your Facebook Page posts to prepare for comment management.
+1. **Post Syncing** — Your Facebook Page posts will appear in the Replai dashboard.
 2. **Comment Monitoring** — The system checks for new comments every 5 minutes.
-3. **AI Suggestion Engine** — Replai starts generating high-quality response suggestions based on your post context.
-
----
-
-## Features
-
-### Read Comments
-View all comments on your Facebook posts in one place, organized by post. Nested replies (threads) are also supported.
-
-### Reply to Comments
-Respond to any comment directly from the Replai dashboard. Replies appear on Facebook as your Page.
-
-### Hide Comments
-Hide inappropriate or spam comments with one click. Hidden comments are no longer visible to the public.
-
-### Delete Comments
-Remove unwanted comments permanently from your Facebook posts.
-
-### Like Comments
-Like positive or helpful comments directly from the dashboard.
-
-### AI-Powered Auto-Reply
-Let Replai's AI suggest or automatically post replies to common questions and comments.
+3. **AI Suggestion Engine** — Replai generates response suggestions based on your post context.
 
 ---
 
 ## Settings
 
-Configure your Page behavior in the **Account Settings**:
+Configure your Page behavior in **Account Settings**:
 
 ### Auto-Reply Settings
 * **Enable auto-reply**: Automatically post AI responses that meet your confidence score.
 * **Review before posting**: Hold replies for manual approval before they go live.
 
 ### Comment Filters
-* **Hide replied**: Filter out comments you've already responded to.
-* **Show unreplied only**: Focus on comments that still need attention.
+* **Comment Filter**: Sync all comments or only unanswered ones.
 
 ---
 
 ## Troubleshooting
 
-### "No Facebook Pages Found"
-**Problem:** After authorization, the Page list is empty.
-**Solution:** Make sure you are an **Admin** of at least one Facebook Page. Pages where you are only an Editor or Moderator may not appear.
+### "Facebook Page not showing"
+**Problem:** No Pages appear in the selection screen.
+**Solution:** Make sure you are an **Admin** of the Page. Only users with Admin permissions can connect a Page.
+
+### "Comments not appearing"
+**Problem:** No comments visible in the dashboard.
+**Solution:** Comments sync every **5 minutes**. Wait a moment. If a post has no comments, it will appear empty.
 
 ### "Invalid or Expired Token"
 **Problem:** Your session has timed out or permissions were revoked.
-**Solution:** Click the **Disconnect** button in your account settings and follow the connection process again to refresh the token.
-
-### "Comments Not Loading"
-**Problem:** Posts appear but comments are empty.
-**Solution:** Comments sync every 5 minutes. Wait a few minutes and refresh. If the issue persists, disconnect and reconnect the account.
+**Solution:** Click **Disconnect** in Account Settings and follow the connection process again.
 
 ---
 
 ## Privacy & Security
 
 * **No Passwords**: We use official Facebook OAuth. We never see your password.
-* **Limited Access**: Replai only accesses your Facebook Page posts and comments. We cannot read your personal profile, messages, or friend list.
-* **Revocable**: You can remove Replai's access at any time via Facebook → Settings → Business Integrations.
-
----
-
-## Limitations
-
-* **Pages only** — Personal Facebook profiles are not supported. This is a Meta API restriction.
-* **Admin role required** — You must be an Admin of the Facebook Page to connect it.
-* **Reply length** — Facebook comment replies are limited to 8,000 characters.
-* **No DM access** — Replai does not read or manage Facebook Messenger conversations.
+* **Limited Access**: Replai only accesses your Facebook Page data. We cannot access your personal profile.
+* **Revocable**: You can remove Replai's access at any time via Facebook Settings → Business Integrations.
 
 ---
 
@@ -137,11 +100,16 @@ Configure your Page behavior in the **Account Settings**:
 **Q: Can I connect multiple Facebook Pages?**
 A: Yes! Simply repeat the "Add Account" process for each Page.
 
-**Q: Can I connect my personal Facebook profile?**
-A: No. Meta's API only supports Facebook Pages. Personal profiles cannot be connected. Creating a Facebook Page is free and takes 2 minutes.
+**Q: Can I delete comments through Replai?**
+A: Yes, you can view, reply to, hide, and delete comments through Replai.
 
-**Q: What's the difference between Facebook and Instagram connection?**
-A: Facebook connects your Page directly. Instagram requires an additional step — your Instagram account must be set to Business/Creator mode and linked to a Facebook Page.
+**Q: How do I disconnect a Page?**
+A: Go to Settings and click the **Disconnect** button next to the account.
 
-**Q: How often are comments synced?**
-A: Comments are checked every 5 minutes. New comments will appear in your dashboard shortly after they are posted.
+---
+
+## Limitations
+
+- **Admin Required**: Only Page Admins can connect an account.
+- **Sync Interval**: Comments sync every 5 minutes, not in real-time.
+- **Personal Profiles**: Personal Facebook profiles cannot be connected, only Pages.
