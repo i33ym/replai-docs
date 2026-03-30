@@ -1,128 +1,201 @@
 ---
 title: "Instagram"
-description: "Instagram accountingizni Replai-ga bir necha oddiy qadamda ulang"
+description: "Instagram biznes akkauntingizni ulang va izohlarni AI bilan boshqaring"
 weight: 10
 ---
 
-## Umumiy ko'rinish
+## Umumiy ma'lumot
 
-Instagram Business yoki Creator accountingizni Replai-ga ulab, postlaringizdagi commentlarni AI yordamida boshqaring va auditoriya bilan aloqani yaxshilang.
+Instagram Business yoki Creator akkauntingizni Replai'ga ulang — postlaringiz avtomatik sinxronlanadi, izohlarni AI bilan boshqarasiz va auditoriyangiz bilan bitta dashboarddan muloqot qilasiz.
 
 ---
 
-## Tayyorgarlik (bir martalik)
+## Boshlashdan oldin
 
-Instagram-ni Replai-ga ulashdan oldin quyidagi ikki shartni bajaring:
+Instagramni Replai'ga ulashdan oldin quyidagi talablar bajarilganligiga ishonch hosil qiling:
 
-### Instagram accountni Professional ga o'tkazing
+---
 
-Instagram ilovasida:
+## 1. Professional akkauntga o'tish
 
-1. **Settings** → **Account** → **Switch to Professional Account** ni oching
-2. **Business** yoki **Creator** ni tanlang
-3. Kategoriya tanlang va tasdiqlang
+Instagram API faqat **Business** yoki **Creator** akkauntlar uchun ishlaydi. Shaxsiy akkauntlarni ulash mumkin emas.
 
-> Oddiy (Personal) account Replai-ga ulanmaydi. Faqat **Business** yoki **Creator** account ishlaydi.
+### Qadam 1: Instagram profilini oching
 
-### Instagram-ni Facebook Page-ga ulang
+Telefoningizda **Instagram** ilovasini oching. Profil sahifasida yuqori o'ng burchakdagi **☰ menyu** belgisini bosing.
 
-1. Facebook-da **Page** yarating (agar yo'q bo'lsa)
-2. Facebook Page → **Settings** → **Linked Accounts** → **Instagram** bo'limiga o'ting
-3. Instagram accountingizga login qilib ulang
+![Instagram ochish](/images/instagram/01-open-instagram.png)
+
+### Qadam 2: Akkaunt turi va instrumentlarga o'ting
+
+Sozlamalar menyusida **Akkaunt turi va instrumentlar** bo'limini toping va bosing.
+
+![Sozlamalar](/images/instagram/02-open-settings.png)
+
+### Qadam 3: Professional akkauntga o'tish
+
+**Professional akkauntga o'tish** tugmasini bosing.
+
+![Professional akkauntga o'tish](/images/instagram/03-switch-professional.png)
+
+### Qadam 4: Davom etish
+
+Professional akkauntning afzalliklari ko'rsatiladi. **Keyingi** tugmasini bosing.
+
+![Davom etish](/images/instagram/04-switch-professional-page.png)
+
+### Qadam 5: Kategoriya tanlash
+
+Akkauntingizga mos kategoriyani qidiring va tanlang. So'ng **Professional akkauntga o'tish** tugmasini bosing.
+
+![Kategoriya tanlash](/images/instagram/05-choose-business.png)
+
+### Qadam 6: Biznes tanlash
+
+Akkaunt turi sifatida **Biznes** ni tanlang va **Keyingi** tugmasini bosing.
+
+![Biznes tanlash](/images/instagram/06-select-category.png)
+
+### Qadam 7: Kontakt ma'lumotlarini tekshirish
+
+Kontakt ma'lumotlaringizni tekshiring. Tahrirlashingiz yoki o'tkazib yuborishingiz mumkin. **Keyingi** ni bosing.
+
+![Kontakt ma'lumotlari](/images/instagram/07-check-contact-information.png)
+
+### Qadam 8: Facebook Page ulashni o'tkazib yuboring
+
+Facebook Page ulash taklif qilinadi. Hozircha **O'tkazib yuborish** ni bosing — buni keyinroq kompyuterdan qilamiz.
+
+![O'tkazib yuborish](/images/instagram/08-preprocess-professional-account.png)
+
+### Qadam 9: Sozlashni yakunlash
+
+Professional akkaunt uchun sozlash takliflari ko'rsatiladi. Ularni ko'rishingiz yoki **✕** tugmasini bosib yopishingiz mumkin.
+
+![Sozlashni yakunlash](/images/instagram/09-last-step-switch-professional-account.png)
+
+### Qadam 10: Professional akkaunt tayyor
+
+Profilingizda endi **Professional panel** ko'rinadi. Akkauntingiz muvaffaqiyatli o'tkazildi!
+
+![Professional akkaunt](/images/instagram/10-switch-professional-account.png)
+
+> Bu bepul va bir daqiqadan kam vaqt oladi.
+
+---
+
+## 2. Facebook Page yaratish
+
+Instagram API Facebook orqali ishlaydi. Instagram akkauntingizga ulangan Facebook Page kerak.
+
+1. [facebook.com/pages/create](https://facebook.com/pages/create) sahifasiga o'ting.
+2. **Page nomi** va **kategoriya** kiriting.
+3. **Page yaratish** tugmasini bosing.
+
+> Agar Facebook Page'ingiz bo'lsa, bu qadamni o'tkazib yuboring.
+
+---
+
+## 3. Instagramni Facebook Page'ga ulash
+
+1. **Facebook Page** ingizni oching.
+2. **Settings** → **Linked Accounts** → **Instagram** ga o'ting.
+3. **Connect Account** ni bosing va Instagram'ga kiring.
+4. Ulanishni tasdiqlang.
 
 > Bu qadam majburiy. Instagram API faqat Facebook Page orqali ishlaydi.
 
 ---
 
-## Qanday ulanadi?
+## 4. Instagramni Replai'ga ulash
 
-### 1-qadam: Yon paneldan hisob qo'shish
+### Qadam 1: Akkaunt qo'shish
 
-Replai boshqaruv panelining chap tarafidagi **Accounts** bo'limini toping va **+ Add account** tugmasini bosing.
+Replai dashboardida sidebar'dagi **+ Akkaunt qo'shish** tugmasini bosing.
 
-### 2-qadam: Instagram-ni tanlang
+### Qadam 2: Instagram tanlash
 
-Platformalar ro'yxatidan **Instagram**-ni tanlang.
+Qo'llab-quvvatlanadigan platformalar ro'yxatidan **Instagram** ni tanlang.
 
-### 3-qadam: Facebook orqali ruxsat berish
+### Qadam 3: Facebook orqali avtorizatsiya
 
 **Continue with Facebook** tugmasini bosing.
 
-1. **Facebook-ga login qiling**: Instagram-ga ulangan Facebook accountingiz bilan kiring.
-2. **Ruxsatlarni tasdiqlang**: So'ralgan ruxsatlarni ko'rib chiqing va **Continue** tugmasini bosing.
+1. **Facebook'ga kiring**: Instagram'ga ulangan Facebook akkauntingiz bilan kiring.
+2. **Ruxsatlarni tasdiqlang**: So'ralgan ruxsatlarni ko'rib chiqing va **Davom etish** ni bosing.
 
-### 4-qadam: Facebook Page-ni tanlang
+### Qadam 4: Facebook Page tanlash
 
-Facebook Page-laringiz ro'yxati ko'rinadi. Instagram account ulangan Page-ni tanlang va **Connect** tugmasini bosing.
+Facebook Page'laringiz ro'yxati chiqadi. Instagram akkauntingizga ulangan Page'ni tanlang va **Ulash** ni bosing.
 
-### 5-qadam: Tayyor!
+### Qadam 5: Tayyor!
 
-Instagram accountingiz muvaffaqiyatli ulandi.
+Instagram akkauntingiz muvaffaqiyatli ulandi.
 
 ---
 
-## Keyingi jarayonlar
+## Keyin nima bo'ladi
 
-Ulangandan so'ng, Replai quyidagilarni avtomatik boshlaydi:
+Ulangandan so'ng, Replai avtomatik ravishda quyidagi jarayonlarni boshlaydi:
 
-1. **Postlarni sinxronlash** — Instagram postlaringiz Replai dashboard-da ko'rinadi.
-2. **Commentlarni kuzatish** — Tizim har 5 daqiqada yangi commentlarni tekshiradi.
-3. **AI tavsiyalari** — Replai post kontekstidan kelib chiqib, javob variantlarini tayyorlaydi.
+1. **Post sinxronlash** — Instagram postlaringiz Replai dashboardida paydo bo'ladi.
+2. **Izoh monitoring** — Tizim har 5 daqiqada yangi izohlarni tekshiradi.
+3. **AI taklif tizimi** — Replai post kontekstiga asoslangan javob takliflarini yaratadi.
 
 ---
 
 ## Sozlamalar
 
-Account xatti-harakatini **Account Settings** bo'limida sozlashingiz mumkin:
+Akkaunt xatti-harakatlarini **Akkaunt sozlamalari** da sozlang:
 
 ### Avtomatik javob sozlamalari
-* **Enable auto-reply**: Ishonch darajangizga mos keladigan AI javoblarini avtomatik joylashtirish.
-* **Review before posting**: Javoblarni e'lon qilishdan oldin qo'lda tasdiqlash uchun ushlab turish.
+* **Avtomatik javobni yoqish**: Ishonch ballingizga mos AI javoblarini avtomatik joylash.
+* **Joylashdan oldin tekshirish**: Javoblarni jonli efirga chiqishdan oldin qo'lda tasdiqlash uchun ushlab turish.
 
-### Comment filtrlari
-* **Comment Filter**: Barcha commentlarni yoki faqat javob berilmaganlarini sinxronlash.
+### Izoh filtrlari
+* **Izoh filtri**: Barcha izohlarni yoki faqat javobsizlarni sinxronlash.
 
 ---
 
-## Muammolarni bartaraf etish
+## Muammolarni hal qilish
 
-### "Instagram account ko'rinmayapti"
-**Muammo:** Account tanlash oynasida Instagram ko'rinmaydi.
-**Yechim:** Instagram accountingiz **Business** yoki **Creator** ekanligini va **Facebook Page**-ga ulangan ekanligini tekshiring. Har ikkala account bitta shaxsga tegishli bo'lishi kerak.
+### "Instagram akkaunt ko'rinmayapti"
+**Muammo:** Instagram akkaunt tanlash oynasida ko'rinmayapti.
+**Yechim:** Instagram akkauntingiz **Business** yoki **Creator** ekanligini va **Facebook Page'ga ulangan** ekanligini tekshiring. Ikkala akkaunt bir shaxsga tegishli bo'lishi kerak.
 
-### "Commentlar kelmayapti"
-**Muammo:** Dashboard-da commentlar ko'rinmaydi.
-**Yechim:** Commentlar har **5 daqiqa**-da sinxronlanadi. Biroz kuting. Postda hech qanday comment bo'lmasa, bo'sh ko'rinadi.
+### "Izohlar ko'rinmayapti"
+**Muammo:** Dashboardda izohlar ko'rinmayapti.
+**Yechim:** Izohlar har **5 daqiqada** sinxronlanadi. Biroz kuting. Agar postda izoh bo'lmasa, bo'sh ko'rinadi.
 
-### "Token muddati tugagan"
-**Muammo:** Sessiya muddati tugagan yoki ruxsatlar bekor qilingan.
-**Yechim:** Account Settings-da **Disconnect** tugmasini bosing va qaytadan ulash jarayonini boshlang.
+### "Yaroqsiz yoki muddati o'tgan token"
+**Muammo:** Sessiyangiz tugagan yoki ruxsatlar bekor qilingan.
+**Yechim:** Akkaunt sozlamalarida **Uzish** ni bosing va ulash jarayonini qaytadan bajaring.
 
 ---
 
 ## Maxfiylik va xavfsizlik
 
-* **Parol talab qilinmaydi**: Biz rasmiy Facebook OAuth-dan foydalanamiz. Parolingizni hech qachon ko'rmaymiz.
+* **Parolsiz**: Biz rasmiy Facebook OAuth ishlatamiz. Parolingizni hech qachon ko'rmaymiz.
 * **Cheklangan kirish**: Replai faqat Instagram ma'lumotlariga kiradi. Boshqa Facebook ma'lumotlaringizga kira olmaymiz.
-* **Bekor qilish mumkin**: Replai-ning kirishini istalgan vaqtda Facebook Settings orqali bekor qilishingiz mumkin.
+* **Bekor qilish mumkin**: Replai'ning kirishini istalgan vaqtda Facebook sozlamalari orqali olib tashlashingiz mumkin.
 
 ---
 
 ## Ko'p so'raladigan savollar
 
-**Bir nechta Instagram account ulash mumkinmi?**
-Ha! Har bir account uchun "Add Account" jarayonini takrorlang.
+**S: Bir nechta Instagram akkaunt ulash mumkinmi?**
+J: Ha! Har bir akkaunt uchun "Akkaunt qo'shish" jarayonini takrorlang.
 
-**Video postlar ko'rinadimi?**
-Ha, video postlar ham ko'rinadi, lekin yuklanishi biroz ko'proq vaqt olishi mumkin.
+**S: Video postlar qo'llab-quvvatlanadimi?**
+J: Ha, video postlar qo'llab-quvvatlanadi, lekin yuklash biroz ko'proq vaqt olishi mumkin.
 
-**Account-ni uzish (disconnect) qanday?**
-Settings → account yonidagi **Disconnect** tugmasini bosing.
+**S: Akkauntni qanday uzish mumkin?**
+J: Sozlamalarga o'ting va akkaunt yonidagi **Uzish** tugmasini bosing.
 
 ---
 
 ## Cheklovlar
 
-- **API cheklovi**: Instagram API orqali faqat Business va Creator accountlar uchun commentlarni boshqarish mumkin.
-- **Story commentlari**: Instagram Story-lariga kelgan javoblar API orqali ko'rinmaydi.
-- **Sinxronlash vaqti**: Commentlar har 5 daqiqada sinxronlanadi, real-time emas.
+- **API cheklovi**: Instagram API orqali faqat Business va Creator akkauntlar izohlarni boshqarishi mumkin.
+- **Story javoblari**: Instagram Stories'ga javoblar API orqali mavjud emas.
+- **Sinxronlash oraligi**: Izohlar har 5 daqiqada sinxronlanadi, real vaqtda emas.

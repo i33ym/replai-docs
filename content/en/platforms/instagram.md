@@ -1,44 +1,117 @@
 ---
 title: "Instagram"
-description: "Connect your Instagram account to Replai in a few simple steps"
+description: "Connect your Instagram business account to manage comments with AI"
 weight: 10
 ---
 
 ## Overview
 
-Connect your Instagram Business or Creator account to Replai to manage comments on your posts with AI and improve audience engagement.
+Connect your Instagram Business or Creator account to Replai to automatically sync posts, manage comments with AI, and engage with your audience — all from one dashboard.
 
 ---
 
-## Prerequisites (One-Time Setup)
+## Before You Start
 
-Before connecting Instagram to Replai, complete these two requirements:
+Before connecting Instagram to Replai, make sure the following requirements are met:
 
-### Switch Instagram to a Professional Account
+---
 
-In the Instagram app:
+## 1. Switch to a Professional Account
 
-1. Go to **Settings** → **Account** → **Switch to Professional Account**
-2. Choose **Business** or **Creator**
-3. Select a category and confirm
+Instagram only allows API access for **Business** or **Creator** accounts. Personal accounts cannot be connected.
 
-> A Personal account cannot connect to Replai. Only **Business** or **Creator** accounts are supported.
+### Step 1: Open Instagram Profile
 
-### Link Instagram to a Facebook Page
+Open the **Instagram app** on your phone. Tap the **☰ menu** icon in the top-right corner of your profile.
 
-1. Create a Facebook **Page** (if you don't have one)
-2. Go to Facebook Page → **Settings** → **Linked Accounts** → **Instagram**
-3. Log in to your Instagram account and link it
+![Open Instagram](/images/instagram/01-open-instagram.png)
+
+### Step 2: Go to Account Type & Tools
+
+In the Settings menu, find the **Account type and tools** section and tap on it.
+
+![Open Settings](/images/instagram/02-open-settings.png)
+
+### Step 3: Switch to Professional Account
+
+Tap **Switch to professional account** to begin the process.
+
+![Switch to Professional](/images/instagram/03-switch-professional.png)
+
+### Step 4: Continue
+
+You'll see the benefits of a professional account. Tap **Next** to continue.
+
+![Continue](/images/instagram/04-switch-professional-page.png)
+
+### Step 5: Choose a Category
+
+Search and select a category that best describes your account. Then tap **Switch to professional account**.
+
+![Choose Category](/images/instagram/05-choose-business.png)
+
+### Step 6: Select Business
+
+Choose **Business** as your account type and tap **Next**.
+
+![Select Business](/images/instagram/06-select-category.png)
+
+### Step 7: Review Contact Information
+
+Review your contact information. You can edit or skip this step. Tap **Next** to continue.
+
+![Contact Information](/images/instagram/07-check-contact-information.png)
+
+### Step 8: Skip Facebook Page Connection
+
+You'll be asked to connect a Facebook Page. Tap **Skip** for now — we'll do this from a computer later.
+
+![Skip Facebook](/images/instagram/08-preprocess-professional-account.png)
+
+### Step 9: Complete Setup
+
+You'll see setup suggestions for your professional account. You can explore them or tap **✕** to close.
+
+![Complete Setup](/images/instagram/09-last-step-switch-professional-account.png)
+
+### Step 10: Professional Account Ready
+
+Your profile now shows **Professional dashboard**. Your account has been successfully switched!
+
+![Professional Account](/images/instagram/10-switch-professional-account.png)
+
+> This is free and takes less than a minute.
+
+---
+
+## 2. Create a Facebook Page
+
+Instagram's API works through Facebook. You need a Facebook Page linked to your Instagram account.
+
+1. Go to [facebook.com/pages/create](https://facebook.com/pages/create).
+2. Enter a **Page name** and **category**.
+3. Click **Create Page**.
+
+> If you already have a Facebook Page, skip this step.
+
+---
+
+## 3. Link Instagram to Your Facebook Page
+
+1. Open your **Facebook Page**.
+2. Go to **Settings** → **Linked Accounts** → **Instagram**.
+3. Click **Connect Account** and log in to your Instagram.
+4. Confirm the connection.
 
 > This step is required. The Instagram API only works through a Facebook Page.
 
 ---
 
-## How to Connect
+## 4. Connect Instagram to Replai
 
-### Step 1: Add Account from Sidebar
+### Step 1: Add Account
 
-In the Replai dashboard, locate the **Accounts** section on the left-hand sidebar. Click the **+ Add account** button.
+In the Replai dashboard, click the **+ Add account** button in the sidebar.
 
 ### Step 2: Select Instagram
 
@@ -46,7 +119,7 @@ Select **Instagram** from the list of supported platforms.
 
 ### Step 3: Authorize via Facebook
 
-Click the **Continue with Facebook** button.
+Click **Continue with Facebook**.
 
 1. **Log in to Facebook**: Sign in with the Facebook account linked to your Instagram.
 2. **Confirm Permissions**: Review the requested permissions and click **Continue**.
