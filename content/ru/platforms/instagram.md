@@ -24,61 +24,61 @@ Instagram разрешает доступ к API только для аккау�
 
 Откройте приложение **Instagram** на телефоне. Нажмите на иконку **☰ меню** в правом верхнем углу профиля.
 
-![Открыть Instagram](/images/instagram/01-open-instagram.png)
+<img src="/images/instagram/01-open-instagram.png" alt="Открыть Instagram" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 2: Перейдите в тип аккаунта и инструменты
 
 В меню настроек найдите раздел **Тип аккаунта и инструменты** и нажмите на него.
 
-![Настройки](/images/instagram/02-open-settings.png)
+<img src="/images/instagram/02-open-settings.png" alt="Настройки" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 3: Переключиться на профессиональный аккаунт
 
 Нажмите **Переключиться на профессиональный аккаунт**.
 
-![Переключиться](/images/instagram/03-switch-professional.png)
+<img src="/images/instagram/03-switch-professional.png" alt="Переключиться" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 4: Продолжить
 
 Вы увидите преимущества профессионального аккаунта. Нажмите **Далее** для продолжения.
 
-![Продолжить](/images/instagram/04-switch-professional-page.png)
+<img src="/images/instagram/04-switch-professional-page.png" alt="Продолжить" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 5: Выберите категорию
 
 Найдите и выберите категорию, которая лучше всего описывает ваш аккаунт. Затем нажмите **Переключиться на профессиональный аккаунт**.
 
-![Выбрать категорию](/images/instagram/05-choose-business.png)
+<img src="/images/instagram/05-choose-business.png" alt="Выбрать категорию" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 6: Выберите Бизнес
 
 Выберите **Бизнес** в качестве типа аккаунта и нажмите **Далее**.
 
-![Выбрать Бизнес](/images/instagram/06-select-category.png)
+<img src="/images/instagram/06-select-category.png" alt="Выбрать Бизнес" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 7: Проверьте контактную информацию
 
 Проверьте контактную информацию. Вы можете отредактировать её или пропустить. Нажмите **Далее**.
 
-![Контактная информация](/images/instagram/07-check-contact-information.png)
+<img src="/images/instagram/07-check-contact-information.png" alt="Контактная информация" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 8: Пропустите подключение Facebook Page
 
 Вам будет предложено подключить Facebook Page. Нажмите **Пропустить** — мы сделаем это позже с компьютера.
 
-![Пропустить](/images/instagram/08-preprocess-professional-account.png)
+<img src="/images/instagram/08-preprocess-professional-account.png" alt="Пропустить" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 9: Завершение настройки
 
 Появятся предложения по настройке профессионального аккаунта. Вы можете изучить их или нажать **✕** для закрытия.
 
-![Завершение](/images/instagram/09-last-step-switch-professional-account.png)
+<img src="/images/instagram/09-last-step-switch-professional-account.png" alt="Завершение" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Шаг 10: Профессиональный аккаунт готов
 
 В вашем профиле теперь отображается **Профессиональная панель**. Аккаунт успешно переключён!
 
-![Профессиональный аккаунт](/images/instagram/10-switch-professional-account.png)
+<img src="/images/instagram/10-switch-professional-account.png" alt="Профессиональный аккаунт" style="max-width:300px;width:100%;border-radius:8px;" />
 
 > Это бесплатно и занимает менее минуты.
 
