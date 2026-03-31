@@ -21,3 +21,27 @@ other = "Правовая информация"
 
 [dataDeletionInstructions]
 other = "Удаление данных"
+
+[heroDescription]
+other = "Управление комментариями в социальных сетях с помощью ИИ. Автоматизируйте ответы, отслеживайте вовлечённость и масштабируйте поддержку."
+
+[getStarted]
+other = "Начать"
+
+[supportedPlatforms]
+other = "Поддерживаемые платформы"
+
+[documentation]
+other = "Документация"
+
+[gettingStartedTitle]
+other = "Начало работы"
+
+[gettingStartedDesc]
+other = "Настройте аккаунт, подключите платформы и настройте ответы на основе ИИ."
+
+[platformsTitle]
+other = "Платформы"
+
+[platformsDesc]
+other = "Руководства по настройке Instagram, Facebook, YouTube, Telegram и магазинов приложений."

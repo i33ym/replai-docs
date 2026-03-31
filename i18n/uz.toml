@@ -20,4 +20,28 @@ other = "Foydalanish shartlari"
 other = "Huquqiy"
 
 [dataDeletionInstructions]
-other = "Ma’lumotlarni o‘chirish"
+other = "Ma’lumotlarni o’chirish"
+
+[heroDescription]
+other = "Ijtimoiy tarmoqlar uchun AI bilan izohlarni boshqarish platformasi. Javoblarni avtomatlashtiring, faollikni kuzating va qo’llab-quvvatlashni kengaytiring."
+
+[getStarted]
+other = "Boshlash"
+
+[supportedPlatforms]
+other = "Qo’llab-quvvatlanadigan platformalar"
+
+[documentation]
+other = "Hujjatlar"
+
+[gettingStartedTitle]
+other = "Boshlash"
+
+[gettingStartedDesc]
+other = "Akkauntingizni sozlang, platformalarni ulang va AI javoblarini sozlang."
+
+[platformsTitle]
+other = "Platformalar"
+
+[platformsDesc]
+other = "Instagram, Facebook, YouTube, Telegram va ilovalar do’konlari uchun alohida sozlash qo’llanmalari."
