@@ -214,27 +214,7 @@ Instagram akkauntingiz Facebook Page'ga ulandi. Ulanish tafsilotlarini shu sahif
 
 ## 4. Instagramni Replai'ga ulash
 
-### Qadam 1: Akkaunt qo'shish
-
-Replai dashboardida sidebar'dagi **+ Akkaunt qo'shish** tugmasini bosing.
-
-<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Akkaunt qo'shish" style="max-width:100%;border-radius:8px;" />
-
-### Qadam 2: Instagram tanlash
-
-Platformalar ro'yxatidan **Instagram** ni tanlang.
-
-<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Instagram tanlash" style="max-width:100%;border-radius:8px;" />
-
-### Qadam 3: Ruxsatlarni berish
-
-Barcha kerakli ruxsatlarni yoqing va **Allow** tugmasini bosing.
-
-<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Ruxsatlar" style="max-width:100%;border-radius:8px;" />
-
-### Qadam 4: Tayyor!
-
-Instagram akkauntingiz Replai'ga muvaffaqiyatli ulandi.
+> Bu bo'lim tez orada qo'shiladi. Replai integratsiyasi hozirda yakunlanmoqda.
 
 ---
 

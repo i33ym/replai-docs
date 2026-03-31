@@ -214,27 +214,7 @@ API Instagram работает через Facebook. Вам нужна Facebook P
 
 ## 4. Подключите Instagram к Replai
 
-### Шаг 1: Добавить аккаунт
-
-В панели Replai нажмите кнопку **+ Добавить аккаунт** в боковом меню.
-
-<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Добавить аккаунт" style="max-width:100%;border-radius:8px;" />
-
-### Шаг 2: Выберите Instagram
-
-Выберите **Instagram** из списка платформ.
-
-<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Выбрать Instagram" style="max-width:100%;border-radius:8px;" />
-
-### Шаг 3: Разрешите доступ
-
-Включите все необходимые разрешения и нажмите **Allow**.
-
-<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Разрешения" style="max-width:100%;border-radius:8px;" />
-
-### Шаг 4: Готово!
-
-Ваш Instagram аккаунт успешно подключён к Replai.
+> Этот раздел скоро будет доступен. Интеграция с Replai в процессе завершения.
 
 ---
 

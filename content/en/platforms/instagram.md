@@ -214,27 +214,7 @@ Your Instagram account is now linked to your Facebook Page. You can see the conn
 
 ## 4. Connect Instagram to Replai
 
-### Step 1: Add Account
-
-In the Replai dashboard, click the **+ Add account** button in the sidebar.
-
-<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Add Account" style="max-width:100%;border-radius:8px;" />
-
-### Step 2: Select Instagram
-
-Select **Instagram** from the list of supported platforms.
-
-<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Select Instagram" style="max-width:100%;border-radius:8px;" />
-
-### Step 3: Allow Permissions
-
-Review and enable all required permissions, then click **Allow**.
-
-<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Allow Permissions" style="max-width:100%;border-radius:8px;" />
-
-### Step 4: Done!
-
-Your Instagram account is now successfully connected to Replai.
+> This section will be available soon. The Replai integration is currently being finalized.
 
 ---
 
