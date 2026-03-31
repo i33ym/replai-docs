@@ -24,61 +24,61 @@ Instagram API faqat **Business** yoki **Creator** akkauntlar uchun ishlaydi. Sha
 
 Telefoningizda **Instagram** ilovasini oching. Profil sahifasida yuqori o'ng burchakdagi **☰ menyu** belgisini bosing.
 
-![Instagram ochish](/images/instagram/01-open-instagram.png)
+<img src="/images/instagram/01-open-instagram.png" alt="Instagram ochish" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 2: Akkaunt turi va instrumentlarga o'ting
 
 Sozlamalar menyusida **Akkaunt turi va instrumentlar** bo'limini toping va bosing.
 
-![Sozlamalar](/images/instagram/02-open-settings.png)
+<img src="/images/instagram/02-open-settings.png" alt="Sozlamalar" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 3: Professional akkauntga o'tish
 
 **Professional akkauntga o'tish** tugmasini bosing.
 
-![Professional akkauntga o'tish](/images/instagram/03-switch-professional.png)
+<img src="/images/instagram/03-switch-professional.png" alt="Professional akkauntga o'tish" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 4: Davom etish
 
 Professional akkauntning afzalliklari ko'rsatiladi. **Keyingi** tugmasini bosing.
 
-![Davom etish](/images/instagram/04-switch-professional-page.png)
+<img src="/images/instagram/04-switch-professional-page.png" alt="Davom etish" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 5: Kategoriya tanlash
 
 Akkauntingizga mos kategoriyani qidiring va tanlang. So'ng **Professional akkauntga o'tish** tugmasini bosing.
 
-![Kategoriya tanlash](/images/instagram/05-choose-business.png)
+<img src="/images/instagram/05-choose-business.png" alt="Kategoriya tanlash" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 6: Biznes tanlash
 
 Akkaunt turi sifatida **Biznes** ni tanlang va **Keyingi** tugmasini bosing.
 
-![Biznes tanlash](/images/instagram/06-select-category.png)
+<img src="/images/instagram/06-select-category.png" alt="Biznes tanlash" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 7: Kontakt ma'lumotlarini tekshirish
 
 Kontakt ma'lumotlaringizni tekshiring. Tahrirlashingiz yoki o'tkazib yuborishingiz mumkin. **Keyingi** ni bosing.
 
-![Kontakt ma'lumotlari](/images/instagram/07-check-contact-information.png)
+<img src="/images/instagram/07-check-contact-information.png" alt="Kontakt ma'lumotlari" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 8: Facebook Page ulashni o'tkazib yuboring
 
 Facebook Page ulash taklif qilinadi. Hozircha **O'tkazib yuborish** ni bosing — buni keyinroq kompyuterdan qilamiz.
 
-![O'tkazib yuborish](/images/instagram/08-preprocess-professional-account.png)
+<img src="/images/instagram/08-preprocess-professional-account.png" alt="O'tkazib yuborish" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 9: Sozlashni yakunlash
 
 Professional akkaunt uchun sozlash takliflari ko'rsatiladi. Ularni ko'rishingiz yoki **✕** tugmasini bosib yopishingiz mumkin.
 
-![Sozlashni yakunlash](/images/instagram/09-last-step-switch-professional-account.png)
+<img src="/images/instagram/09-last-step-switch-professional-account.png" alt="Sozlashni yakunlash" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Qadam 10: Professional akkaunt tayyor
 
 Profilingizda endi **Professional panel** ko'rinadi. Akkauntingiz muvaffaqiyatli o'tkazildi!
 
-![Professional akkaunt](/images/instagram/10-switch-professional-account.png)
+<img src="/images/instagram/10-switch-professional-account.png" alt="Professional akkaunt" style="max-width:300px;width:100%;border-radius:8px;" />
 
 > Bu bepul va bir daqiqadan kam vaqt oladi.
 

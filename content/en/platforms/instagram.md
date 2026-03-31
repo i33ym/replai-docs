@@ -24,61 +24,61 @@ Instagram only allows API access for **Business** or **Creator** accounts. Perso
 
 Open the **Instagram app** on your phone. Tap the **☰ menu** icon in the top-right corner of your profile.
 
-![Open Instagram](/images/instagram/01-open-instagram.png)
+<img src="/images/instagram/01-open-instagram.png" alt="Open Instagram" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 2: Go to Account Type & Tools
 
 In the Settings menu, find the **Account type and tools** section and tap on it.
 
-![Open Settings](/images/instagram/02-open-settings.png)
+<img src="/images/instagram/02-open-settings.png" alt="Open Settings" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 3: Switch to Professional Account
 
 Tap **Switch to professional account** to begin the process.
 
-![Switch to Professional](/images/instagram/03-switch-professional.png)
+<img src="/images/instagram/03-switch-professional.png" alt="Switch to Professional" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 4: Continue
 
 You'll see the benefits of a professional account. Tap **Next** to continue.
 
-![Continue](/images/instagram/04-switch-professional-page.png)
+<img src="/images/instagram/04-switch-professional-page.png" alt="Continue" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 5: Choose a Category
 
 Search and select a category that best describes your account. Then tap **Switch to professional account**.
 
-![Choose Category](/images/instagram/05-choose-business.png)
+<img src="/images/instagram/05-choose-business.png" alt="Choose Category" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 6: Select Business
 
 Choose **Business** as your account type and tap **Next**.
 
-![Select Business](/images/instagram/06-select-category.png)
+<img src="/images/instagram/06-select-category.png" alt="Select Business" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 7: Review Contact Information
 
 Review your contact information. You can edit or skip this step. Tap **Next** to continue.
 
-![Contact Information](/images/instagram/07-check-contact-information.png)
+<img src="/images/instagram/07-check-contact-information.png" alt="Contact Information" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 8: Skip Facebook Page Connection
 
 You'll be asked to connect a Facebook Page. Tap **Skip** for now — we'll do this from a computer later.
 
-![Skip Facebook](/images/instagram/08-preprocess-professional-account.png)
+<img src="/images/instagram/08-preprocess-professional-account.png" alt="Skip Facebook" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 9: Complete Setup
 
 You'll see setup suggestions for your professional account. You can explore them or tap **✕** to close.
 
-![Complete Setup](/images/instagram/09-last-step-switch-professional-account.png)
+<img src="/images/instagram/09-last-step-switch-professional-account.png" alt="Complete Setup" style="max-width:300px;width:100%;border-radius:8px;" />
 
 ### Step 10: Professional Account Ready
 
 Your profile now shows **Professional dashboard**. Your account has been successfully switched!
 
-![Professional Account](/images/instagram/10-switch-professional-account.png)
+<img src="/images/instagram/10-switch-professional-account.png" alt="Professional Account" style="max-width:300px;width:100%;border-radius:8px;" />
 
 > This is free and takes less than a minute.
 
