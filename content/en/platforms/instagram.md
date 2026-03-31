@@ -89,6 +89,9 @@ Your profile now shows **Professional dashboard**. Your account has been success
 Instagram's API works through Facebook. You need a Facebook Page linked to your Instagram account.
 
 1. Go to [facebook.com/pages/create](https://facebook.com/pages/create).
+
+<img src="/images/instagram/11-facebook-create-page.png" alt="Create new facebook business page" style="max-width:300px;width:100%;border-radius:8px;" />
+
 2. Enter a **Page name** and **category**.
 3. Click **Create Page**.
 
