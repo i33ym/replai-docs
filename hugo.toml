@@ -4,6 +4,9 @@ title = 'Replai Docs'
 theme = "hugo-noir"
 defaultContentLanguage = "en"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [taxonomies]
   category = "categories"
   tag = "tags"
