@@ -88,23 +88,125 @@ Your profile now shows **Professional dashboard**. Your account has been success
 
 Instagram's API works through Facebook. You need a Facebook Page linked to your Instagram account.
 
-1. Go to [facebook.com/pages/create](https://facebook.com/pages/create).
+### Step 1: Open Create Page
 
-<img src="/images/instagram/11-facebook-create-page.png" alt="Create new facebook business page"/>
+Go to [facebook.com/pages/create](https://facebook.com/pages/create). Enter a **Page name**, select a **Category**, and add a description. Then click **Create Page**.
 
-2. Enter a **Page name** and **category**.
-3. Click **Create Page**.
+<img src="/images/instagram/11-facebook-create-page.png" alt="Create Facebook Page" style="max-width:100%;border-radius:8px;" />
 
-> If you already have a Facebook Page, skip this step.
+### Step 2: Finish Setting Up Your Page
+
+Fill in your **contact information**, **location**, and **business hours**. Click **Next** to continue.
+
+<img src="/images/instagram/12-finish-setting-up-facebook-page.png" alt="Finish Setting Up" style="max-width:100%;border-radius:8px;" />
+
+### Step 3: Customise Your Page
+
+Add a **Profile Picture** and **Cover Photo** for your Page. Click **Next** to continue.
+
+<img src="/images/instagram/13-customise-facebook-page.png" alt="Customise Page" style="max-width:100%;border-radius:8px;" />
+
+### Step 4: Connect WhatsApp (Optional)
+
+You can connect your WhatsApp number or click **Skip** to skip this step.
+
+<img src="/images/instagram/14-connect-whatsapp-facebook-page 2.png" alt="Connect WhatsApp" style="max-width:100%;border-radius:8px;" />
+
+### Step 5: Invite Friends (Optional)
+
+You can invite friends to like your Page or click **Next** to skip.
+
+<img src="/images/instagram/15-build-facebook-page-audience.png" alt="Build Audience" style="max-width:100%;border-radius:8px;" />
+
+### Step 6: Stay Informed
+
+Configure your notification preferences and click **Done** to finish creating your Page.
+
+<img src="/images/instagram/16-stay-informed-about-facebook-page.png" alt="Stay Informed" style="max-width:100%;border-radius:8px;" />
+
+### Step 7: Facebook Page Created
+
+Your new Facebook Business Page is now ready!
+
+<img src="/images/instagram/17-new-facebook-business-page.png" alt="New Business Page" style="max-width:100%;border-radius:8px;" />
+
+> If you already have a Facebook Page, skip to the next section.
 
 ---
 
 ## 3. Link Instagram to Your Facebook Page
 
-1. Open your **Facebook Page**.
-2. Go to **Settings** → **Linked Accounts** → **Instagram**.
-3. Click **Connect Account** and log in to your Instagram.
-4. Confirm the connection.
+### Step 1: Open Professional Dashboard
+
+On your Facebook Page, click **Professional dashboard** in the left sidebar.
+
+<img src="/images/instagram/18-open-professional-dashboard.png" alt="Professional Dashboard" style="max-width:100%;border-radius:8px;" />
+
+### Step 2: Go to Linked Accounts
+
+In the Professional Dashboard, find **Linked accounts** on the right side and click on it.
+
+<img src="/images/instagram/19-connect-instagram-account-to-facebook-business-page.png" alt="Linked Accounts" style="max-width:100%;border-radius:8px;" />
+
+### Step 3: Select Instagram
+
+You'll see the **Settings & privacy** page. Click on **Instagram** (shown as "Not connected").
+
+<img src="/images/instagram/20-connect-instagram-to-facebook-page-continue.png" alt="Select Instagram" style="max-width:100%;border-radius:8px;" />
+
+### Step 4: Connect Account
+
+Click the **Connect Account** button to begin linking your Instagram.
+
+<img src="/images/instagram/21-connect-instagram-to-facebook-page.png" alt="Connect Account" style="max-width:100%;border-radius:8px;" />
+
+### Step 5: Confirm Connection
+
+A popup will appear showing what access will be shared between Facebook and Instagram. Click **Connect** to confirm.
+
+<img src="/images/instagram/22-connect-instagram.png" alt="Confirm Connection" style="max-width:100%;border-radius:8px;" />
+
+### Step 6: Allow Instagram Messages
+
+Choose your Instagram message settings and click **Continue**.
+
+<img src="/images/instagram/23-connect-instagram-continue.png" alt="Instagram Messages" style="max-width:100%;border-radius:8px;" />
+
+### Step 7: Log in to Instagram
+
+Enter your **Instagram username** and **password**, then click **Log in**.
+
+<img src="/images/instagram/24-instagram-login-page.png" alt="Instagram Login" style="max-width:100%;border-radius:8px;" />
+
+### Step 8: Save Login Info
+
+You'll be asked to save your login info. Click **Save info** or **Not now**.
+
+<img src="/images/instagram/25-instagram-login-continue.png" alt="Save Login" style="max-width:100%;border-radius:8px;" />
+
+### Step 9: Confirm Instagram Account
+
+Confirm your Instagram account by clicking **Log in as (your username)**.
+
+<img src="/images/instagram/26-instagram-login.png" alt="Confirm Account" style="max-width:100%;border-radius:8px;" />
+
+### Step 10: Add to Business Portfolio
+
+A popup will show your business portfolio details. Click **Continue** to proceed.
+
+<img src="/images/instagram/27-connect-instagram-to-facebook-page.png" alt="Business Portfolio" style="max-width:100%;border-radius:8px;" />
+
+### Step 11: Instagram Connected!
+
+You'll see a success message: **"Instagram connected"**. Click **Done**.
+
+<img src="/images/instagram/28-instagram-business-page-connected.png" alt="Instagram Connected" style="max-width:100%;border-radius:8px;" />
+
+### Step 12: Connection Complete
+
+Your Instagram account is now linked to your Facebook Page. You can see the connection details on this page.
+
+<img src="/images/instagram/29-connected-instagram.png" alt="Connection Complete" style="max-width:100%;border-radius:8px;" />
 
 > This step is required. The Instagram API only works through a Facebook Page.
 
@@ -116,24 +218,23 @@ Instagram's API works through Facebook. You need a Facebook Page linked to your 
 
 In the Replai dashboard, click the **+ Add account** button in the sidebar.
 
+<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Add Account" style="max-width:100%;border-radius:8px;" />
+
 ### Step 2: Select Instagram
 
 Select **Instagram** from the list of supported platforms.
 
-### Step 3: Authorize via Facebook
+<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Select Instagram" style="max-width:100%;border-radius:8px;" />
 
-Click **Continue with Facebook**.
+### Step 3: Allow Permissions
 
-1. **Log in to Facebook**: Sign in with the Facebook account linked to your Instagram.
-2. **Confirm Permissions**: Review the requested permissions and click **Continue**.
+Review and enable all required permissions, then click **Allow**.
 
-### Step 4: Select Your Facebook Page
+<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Allow Permissions" style="max-width:100%;border-radius:8px;" />
 
-A list of your Facebook Pages will appear. Select the Page linked to your Instagram account and click **Connect**.
+### Step 4: Done!
 
-### Step 5: Done!
-
-Your Instagram account is now successfully connected.
+Your Instagram account is now successfully connected to Replai.
 
 ---
 

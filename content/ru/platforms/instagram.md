@@ -88,20 +88,125 @@ Instagram разрешает доступ к API только для аккау�
 
 API Instagram работает через Facebook. Вам нужна Facebook Page, привязанная к вашему аккаунту Instagram.
 
-1. Перейдите на [facebook.com/pages/create](https://facebook.com/pages/create).
-2. Введите **название страницы** и **категорию**.
-3. Нажмите **Создать страницу**.
+### Шаг 1: Откройте страницу создания
 
-> Если у вас уже есть Facebook Page, пропустите этот шаг.
+Перейдите на [facebook.com/pages/create](https://facebook.com/pages/create). Введите **название страницы**, выберите **категорию** и добавьте описание. Нажмите **Create Page**.
+
+<img src="/images/instagram/11-facebook-create-page.png" alt="Создать Facebook Page" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 2: Завершите настройку страницы
+
+Заполните **контактные данные**, **местоположение** и **часы работы**. Нажмите **Next**.
+
+<img src="/images/instagram/12-finish-setting-up-facebook-page.png" alt="Завершить настройку" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 3: Настройте страницу
+
+Добавьте **фото профиля** и **обложку**. Нажмите **Next**.
+
+<img src="/images/instagram/13-customise-facebook-page.png" alt="Настроить страницу" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 4: Подключение WhatsApp (необязательно)
+
+Вы можете подключить номер WhatsApp или нажать **Skip**, чтобы пропустить.
+
+<img src="/images/instagram/14-connect-whatsapp-facebook-page 2.png" alt="Подключить WhatsApp" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 5: Пригласить друзей (необязательно)
+
+Вы можете пригласить друзей или нажать **Next**, чтобы пропустить.
+
+<img src="/images/instagram/15-build-facebook-page-audience.png" alt="Пригласить друзей" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 6: Уведомления
+
+Настройте уведомления и нажмите **Done** для завершения.
+
+<img src="/images/instagram/16-stay-informed-about-facebook-page.png" alt="Уведомления" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 7: Facebook Page создана
+
+Ваша новая Facebook Business Page готова!
+
+<img src="/images/instagram/17-new-facebook-business-page.png" alt="Новая Business Page" style="max-width:100%;border-radius:8px;" />
+
+> Если у вас уже есть Facebook Page, перейдите к следующему разделу.
 
 ---
 
 ## 3. Привяжите Instagram к Facebook Page
 
-1. Откройте вашу **Facebook Page**.
-2. Перейдите в **Settings** → **Linked Accounts** → **Instagram**.
-3. Нажмите **Connect Account** и войдите в Instagram.
-4. Подтвердите подключение.
+### Шаг 1: Откройте Professional Dashboard
+
+На вашей Facebook Page нажмите **Professional dashboard** в левом меню.
+
+<img src="/images/instagram/18-open-professional-dashboard.png" alt="Professional Dashboard" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 2: Перейдите в Linked Accounts
+
+В Professional Dashboard найдите **Linked accounts** справа и нажмите на него.
+
+<img src="/images/instagram/19-connect-instagram-account-to-facebook-business-page.png" alt="Linked Accounts" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 3: Выберите Instagram
+
+Откроется страница **Settings & privacy**. Нажмите на **Instagram** ("Not connected").
+
+<img src="/images/instagram/20-connect-instagram-to-facebook-page-continue.png" alt="Выбрать Instagram" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 4: Подключить аккаунт
+
+Нажмите кнопку **Connect Account**.
+
+<img src="/images/instagram/21-connect-instagram-to-facebook-page.png" alt="Подключить аккаунт" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 5: Подтвердите подключение
+
+Появится окно с информацией о доступе между Facebook и Instagram. Нажмите **Connect**.
+
+<img src="/images/instagram/22-connect-instagram.png" alt="Подтвердить" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 6: Настройки сообщений Instagram
+
+Выберите настройки сообщений Instagram и нажмите **Continue**.
+
+<img src="/images/instagram/23-connect-instagram-continue.png" alt="Настройки сообщений" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 7: Войдите в Instagram
+
+Введите **имя пользователя** и **пароль** Instagram, затем нажмите **Log in**.
+
+<img src="/images/instagram/24-instagram-login-page.png" alt="Вход в Instagram" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 8: Сохранить данные входа
+
+Вам предложат сохранить данные входа. Нажмите **Save info** или **Not now**.
+
+<img src="/images/instagram/25-instagram-login-continue.png" alt="Сохранить данные" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 9: Подтвердите аккаунт Instagram
+
+Подтвердите аккаунт — нажмите **Log in as (ваше имя пользователя)**.
+
+<img src="/images/instagram/26-instagram-login.png" alt="Подтвердить аккаунт" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 10: Добавление в бизнес-портфолио
+
+Появится окно с деталями бизнес-портфолио. Нажмите **Continue**.
+
+<img src="/images/instagram/27-connect-instagram-to-facebook-page.png" alt="Бизнес-портфолио" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 11: Instagram подключён!
+
+Вы увидите сообщение об успехе: **"Instagram connected"**. Нажмите **Done**.
+
+<img src="/images/instagram/28-instagram-business-page-connected.png" alt="Instagram подключён" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 12: Подключение завершено
+
+Ваш Instagram аккаунт привязан к Facebook Page. Детали подключения видны на этой странице.
+
+<img src="/images/instagram/29-connected-instagram.png" alt="Подключение завершено" style="max-width:100%;border-radius:8px;" />
 
 > Этот шаг обязателен. API Instagram работает только через Facebook Page.
 
@@ -113,24 +218,23 @@ API Instagram работает через Facebook. Вам нужна Facebook P
 
 В панели Replai нажмите кнопку **+ Добавить аккаунт** в боковом меню.
 
+<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Добавить аккаунт" style="max-width:100%;border-radius:8px;" />
+
 ### Шаг 2: Выберите Instagram
 
-Выберите **Instagram** из списка поддерживаемых платформ.
+Выберите **Instagram** из списка платформ.
 
-### Шаг 3: Авторизация через Facebook
+<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Выбрать Instagram" style="max-width:100%;border-radius:8px;" />
 
-Нажмите **Continue with Facebook**.
+### Шаг 3: Разрешите доступ
 
-1. **Войдите в Facebook**: Войдите с аккаунтом Facebook, привязанным к вашему Instagram.
-2. **Подтвердите разрешения**: Просмотрите запрашиваемые разрешения и нажмите **Продолжить**.
+Включите все необходимые разрешения и нажмите **Allow**.
 
-### Шаг 4: Выберите Facebook Page
+<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Разрешения" style="max-width:100%;border-radius:8px;" />
 
-Появится список ваших Facebook Pages. Выберите страницу, привязанную к вашему Instagram, и нажмите **Подключить**.
+### Шаг 4: Готово!
 
-### Шаг 5: Готово!
-
-Ваш Instagram аккаунт успешно подключён.
+Ваш Instagram аккаунт успешно подключён к Replai.
 
 ---
 

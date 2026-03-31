@@ -88,20 +88,125 @@ Profilingizda endi **Professional panel** ko'rinadi. Akkauntingiz muvaffaqiyatli
 
 Instagram API Facebook orqali ishlaydi. Instagram akkauntingizga ulangan Facebook Page kerak.
 
-1. [facebook.com/pages/create](https://facebook.com/pages/create) sahifasiga o'ting.
-2. **Page nomi** va **kategoriya** kiriting.
-3. **Page yaratish** tugmasini bosing.
+### Qadam 1: Page yaratish sahifasini oching
 
-> Agar Facebook Page'ingiz bo'lsa, bu qadamni o'tkazib yuboring.
+[facebook.com/pages/create](https://facebook.com/pages/create) sahifasiga o'ting. **Page nomi**, **Kategoriya** va tavsifni kiriting. So'ng **Create Page** tugmasini bosing.
+
+<img src="/images/instagram/11-facebook-create-page.png" alt="Facebook Page yaratish" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 2: Page sozlamalarini yakunlash
+
+**Kontakt ma'lumotlari**, **manzil** va **ish vaqti** ni kiriting. **Next** tugmasini bosing.
+
+<img src="/images/instagram/12-finish-setting-up-facebook-page.png" alt="Sozlamalarni yakunlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 3: Page ni sozlash
+
+**Profil rasmi** va **Cover Photo** qo'shing. **Next** tugmasini bosing.
+
+<img src="/images/instagram/13-customise-facebook-page.png" alt="Page sozlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 4: WhatsApp ulash (ixtiyoriy)
+
+WhatsApp raqamingizni ulashingiz yoki **Skip** tugmasini bosib o'tkazib yuborishingiz mumkin.
+
+<img src="/images/instagram/14-connect-whatsapp-facebook-page 2.png" alt="WhatsApp ulash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 5: Do'stlarni taklif qilish (ixtiyoriy)
+
+Do'stlaringizni Page'ga taklif qilishingiz yoki **Next** ni bosib o'tkazib yuborishingiz mumkin.
+
+<img src="/images/instagram/15-build-facebook-page-audience.png" alt="Auditoriya yaratish" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 6: Xabardor bo'lish
+
+Bildirishnoma sozlamalarini belgilang va **Done** tugmasini bosib yakunlang.
+
+<img src="/images/instagram/16-stay-informed-about-facebook-page.png" alt="Xabardor bo'lish" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 7: Facebook Page tayyor
+
+Yangi Facebook Business Page'ingiz tayyor!
+
+<img src="/images/instagram/17-new-facebook-business-page.png" alt="Yangi Business Page" style="max-width:100%;border-radius:8px;" />
+
+> Agar Facebook Page'ingiz allaqachon bo'lsa, keyingi bo'limga o'ting.
 
 ---
 
 ## 3. Instagramni Facebook Page'ga ulash
 
-1. **Facebook Page** ingizni oching.
-2. **Settings** → **Linked Accounts** → **Instagram** ga o'ting.
-3. **Connect Account** ni bosing va Instagram'ga kiring.
-4. Ulanishni tasdiqlang.
+### Qadam 1: Professional Dashboard'ni oching
+
+Facebook Page'ingizda chap paneldagi **Professional dashboard** ni bosing.
+
+<img src="/images/instagram/18-open-professional-dashboard.png" alt="Professional Dashboard" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 2: Ulangan akkauntlarga o'ting
+
+Professional Dashboard'da o'ng tomondagi **Linked accounts** ni toping va bosing.
+
+<img src="/images/instagram/19-connect-instagram-account-to-facebook-business-page.png" alt="Ulangan akkauntlar" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 3: Instagram ni tanlang
+
+**Settings & privacy** sahifasi ochiladi. **Instagram** ni bosing ("Not connected" deb ko'rsatilgan).
+
+<img src="/images/instagram/20-connect-instagram-to-facebook-page-continue.png" alt="Instagram tanlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 4: Akkauntni ulash
+
+**Connect Account** tugmasini bosing.
+
+<img src="/images/instagram/21-connect-instagram-to-facebook-page.png" alt="Akkauntni ulash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 5: Ulanishni tasdiqlash
+
+Facebook va Instagram o'rtasida qanday ma'lumotlar almashilishi ko'rsatiladi. **Connect** tugmasini bosing.
+
+<img src="/images/instagram/22-connect-instagram.png" alt="Ulanishni tasdiqlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 6: Instagram xabarlar sozlamasi
+
+Instagram xabarlar sozlamasini tanlang va **Continue** ni bosing.
+
+<img src="/images/instagram/23-connect-instagram-continue.png" alt="Instagram xabarlar" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 7: Instagram'ga kirish
+
+**Instagram foydalanuvchi nomi** va **parol** ni kiriting, so'ng **Log in** ni bosing.
+
+<img src="/images/instagram/24-instagram-login-page.png" alt="Instagram login" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 8: Login ma'lumotlarini saqlash
+
+Login ma'lumotlarini saqlash so'raladi. **Save info** yoki **Not now** ni bosing.
+
+<img src="/images/instagram/25-instagram-login-continue.png" alt="Login saqlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 9: Instagram akkauntni tasdiqlash
+
+Instagram akkauntingizni tasdiqlang — **Log in as (foydalanuvchi nomingiz)** ni bosing.
+
+<img src="/images/instagram/26-instagram-login.png" alt="Akkauntni tasdiqlash" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 10: Biznes portfolioga qo'shish
+
+Biznes portfolio tafsilotlari ko'rsatiladi. **Continue** ni bosing.
+
+<img src="/images/instagram/27-connect-instagram-to-facebook-page.png" alt="Biznes portfolio" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 11: Instagram ulandi!
+
+**"Instagram connected"** muvaffaqiyat xabari chiqadi. **Done** ni bosing.
+
+<img src="/images/instagram/28-instagram-business-page-connected.png" alt="Instagram ulandi" style="max-width:100%;border-radius:8px;" />
+
+### Qadam 12: Ulanish yakunlandi
+
+Instagram akkauntingiz Facebook Page'ga ulandi. Ulanish tafsilotlarini shu sahifada ko'rishingiz mumkin.
+
+<img src="/images/instagram/29-connected-instagram.png" alt="Ulanish yakunlandi" style="max-width:100%;border-radius:8px;" />
 
 > Bu qadam majburiy. Instagram API faqat Facebook Page orqali ishlaydi.
 
@@ -113,24 +218,23 @@ Instagram API Facebook orqali ishlaydi. Instagram akkauntingizga ulangan Faceboo
 
 Replai dashboardida sidebar'dagi **+ Akkaunt qo'shish** tugmasini bosing.
 
+<img src="/images/instagram/30-add-instagram-account-to-replai.png" alt="Akkaunt qo'shish" style="max-width:100%;border-radius:8px;" />
+
 ### Qadam 2: Instagram tanlash
 
-Qo'llab-quvvatlanadigan platformalar ro'yxatidan **Instagram** ni tanlang.
+Platformalar ro'yxatidan **Instagram** ni tanlang.
 
-### Qadam 3: Facebook orqali avtorizatsiya
+<img src="/images/instagram/31-add-instagram-account-business-page.png" alt="Instagram tanlash" style="max-width:100%;border-radius:8px;" />
 
-**Continue with Facebook** tugmasini bosing.
+### Qadam 3: Ruxsatlarni berish
 
-1. **Facebook'ga kiring**: Instagram'ga ulangan Facebook akkauntingiz bilan kiring.
-2. **Ruxsatlarni tasdiqlang**: So'ralgan ruxsatlarni ko'rib chiqing va **Davom etish** ni bosing.
+Barcha kerakli ruxsatlarni yoqing va **Allow** tugmasini bosing.
 
-### Qadam 4: Facebook Page tanlash
+<img src="/images/instagram/33-allow-permissions-instagram-account.png" alt="Ruxsatlar" style="max-width:100%;border-radius:8px;" />
 
-Facebook Page'laringiz ro'yxati chiqadi. Instagram akkauntingizga ulangan Page'ni tanlang va **Ulash** ni bosing.
+### Qadam 4: Tayyor!
 
-### Qadam 5: Tayyor!
-
-Instagram akkauntingiz muvaffaqiyatli ulandi.
+Instagram akkauntingiz Replai'ga muvaffaqiyatli ulandi.
 
 ---
 
