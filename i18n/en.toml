@@ -21,3 +21,27 @@ other = "Legal"
 
 [dataDeletionInstructions]
 other = "Data Deletion"
+
+[heroDescription]
+other = "AI-powered comment management for social media platforms. Automate responses, monitor engagement, and scale your support."
+
+[getStarted]
+other = "Get Started"
+
+[supportedPlatforms]
+other = "Supported Platforms"
+
+[documentation]
+other = "Documentation"
+
+[gettingStartedTitle]
+other = "Getting Started"
+
+[gettingStartedDesc]
+other = "Set up your account, connect platforms, and configure AI-powered responses."
+
+[platformsTitle]
+other = "Platforms"
+
+[platformsDesc]
+other = "Platform-specific setup guides for Instagram, Facebook, YouTube, Telegram, and app stores."

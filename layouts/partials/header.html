@@ -48,21 +48,10 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
                     </div>
                     <div class="language-dropdown">
-                        {{ if $currentPage.IsTranslated }}
-                            {{ range $currentPage.Translations }}
-                            <a href="{{ .RelPermalink }}" class="{{ if eq .Language.Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                {{ .Language.LanguageName }}
-                            </a>
-                            {{ end }}
-                            <a href="{{ $currentPage.RelPermalink }}" class="language-active text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                {{ $currentPage.Language.LanguageName }}
-                            </a>
-                        {{ else }}
-                            {{ range .Site.Languages }}
-                            <a href="/{{ .Lang }}/" class="{{ if eq .Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                {{ .LanguageName }}
-                            </a>
-                            {{ end }}
+                        {{ range $currentPage.AllTranslations }}
+                        <a href="{{ .RelPermalink }}" class="{{ if eq .Language.Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
+                            {{ .Language.LanguageName }}
+                        </a>
                         {{ end }}
                     </div>
                 </div>
@@ -96,21 +85,10 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
                         </div>
                         <div class="language-dropdown">
-                            {{ if $currentPage.IsTranslated }}
-                                {{ range $currentPage.Translations }}
-                                <a href="{{ .RelPermalink }}" class="{{ if eq .Language.Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                    {{ .Language.LanguageName }}
-                                </a>
-                                {{ end }}
-                                <a href="{{ $currentPage.RelPermalink }}" class="language-active text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                    {{ $currentPage.Language.LanguageName }}
-                                </a>
-                            {{ else }}
-                                {{ range .Site.Languages }}
-                                <a href="/{{ .Lang }}/" class="{{ if eq .Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
-                                    {{ .LanguageName }}
-                                </a>
-                                {{ end }}
+                            {{ range $currentPage.AllTranslations }}
+                            <a href="{{ .RelPermalink }}" class="{{ if eq .Language.Lang $currentLang }}language-active{{ end }} text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300">
+                                {{ .Language.LanguageName }}
+                            </a>
                             {{ end }}
                         </div>
                     </div>
