@@ -1,7 +1,7 @@
 ---
-title: "Platforms"
-description: "Platform-specific setup guides and configuration."
+title: "Platformalar"
+description: "Har bir platforma uchun sozlash qo'llanmalari."
 weight: 2
 ---
 
-Replai supports six platforms. Each guide covers authentication, polling setup, and platform-specific features.
+Replai oltita platformani qo'llab-quvvatlaydi. Har bir qo'llanma autentifikatsiya, sinxronlash va platformaga xos xususiyatlarni qamrab oladi.

@@ -1,7 +1,7 @@
 ---
-title: "Platforms"
-description: "Platform-specific setup guides and configuration."
+title: "Платформы"
+description: "Руководства по настройке для каждой платформы."
 weight: 2
 ---
 
-Replai supports six platforms. Each guide covers authentication, polling setup, and platform-specific features.
+Replai поддерживает шесть платформ. Каждое руководство охватывает аутентификацию, синхронизацию и особенности платформы.

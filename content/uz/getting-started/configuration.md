@@ -1,6 +1,6 @@
 ---
-title: "Configuration"
-description: "Configure Replai for your needs."
+title: "Sozlamalar"
+description: "Replai'ni ehtiyojlaringizga moslab sozlang."
 weight: 2
 ---
 

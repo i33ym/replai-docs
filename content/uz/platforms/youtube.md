@@ -1,5 +1,5 @@
 ---
-title: "YouTube-ni ulash"
+title: "YouTube"
 description: "YouTube kanalingizni Replai-ga uchta oddiy qadamda ulang"
 weight: 8
 ---

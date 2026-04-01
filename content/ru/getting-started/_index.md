@@ -1,7 +1,7 @@
 ---
-title: "Getting Started"
-description: "Set up Replai and start managing comments with AI."
+title: "Начало работы"
+description: "Настройте Replai и начните управлять комментариями с помощью ИИ."
 weight: 1
 ---
 
-Welcome to Replai! This guide will walk you through setup and configuration.
+Добро пожаловать в Replai! Это руководство проведёт вас через настройку и конфигурацию.
