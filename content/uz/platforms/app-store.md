@@ -102,7 +102,7 @@ Ilova sahifasi ochilgandan so'ng brauzer manzil satriga qarang. URL manzilida **
 
 ## 5. Replai'ga ulash
 
-Replai ilovasida yoki dashboardida **App Store** integratsiyasini tanlang va quyidagi ma'lumotlarni kiriting:
+[replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring. Chap paneldagi **Accounts** bo'limiga o'ting, **+ Add account** tugmasini bosing va **App Store** ni tanlang. Quyidagi ma'lumotlarni kiriting:
 
 | Maydon | Tavsif | Qayerdan olish |
 |--------|--------|----------------|

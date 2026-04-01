@@ -102,7 +102,7 @@ After the app page opens, look at the browser address bar. The **App ID** number
 
 ## 5. Connect to Replai
 
-In the Replai app or dashboard, select the **App Store** integration and enter the following information:
+Go to [replai.uz](https://replai.uz) and sign in to your account. Go to the **Accounts** section in the left panel, click **+ Add account** and select **App Store**. Enter the following information:
 
 | Field | Description | Where to find |
 |-------|-------------|---------------|
