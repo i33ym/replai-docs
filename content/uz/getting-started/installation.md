@@ -4,21 +4,21 @@ description: "Replai'ni o'rnating va ishga tushiring."
 weight: 1
 ---
 
-## Prerequisites
+## Talablar
 
 - Python 3.11+
 - PostgreSQL 15+
 - NATS server
-- Redis (optional, for caching)
+- Redis (ixtiyoriy, keshlash uchun)
 
-## Install via Docker
+## Docker orqali o'rnatish
 
 ```bash
 docker pull replai/replai:latest
 docker compose up -d
 ```
 
-## Install from Source
+## Manba koddan o'rnatish
 
 ```bash
 git clone https://github.com/i33ym/replai.git
@@ -26,4 +26,4 @@ cd replai
 uv sync
 ```
 
-> Fill in the complete installation steps here.
+> To'liq o'rnatish qadamlarini bu yerga yozing.

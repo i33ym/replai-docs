@@ -4,21 +4,21 @@ description: "Установите и разверните Replai."
 weight: 1
 ---
 
-## Prerequisites
+## Требования
 
 - Python 3.11+
 - PostgreSQL 15+
 - NATS server
-- Redis (optional, for caching)
+- Redis (необязательно, для кеширования)
 
-## Install via Docker
+## Установка через Docker
 
 ```bash
 docker pull replai/replai:latest
 docker compose up -d
 ```
 
-## Install from Source
+## Установка из исходного кода
 
 ```bash
 git clone https://github.com/i33ym/replai.git
@@ -26,4 +26,4 @@ cd replai
 uv sync
 ```
 
-> Fill in the complete installation steps here.
+> Заполните полные шаги установки здесь.

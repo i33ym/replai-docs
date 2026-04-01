@@ -4,9 +4,9 @@ description: "Replai'ni ehtiyojlaringizga moslab sozlang."
 weight: 2
 ---
 
-## Environment Variables
+## Muhit o'zgaruvchilari
 
-Create a `.env` file in the project root:
+Loyihaning ildiz papkasida `.env` faylini yarating:
 
 ```env
 DATABASE_URL=postgresql://user:pass@localhost:5432/replai
@@ -14,4 +14,4 @@ NATS_URL=nats://localhost:4222
 ANTHROPIC_API_KEY=sk-ant-...
 ```
 
-> Fill in the complete configuration reference here.
+> To'liq sozlamalar ma'lumotnomasini bu yerga yozing.

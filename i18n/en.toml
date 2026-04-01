@@ -45,3 +45,6 @@ other = "Platforms"
 
 [platformsDesc]
 other = "Platform-specific setup guides for Instagram, Facebook, YouTube, Telegram, and app stores."
+
+[back]
+other = "Back"

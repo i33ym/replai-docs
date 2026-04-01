@@ -4,14 +4,14 @@ description: "5 daqiqada birinchi AI javobingizni oling."
 weight: 3
 ---
 
-## 1. Create an Account
+## 1. Hisob yaratish
 
-> Fill in the account creation steps here.
+> Hisob yaratish qadamlarini bu yerga yozing.
 
-## 2. Connect a Platform
+## 2. Platformani ulash
 
-> Fill in platform connection steps here.
+> Platformani ulash qadamlarini bu yerga yozing.
 
-## 3. Configure Response Rules
+## 3. Javob qoidalarini sozlash
 
-> Fill in response rule configuration here.
+> Javob qoidalarini sozlash bo'limini bu yerga yozing.

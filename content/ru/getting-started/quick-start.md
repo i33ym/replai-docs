@@ -4,14 +4,14 @@ description: "Получите первый ответ с помощью ИИ з
 weight: 3
 ---
 
-## 1. Create an Account
+## 1. Создание аккаунта
 
-> Fill in the account creation steps here.
+> Заполните шаги создания аккаунта здесь.
 
-## 2. Connect a Platform
+## 2. Подключение платформы
 
-> Fill in platform connection steps here.
+> Заполните шаги подключения платформы здесь.
 
-## 3. Configure Response Rules
+## 3. Настройка правил ответов
 
-> Fill in response rule configuration here.
+> Заполните настройку правил ответов здесь.
