@@ -18,13 +18,6 @@ Brauzerda [replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kirin
 - Firefox
 - Microsoft Edge
 
-### Mobil ilova
-
-Replai mobil ilovasini yuklab oling:
-
-- **iOS**: [App Store'dan yuklab olish](https://apps.apple.com/app/replai)
-- **Android**: [Play Store'dan yuklab olish](https://play.google.com/store/apps/details?id=uz.replai)
-
 ---
 
 ## Hisob yaratish

@@ -18,13 +18,6 @@ Go to [replai.uz](https://replai.uz) in your browser and sign in or create a new
 - Firefox
 - Microsoft Edge
 
-### Mobile app
-
-Download the Replai mobile app:
-
-- **iOS**: [Download from App Store](https://apps.apple.com/app/replai)
-- **Android**: [Download from Play Store](https://play.google.com/store/apps/details?id=uz.replai)
-
 ---
 
 ## Creating an account

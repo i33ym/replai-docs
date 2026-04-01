@@ -18,13 +18,6 @@ Replai — это облачная (cloud) платформа. Установк�
 - Firefox
 - Microsoft Edge
 
-### Мобильное приложение
-
-Скачайте мобильное приложение Replai:
-
-- **iOS**: [Скачать из App Store](https://apps.apple.com/app/replai)
-- **Android**: [Скачать из Play Store](https://play.google.com/store/apps/details?id=uz.replai)
-
 ---
 
 ## Создание аккаунта
