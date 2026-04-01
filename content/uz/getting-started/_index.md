@@ -1,7 +1,7 @@
 ---
-title: "Getting Started"
-description: "Set up Replai and start managing comments with AI."
+title: "Boshlash"
+description: "Replai'ni sozlang va AI bilan izohlarni boshqarishni boshlang."
 weight: 1
 ---
 
-Welcome to Replai! This guide will walk you through setup and configuration.
+Replai'ga xush kelibsiz! Ushbu qo'llanma sizni sozlash va konfiguratsiya bo'yicha yo'naltiradi.

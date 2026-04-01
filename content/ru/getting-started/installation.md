@@ -1,6 +1,6 @@
 ---
-title: "Installation"
-description: "Install and deploy Replai."
+title: "Установка"
+description: "Установите и разверните Replai."
 weight: 1
 ---
 

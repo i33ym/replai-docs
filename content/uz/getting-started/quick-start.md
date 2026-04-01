@@ -1,6 +1,6 @@
 ---
-title: "Quick Start"
-description: "Get your first AI-powered reply in 5 minutes."
+title: "Tezkor boshlash"
+description: "5 daqiqada birinchi AI javobingizni oling."
 weight: 3
 ---
 

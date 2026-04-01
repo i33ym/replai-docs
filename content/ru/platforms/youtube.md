@@ -1,5 +1,5 @@
 ---
-title: "Подключение YouTube"
+title: "YouTube"
 description: "Подключите свой YouTube-канал к Replai за три простых шага"
 weight: 8
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Quick Start"
-description: "Get your first AI-powered reply in 5 minutes."
+title: "Быстрый старт"
+description: "Получите первый ответ с помощью ИИ за 5 минут."
 weight: 3
 ---
 

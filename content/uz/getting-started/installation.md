@@ -1,6 +1,6 @@
 ---
-title: "Installation"
-description: "Install and deploy Replai."
+title: "O'rnatish"
+description: "Replai'ni o'rnating va ishga tushiring."
 weight: 1
 ---
 

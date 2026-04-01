@@ -1,6 +1,6 @@
 ---
-title: "Configuration"
-description: "Configure Replai for your needs."
+title: "Конфигурация"
+description: "Настройте Replai под ваши нужды."
 weight: 2
 ---
 
