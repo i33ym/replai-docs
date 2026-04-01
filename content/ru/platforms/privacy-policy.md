@@ -3,142 +3,141 @@ title: "Политика конфиденциальности"
 description: "Как ReplAI собирает, использует, хранит и защищает вашу информацию."
 ---
 
-Last Updated: **March 6, 2026**
+Последнее обновление: **6 марта 2026 г.**
 
-Welcome to **ReplAI**. Your privacy is important to us. This Privacy Policy explains how ReplAI ("we", "our", or "us") collects, uses, stores, and protects your information when you use our services.
+Добро пожаловать в **ReplAI**. Ваша конфиденциальность важна для нас. Настоящая Политика конфиденциальности объясняет, как ReplAI («мы», «наш») собирает, использует, хранит и защищает вашу информацию при использовании наших услуг.
 
-This policy applies to our website and platform available at: `https://replai.uz/privacy`
+Настоящая политика распространяется на наш веб-сайт и платформу, доступные по адресу: `https://replai.uz/privacy`
 
-By using ReplAI, you agree to the practices described in this Privacy Policy.
+Используя ReplAI, вы соглашаетесь с практиками, описанными в настоящей Политике конфиденциальности.
 
-## 1. Information We Collect
+## 1. Информация, которую мы собираем
 
-When you use ReplAI, we may collect the following types of information.
+При использовании ReplAI мы можем собирать следующие виды информации.
 
-### 1.1 Account Information
+### 1.1 Данные аккаунта
 
-When you create an account using social login, we may collect:
+При создании аккаунта через социальные сети мы можем собирать:
 
-- Your name
-- Email address
-- Social media username
-- Account ID from connected platforms
+- Ваше имя
+- Адрес электронной почты
+- Имя пользователя в социальных сетях
+- ID аккаунта с подключённых платформ
 
-This information is used to identify your account and provide our services.
+Эта информация используется для идентификации вашего аккаунта и предоставления наших услуг.
 
-### 1.2 Social Media Data
+### 1.2 Данные социальных сетей
 
-If you connect your social media accounts to ReplAI, we may access and store the following data depending on permissions granted:
+Если вы подключаете свои аккаунты социальных сетей к ReplAI, мы можем получить доступ и хранить следующие данные в зависимости от предоставленных разрешений:
 
-- Social media posts
-- Comments on posts
-- Direct messages
-- Username and profile information
+- Публикации в социальных сетях
+- Комментарии к публикациям
+- Личные сообщения
+- Имя пользователя и информация профиля
 
-This data is used to enable message management, comment analysis, and AI-assisted responses.
+Эти данные используются для управления сообщениями, анализа комментариев и создания ответов с помощью ИИ.
 
-### 1.3 Usage Data
+### 1.3 Данные об использовании
 
-We may automatically collect certain technical information when you use our service, including:
+Мы можем автоматически собирать определённую техническую информацию при использовании нашего сервиса, включая:
 
-- Device type
-- Browser type
-- IP address
-- Access time and usage patterns
-- Platform interactions
+- Тип устройства
+- Тип браузера
+- IP-адрес
+- Время доступа и паттерны использования
+- Взаимодействие с платформой
 
-This information helps us improve the service and maintain system security.
+Эта информация помогает нам улучшать сервис и поддерживать безопасность системы.
 
-## 2. How We Use Your Information
+## 2. Как мы используем вашу информацию
 
-We use the collected data to provide and improve our services, including:
+Мы используем собранные данные для предоставления и улучшения наших услуг, включая:
 
-- Managing and organizing social media messages and comments
-- Providing AI-powered message analysis
-- Generating AI-assisted replies to comments or messages
-- Improving system performance
-- Providing customer support
-- Maintaining platform security
+- Управление и организацию сообщений и комментариев в социальных сетях
+- Анализ сообщений с помощью ИИ
+- Генерацию ответов на комментарии или сообщения с помощью ИИ
+- Улучшение производительности системы
+- Предоставление поддержки клиентам
+- Обеспечение безопасности платформы
 
-## 3. AI Processing of Data
+## 3. Обработка данных с помощью ИИ
 
-ReplAI uses artificial intelligence technologies to analyze social media interactions and generate suggested responses.
+ReplAI использует технологии искусственного интеллекта для анализа взаимодействий в социальных сетях и генерации предлагаемых ответов.
 
-For this purpose:
+Для этого:
 
-- Content such as messages and comments may be processed by third-party AI providers.
-- When possible, we send anonymized or minimized versions of the data to these AI services.
-- AI providers process the information solely to generate responses or perform analysis.
+- Контент, такой как сообщения и комментарии, может обрабатываться сторонними провайдерами ИИ.
+- По возможности мы отправляем анонимизированные или минимизированные версии данных этим ИИ-сервисам.
+- Провайдеры ИИ обрабатывают информацию исключительно для генерации ответов или выполнения анализа.
 
-## 4. Data Storage and Retention
+## 4. Хранение данных и сроки хранения
 
-ReplAI stores user data including messages and comments connected to your account.
+ReplAI хранит пользовательские данные, включая сообщения и комментарии, связанные с вашим аккаунтом.
 
-- Messages and comments may be stored permanently unless you delete them or disconnect your account.
-- If you delete your account, associated data may also be deleted from our systems within a reasonable period.
+- Сообщения и комментарии могут храниться постоянно, пока вы не удалите их или не отключите свой аккаунт.
+- При удалении аккаунта связанные данные также могут быть удалены из наших систем в течение разумного периода.
 
-## 5. Third-Party Services
+## 5. Сторонние сервисы
 
-ReplAI may use third-party services to operate the platform, including:
+ReplAI может использовать сторонние сервисы для работы платформы, включая:
 
-- Social media platform APIs
-- Cloud infrastructure providers
-- Artificial intelligence providers
-- Security and analytics tools
+- API платформ социальных сетей
+- Провайдеров облачной инфраструктуры
+- Провайдеров искусственного интеллекта
+- Инструменты безопасности и аналитики
 
-These third parties may process limited data only as necessary to provide their services.
+Эти третьи стороны могут обрабатывать ограниченные данные только по мере необходимости для предоставления своих услуг.
 
-We require third-party providers to handle data securely and in accordance with applicable privacy standards.
+Мы требуем от сторонних провайдеров безопасной обработки данных в соответствии с применимыми стандартами конфиденциальности.
 
-## 6. Data Security
+## 6. Безопасность данных
 
-We take reasonable technical and organizational measures to protect your information, including:
+Мы принимаем разумные технические и организационные меры для защиты вашей информации, включая:
 
-- Secure servers and encrypted connections
-- Access control systems
-- Monitoring and security practices designed to protect user data
+- Безопасные серверы и зашифрованные соединения
+- Системы контроля доступа
+- Практики мониторинга и безопасности, направленные на защиту данных пользователей
 
-However, no online service can guarantee absolute security.
+Однако ни один онлайн-сервис не может гарантировать абсолютную безопасность.
 
-## 7. User Rights and Data Control
+## 7. Права пользователей и контроль данных
 
-Users of ReplAI have the right to:
+Пользователи ReplAI имеют право:
 
-- Access their stored data
-- Request correction of inaccurate data
-- Delete their account and associated information
-- Disconnect connected social media accounts
+- Получить доступ к своим сохранённым данным
+- Запросить исправление неточных данных
+- Удалить свой аккаунт и связанную информацию
+- Отключить подключённые аккаунты социальных сетей
 
-To request data deletion or assistance, please contact us at: **sokhib@jett.uz**
+Для запроса удаления данных или помощи свяжитесь с нами: **sokhib@jett.uz**
 
-## 8. Business Accounts
+## 8. Бизнес-аккаунты
 
-ReplAI is designed for users who operate business or professional social media accounts. The platform is intended to help businesses manage communication with their audiences.
+ReplAI предназначен для пользователей, управляющих бизнес- или профессиональными аккаунтами в социальных сетях. Платформа создана для помощи бизнесам в управлении коммуникацией с их аудиторией.
 
-## 9. Subscription Services
+## 9. Подписка
 
-ReplAI operates under a subscription-based pricing model.
+ReplAI работает по модели подписки.
 
-Payment information may be processed by third-party payment providers. ReplAI does not store full payment card details.
+Платёжная информация может обрабатываться сторонними платёжными провайдерами. ReplAI не хранит полные данные платёжных карт.
 
-## 10. Children's Privacy
+## 10. Конфиденциальность детей
 
-ReplAI is not intended for children. Our services are designed for business account holders.
+ReplAI не предназначен для детей. Наши услуги предназначены для владельцев бизнес-аккаунтов.
 
-We do not knowingly collect personal information from individuals under the age of 13. If we become aware that such data has been collected, we will take steps to delete it.
+Мы сознательно не собираем личную информацию лиц младше 13 лет. Если мы узнаем, что такие данные были собраны, мы примем меры по их удалению.
 
-## 11. Changes to This Privacy Policy
+## 11. Изменения Политики конфиденциальности
 
-We may update this Privacy Policy from time to time to reflect changes in our services, legal requirements, or security practices.
+Мы можем время от времени обновлять настоящую Политику конфиденциальности для отражения изменений в наших услугах, правовых требованиях или практиках безопасности.
 
-Updated versions will be posted at: `https://replai.uz/privacy`
+Обновлённые версии будут размещены по адресу: `https://replai.uz/privacy`
 
-Your continued use of the service after updates indicates acceptance of the revised policy.
+Продолжение использования сервиса после обновлений означает принятие пересмотренной политики.
 
-## 12. Contact Information
+## 12. Контактная информация
 
-If you have questions or concerns regarding this Privacy Policy or your personal data, please contact us at:
+Если у вас есть вопросы или замечания относительно настоящей Политики конфиденциальности или ваших персональных данных, свяжитесь с нами:
 
-- Email: **sokhib@jett.uz**
-- Company: **ReplAI**
-
+- Электронная почта: **sokhib@jett.uz**
+- Компания: **ReplAI**
