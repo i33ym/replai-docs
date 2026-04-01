@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
-description: "Connect your Facebook Page to Replai in a few simple steps"
+description: "Connect your Facebook Page to Replai and manage comments with AI"
 weight: 9
 ---
 
@@ -10,64 +10,126 @@ Connect your Facebook Page to Replai to manage comments on your posts with AI, r
 
 ---
 
-## Prerequisites
+## Requirements
 
-### Have a Facebook Page
+Before connecting, make sure you have the following:
 
-- You need a Facebook **Page** (Business or Community)
+- A Facebook **Page** (Business or Community)
 - You must be an **Admin** of that Page
 
 > Personal profiles cannot be connected. Only Facebook Pages are supported.
 
 ---
 
-## How to Connect
+## 1. Create a Facebook Page
 
-### Step 1: Add Account from Sidebar
+If you already have a Facebook Page, skip this section and go to [2. Connect to Replai](#2-connect-to-replai).
 
-In the Replai dashboard, locate the **Accounts** section on the left-hand sidebar. Click the **+ Add account** button.
+### Step 1: Open the Page creation page
 
-### Step 2: Select Facebook
+Go to [facebook.com/pages/create](https://facebook.com/pages/create) in your browser. Enter the **Page name**, **Category**, and description. Then click **Create Page**.
 
-Select **Facebook** from the list of supported platforms.
+<img src="/images/instagram/11-facebook-create-page.png" alt="Create Facebook Page" style="max-width:100%;border-radius:8px;" />
 
-### Step 3: Authorize via Facebook
+### Step 2: Complete Page settings
 
-Click the **Continue with Facebook** button.
+Enter your **contact information**, **address**, and **business hours**. Click **Next**.
 
-1. **Log in to Facebook**: Sign in with your Facebook account.
-2. **Confirm Permissions**: Review the requested permissions and click **Continue**.
+<img src="/images/instagram/12-finish-setting-up-facebook-page.png" alt="Complete settings" style="max-width:100%;border-radius:8px;" />
 
-### Step 4: Select Your Page
+### Step 3: Customize your Page
 
-A list of Pages you manage will appear. Select the Page you want to connect and click **Connect**.
+Add a **profile picture** and **Cover Photo**. Click **Next**.
 
-### Step 5: Done!
+<img src="/images/instagram/13-customise-facebook-page.png" alt="Customize Page" style="max-width:100%;border-radius:8px;" />
 
-Your Facebook Page is now successfully connected.
+### Step 4: Connect WhatsApp (optional)
+
+You can connect your WhatsApp number or click **Skip** to skip this step.
+
+<img src="/images/instagram/14-connect-whatsapp-facebook-page 2.png" alt="Connect WhatsApp" style="max-width:100%;border-radius:8px;" />
+
+### Step 5: Invite friends (optional)
+
+You can invite friends to your Page or click **Next** to skip.
+
+<img src="/images/instagram/15-build-facebook-page-audience.png" alt="Build audience" style="max-width:100%;border-radius:8px;" />
+
+### Step 6: Stay informed
+
+Set your notification preferences and click **Done** to finish.
+
+<img src="/images/instagram/16-stay-informed-about-facebook-page.png" alt="Stay informed" style="max-width:100%;border-radius:8px;" />
+
+### Step 7: Facebook Page is ready
+
+Your new Facebook Business Page is ready!
+
+<img src="/images/instagram/17-new-facebook-business-page.png" alt="New Business Page" style="max-width:100%;border-radius:8px;" />
 
 ---
 
-## What Happens Next
+## 2. Connect to Replai
 
-Once connected, Replai automatically begins the following processes:
+### Step 8: Add account in Replai
 
-1. **Post Syncing** — Your Facebook Page posts will appear in the Replai dashboard.
-2. **Comment Monitoring** — The system checks for new comments every 5 minutes.
-3. **AI Suggestion Engine** — Replai generates response suggestions based on your post context.
+In the Replai dashboard, locate the **Accounts** section on the left sidebar and click the **+ Add account** button.
+
+<!-- <img src="/images/facebook/01-replai-accounts-section.png" alt="Replai Accounts section" style="max-width:100%;border-radius:8px;" /> -->
+
+### Step 9: Select Facebook
+
+Select **Facebook** from the list of supported platforms.
+
+<!-- <img src="/images/facebook/02-select-facebook-platform.png" alt="Select Facebook" style="max-width:100%;border-radius:8px;" /> -->
+
+### Step 10: Authorize via Facebook
+
+Click the **Continue with Facebook** button. The Facebook login page will open:
+
+1. **Log in to Facebook**: Enter your email and password
+2. **Confirm permissions**: Review the requested permissions and click **Continue**
+
+<!-- <img src="/images/facebook/03-facebook-login.png" alt="Facebook login" style="max-width:100%;border-radius:8px;" /> -->
+
+<!-- <img src="/images/facebook/04-facebook-permissions.png" alt="Confirm permissions" style="max-width:100%;border-radius:8px;" /> -->
+
+### Step 11: Select your Page
+
+A list of Facebook Pages you manage will appear. Select the Page you want to connect and click **Connect**.
+
+<!-- <img src="/images/facebook/05-select-facebook-page.png" alt="Select Page" style="max-width:100%;border-radius:8px;" /> -->
+
+### Step 12: Done!
+
+Your Facebook Page has been successfully connected to Replai.
+
+<!-- <img src="/images/facebook/06-connection-successful.png" alt="Connection successful" style="max-width:100%;border-radius:8px;" /> -->
+
+> Replai screenshots will be added once they are ready.
+
+---
+
+## What happens next
+
+After connecting, Replai automatically starts the following processes:
+
+1. **Post sync** — Your Facebook Page posts appear in the Replai dashboard.
+2. **Comment monitoring** — The system checks for new comments every 5 minutes.
+3. **AI suggestion system** — Replai generates response suggestions based on post context.
 
 ---
 
 ## Settings
 
-Configure your Page behavior in **Account Settings**:
+Configure Page behavior in **Account Settings**:
 
-### Auto-Reply Settings
-* **Enable auto-reply**: Automatically post AI responses that meet your confidence score.
-* **Review before posting**: Hold replies for manual approval before they go live.
+### Auto-response settings
+* **Enable auto-reply**: Automatically post AI responses that match your confidence score.
+* **Review before posting**: Hold responses for manual approval before they go live.
 
-### Comment Filters
-* **Comment Filter**: Sync all comments or only unanswered ones.
+### Comment filters
+* **Comment filter**: Sync all comments or only unanswered ones.
 
 ---
 
@@ -89,8 +151,8 @@ Configure your Page behavior in **Account Settings**:
 
 ## Privacy & Security
 
-* **No Passwords**: We use official Facebook OAuth. We never see your password.
-* **Limited Access**: Replai only accesses your Facebook Page data. We cannot access your personal profile.
+* **No passwords needed**: We use official Facebook OAuth. We never see your password.
+* **Limited access**: Replai only accesses your Facebook Page data. We cannot access your personal profile.
 * **Revocable**: You can remove Replai's access at any time via Facebook Settings → Business Integrations.
 
 ---
@@ -110,6 +172,6 @@ A: Go to Settings and click the **Disconnect** button next to the account.
 
 ## Limitations
 
-- **Admin Required**: Only Page Admins can connect an account.
-- **Sync Interval**: Comments sync every 5 minutes, not in real-time.
-- **Personal Profiles**: Personal Facebook profiles cannot be connected, only Pages.
+- **Admin required**: Only Page Admins can connect an account.
+- **Sync interval**: Comments sync every 5 minutes, not in real-time.
+- **Personal profiles**: Personal Facebook profiles cannot be connected, only Pages.
