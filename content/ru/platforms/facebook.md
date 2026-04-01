@@ -71,42 +71,36 @@ weight: 9
 
 ## 2. Подключение к Replai
 
-### Шаг 8: Добавьте аккаунт в Replai
+### Шаг 8: Войдите в Replai
 
-В панели управления Replai найдите раздел **Accounts** на левой боковой панели и нажмите кнопку **+ Add account**.
+Перейдите на [replai.uz](https://replai.uz) и войдите в свой аккаунт.
 
-<!-- <img src="/images/facebook/01-replai-accounts-section.png" alt="Раздел Accounts в Replai" style="max-width:100%;border-radius:8px;" /> -->
+### Шаг 9: Добавьте аккаунт
 
-### Шаг 9: Выберите Facebook
+Перейдите в раздел **Accounts** на левой панели и нажмите кнопку **+ Add account**.
 
-Выберите **Facebook** из списка поддерживаемых платформ.
+### Шаг 10: Выберите Facebook
 
-<!-- <img src="/images/facebook/02-select-facebook-platform.png" alt="Выбор Facebook" style="max-width:100%;border-radius:8px;" /> -->
+Выберите **Facebook** из списка платформ и нажмите **Continue with Facebook**.
 
-### Шаг 10: Авторизация через Facebook
+### Шаг 11: Авторизация через Facebook
 
-Нажмите кнопку **Continue with Facebook**. Откроется страница входа Facebook:
+Откроется страница входа Facebook:
 
-1. **Войдите в Facebook**: Введите email и пароль
-2. **Подтвердите разрешения**: Проверьте запрашиваемые разрешения и нажмите **Continue**
+1. **Войдите в Facebook**: Введите email и пароль и войдите в систему
+2. **Подтвердите разрешения**: Replai запросит следующие разрешения:
+   - Просмотр публикаций Page
+   - Управление комментариями Page
+   - Чтение информации Page
+3. Проверьте разрешения и нажмите **Continue**
 
-<!-- <img src="/images/facebook/03-facebook-login.png" alt="Вход в Facebook" style="max-width:100%;border-radius:8px;" /> -->
-
-<!-- <img src="/images/facebook/04-facebook-permissions.png" alt="Подтверждение разрешений" style="max-width:100%;border-radius:8px;" /> -->
-
-### Шаг 11: Выберите Page
+### Шаг 12: Выберите Page
 
 Появится список управляемых вами Facebook Page. Выберите нужную Page и нажмите **Connect**.
 
-<!-- <img src="/images/facebook/05-select-facebook-page.png" alt="Выбор Page" style="max-width:100%;border-radius:8px;" /> -->
+### Шаг 13: Готово!
 
-### Шаг 12: Готово!
-
-Ваша Facebook Page успешно подключена к Replai.
-
-<!-- <img src="/images/facebook/06-connection-successful.png" alt="Подключение успешно" style="max-width:100%;border-radius:8px;" /> -->
-
-> Скриншоты Replai будут добавлены, когда будут готовы.
+Ваша Facebook Page успешно подключена к Replai. Теперь вы можете просматривать публикации и комментарии на панели управления.
 
 ---
 

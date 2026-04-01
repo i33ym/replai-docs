@@ -71,42 +71,36 @@ Yangi Facebook Business Page'ingiz tayyor!
 
 ## 2. Replai'ga ulash
 
-### 8-qadam: Replai'da hisob qo'shish
+### 8-qadam: Replai'ga kiring
 
-Replai boshqaruv panelining chap tarafidagi **Accounts** bo'limini toping va **+ Add account** tugmasini bosing.
+[replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring.
 
-<!-- <img src="/images/facebook/01-replai-accounts-section.png" alt="Replai Accounts bo'limi" style="max-width:100%;border-radius:8px;" /> -->
+### 9-qadam: Hisob qo'shish
 
-### 9-qadam: Facebook'ni tanlang
+Chap paneldagi **Accounts** bo'limiga o'ting va **+ Add account** tugmasini bosing.
 
-Platformalar ro'yxatidan **Facebook**'ni tanlang.
+### 10-qadam: Facebook'ni tanlang
 
-<!-- <img src="/images/facebook/02-select-facebook-platform.png" alt="Facebook tanlash" style="max-width:100%;border-radius:8px;" /> -->
+Platformalar ro'yxatidan **Facebook**'ni tanlang va **Continue with Facebook** tugmasini bosing.
 
-### 10-qadam: Facebook orqali ruxsat berish
+### 11-qadam: Facebook orqali ruxsat berish
 
-**Continue with Facebook** tugmasini bosing. Facebook login sahifasi ochiladi:
+Facebook login sahifasi ochiladi:
 
-1. **Facebook'ga kirish**: Email va parolingizni kiriting
-2. **Ruxsatlarni tasdiqlash**: So'ralgan ruxsatlarni ko'rib chiqing va **Continue** tugmasini bosing
+1. **Facebook'ga kirish**: Email va parolingizni kiriting va tizimga kiring
+2. **Ruxsatlarni tasdiqlash**: Replai quyidagi ruxsatlarni so'raydi:
+   - Page postlarini ko'rish
+   - Page commentlarini boshqarish
+   - Page ma'lumotlarini o'qish
+3. Ruxsatlarni ko'rib chiqib, **Continue** tugmasini bosing
 
-<!-- <img src="/images/facebook/03-facebook-login.png" alt="Facebook login" style="max-width:100%;border-radius:8px;" /> -->
-
-<!-- <img src="/images/facebook/04-facebook-permissions.png" alt="Ruxsatlarni tasdiqlash" style="max-width:100%;border-radius:8px;" /> -->
-
-### 11-qadam: Page tanlang
+### 12-qadam: Page tanlang
 
 Boshqarayotgan Facebook Page'laringiz ro'yxati chiqadi. Kerakli Page'ni tanlang va **Connect** tugmasini bosing.
 
-<!-- <img src="/images/facebook/05-select-facebook-page.png" alt="Page tanlash" style="max-width:100%;border-radius:8px;" /> -->
+### 13-qadam: Tayyor!
 
-### 12-qadam: Tayyor!
-
-Facebook Page'ingiz Replai'ga muvaffaqiyatli ulandi.
-
-<!-- <img src="/images/facebook/06-connection-successful.png" alt="Muvaffaqiyatli ulanish" style="max-width:100%;border-radius:8px;" /> -->
-
-> Replai skrinshotlari tayyor bo'lganda, yuqoridagi rasmlar qo'shiladi.
+Facebook Page'ingiz Replai'ga muvaffaqiyatli ulandi. Endi dashboardda postlaringiz va commentlaringizni ko'rishingiz mumkin.
 
 ---
 

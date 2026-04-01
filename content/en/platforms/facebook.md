@@ -71,42 +71,36 @@ Your new Facebook Business Page is ready!
 
 ## 2. Connect to Replai
 
-### Step 8: Add account in Replai
+### Step 8: Sign in to Replai
 
-In the Replai dashboard, locate the **Accounts** section on the left sidebar and click the **+ Add account** button.
+Go to [replai.uz](https://replai.uz) and sign in to your account.
 
-<!-- <img src="/images/facebook/01-replai-accounts-section.png" alt="Replai Accounts section" style="max-width:100%;border-radius:8px;" /> -->
+### Step 9: Add account
 
-### Step 9: Select Facebook
+Go to the **Accounts** section in the left panel and click the **+ Add account** button.
 
-Select **Facebook** from the list of supported platforms.
+### Step 10: Select Facebook
 
-<!-- <img src="/images/facebook/02-select-facebook-platform.png" alt="Select Facebook" style="max-width:100%;border-radius:8px;" /> -->
+Select **Facebook** from the list of platforms and click **Continue with Facebook**.
 
-### Step 10: Authorize via Facebook
+### Step 11: Authorize via Facebook
 
-Click the **Continue with Facebook** button. The Facebook login page will open:
+The Facebook login page will open:
 
-1. **Log in to Facebook**: Enter your email and password
-2. **Confirm permissions**: Review the requested permissions and click **Continue**
+1. **Log in to Facebook**: Enter your email and password and sign in
+2. **Confirm permissions**: Replai will request the following permissions:
+   - View Page posts
+   - Manage Page comments
+   - Read Page information
+3. Review the permissions and click **Continue**
 
-<!-- <img src="/images/facebook/03-facebook-login.png" alt="Facebook login" style="max-width:100%;border-radius:8px;" /> -->
-
-<!-- <img src="/images/facebook/04-facebook-permissions.png" alt="Confirm permissions" style="max-width:100%;border-radius:8px;" /> -->
-
-### Step 11: Select your Page
+### Step 12: Select your Page
 
 A list of Facebook Pages you manage will appear. Select the Page you want to connect and click **Connect**.
 
-<!-- <img src="/images/facebook/05-select-facebook-page.png" alt="Select Page" style="max-width:100%;border-radius:8px;" /> -->
+### Step 13: Done!
 
-### Step 12: Done!
-
-Your Facebook Page has been successfully connected to Replai.
-
-<!-- <img src="/images/facebook/06-connection-successful.png" alt="Connection successful" style="max-width:100%;border-radius:8px;" /> -->
-
-> Replai screenshots will be added once they are ready.
+Your Facebook Page has been successfully connected to Replai. You can now view your posts and comments on the dashboard.
 
 ---
 
