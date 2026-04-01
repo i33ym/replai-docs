@@ -2,7 +2,7 @@ baseURL = 'https://docs.replai.uz/'
 languageCode = 'en-us'
 title = 'Replai Docs'
 theme = "hugo-noir"
-defaultContentLanguage = "en"
+defaultContentLanguage = "uz"
 
 [markup.goldmark.renderer]
   unsafe = true
