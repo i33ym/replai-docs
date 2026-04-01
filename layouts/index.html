@@ -58,7 +58,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <a href="{{ "getting-started/" | relLangURL }}" class="doc-card p-6 rounded-lg bg-bg-secondary-light dark:bg-bg-secondary-dark border border-border-primary-light dark:border-border-primary-dark hover:border-accent-light dark:hover:border-accent-dark transition-all duration-300 group">
                 <div class="flex items-center gap-3 mb-3">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-accent-light dark:text-accent-dark">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="{{ .viewBox | default '0 0 24 24' }}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-accent-light dark:text-accent-dark">
                         <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/>
                         <polyline points="14 2 14 8 20 8"/>
                         <line x1="16" y1="13" x2="8" y2="13"/>
@@ -71,7 +71,7 @@
             </a>
             <a href="{{ "platforms/" | relLangURL }}" class="doc-card p-6 rounded-lg bg-bg-secondary-light dark:bg-bg-secondary-dark border border-border-primary-light dark:border-border-primary-dark hover:border-accent-light dark:hover:border-accent-dark transition-all duration-300 group">
                 <div class="flex items-center gap-3 mb-3">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-accent-light dark:text-accent-dark">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="{{ .viewBox | default '0 0 24 24' }}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-accent-light dark:text-accent-dark">
                         <rect x="2" y="3" width="20" height="14" rx="2" ry="2"/>
                         <line x1="8" y1="21" x2="16" y2="21"/>
                         <line x1="12" y1="17" x2="12" y2="21"/>
