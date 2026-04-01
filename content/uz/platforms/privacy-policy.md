@@ -1,144 +1,143 @@
 ---
 title: "Maxfiylik siyosati"
-description: "ReplAI ma’lumotlarni qanday to‘playdi, ishlatadi, saqlaydi va himoya qiladi."
+description: "ReplAI ma'lumotlarni qanday to'playdi, ishlatadi, saqlaydi va himoya qiladi."
 ---
 
-Last Updated: **March 6, 2026**
+Oxirgi yangilanish: **2026-yil 6-mart**
 
-Welcome to **ReplAI**. Your privacy is important to us. This Privacy Policy explains how ReplAI ("we", "our", or "us") collects, uses, stores, and protects your information when you use our services.
+**ReplAI** ga xush kelibsiz. Sizning maxfiyligingiz biz uchun muhim. Ushbu Maxfiylik siyosati ReplAI ("biz", "bizning") xizmatlarimizdan foydalanganingizda ma'lumotlaringizni qanday to'plashi, ishlatishi, saqlashi va himoya qilishini tushuntiradi.
 
-This policy applies to our website and platform available at: `https://replai.uz/privacy`
+Ushbu siyosat veb-saytimiz va platformamizga tegishli: `https://replai.uz/privacy`
 
-By using ReplAI, you agree to the practices described in this Privacy Policy.
+ReplAI'dan foydalanish orqali siz ushbu Maxfiylik siyosatida tavsiflangan amaliyotlarga rozilik bildirasiz.
 
-## 1. Information We Collect
+## 1. Biz to'playdigan ma'lumotlar
 
-When you use ReplAI, we may collect the following types of information.
+ReplAI'dan foydalanganingizda, biz quyidagi turdagi ma'lumotlarni to'plashimiz mumkin.
 
-### 1.1 Account Information
+### 1.1 Hisob ma'lumotlari
 
-When you create an account using social login, we may collect:
+Ijtimoiy tarmoq orqali hisob yaratganingizda, biz quyidagilarni to'plashimiz mumkin:
 
-- Your name
-- Email address
-- Social media username
-- Account ID from connected platforms
+- Ismingiz
+- Elektron pochta manzilingiz
+- Ijtimoiy tarmoq foydalanuvchi nomingiz
+- Ulangan platformalardagi hisob ID raqamingiz
 
-This information is used to identify your account and provide our services.
+Bu ma'lumotlar hisobingizni aniqlash va xizmatlarimizni ko'rsatish uchun ishlatiladi.
 
-### 1.2 Social Media Data
+### 1.2 Ijtimoiy tarmoq ma'lumotlari
 
-If you connect your social media accounts to ReplAI, we may access and store the following data depending on permissions granted:
+Agar ijtimoiy tarmoq hisoblaringizni ReplAI'ga ulasangiz, berilgan ruxsatlarga qarab quyidagi ma'lumotlarga kirishimiz va saqlashimiz mumkin:
 
-- Social media posts
-- Comments on posts
-- Direct messages
-- Username and profile information
+- Ijtimoiy tarmoq postlari
+- Postlardagi izohlar
+- To'g'ridan-to'g'ri xabarlar
+- Foydalanuvchi nomi va profil ma'lumotlari
 
-This data is used to enable message management, comment analysis, and AI-assisted responses.
+Bu ma'lumotlar xabarlarni boshqarish, izohlarni tahlil qilish va AI yordamida javoblar yaratishni ta'minlash uchun ishlatiladi.
 
-### 1.3 Usage Data
+### 1.3 Foydalanish ma'lumotlari
 
-We may automatically collect certain technical information when you use our service, including:
+Xizmatimizdan foydalanganingizda biz avtomatik ravishda quyidagi texnik ma'lumotlarni to'plashimiz mumkin:
 
-- Device type
-- Browser type
-- IP address
-- Access time and usage patterns
-- Platform interactions
+- Qurilma turi
+- Brauzer turi
+- IP manzil
+- Kirish vaqti va foydalanish naqshlari
+- Platformadagi harakatlar
 
-This information helps us improve the service and maintain system security.
+Bu ma'lumotlar xizmatni yaxshilash va tizim xavfsizligini ta'minlashga yordam beradi.
 
-## 2. How We Use Your Information
+## 2. Ma'lumotlaringizni qanday ishlatamiz
 
-We use the collected data to provide and improve our services, including:
+Biz to'plangan ma'lumotlarni xizmatlarimizni ko'rsatish va yaxshilash uchun ishlatamiz, jumladan:
 
-- Managing and organizing social media messages and comments
-- Providing AI-powered message analysis
-- Generating AI-assisted replies to comments or messages
-- Improving system performance
-- Providing customer support
-- Maintaining platform security
+- Ijtimoiy tarmoq xabarlari va izohlarni boshqarish va tartibga solish
+- AI yordamida xabarlarni tahlil qilish
+- Izohlar yoki xabarlarga AI yordamida javoblar yaratish
+- Tizim samaradorligini oshirish
+- Mijozlarga yordam ko'rsatish
+- Platforma xavfsizligini ta'minlash
 
-## 3. AI Processing of Data
+## 3. Ma'lumotlarni AI orqali qayta ishlash
 
-ReplAI uses artificial intelligence technologies to analyze social media interactions and generate suggested responses.
+ReplAI ijtimoiy tarmoq o'zaro ta'sirlarini tahlil qilish va tavsiya etilgan javoblarni yaratish uchun sun'iy intellekt texnologiyalaridan foydalanadi.
 
-For this purpose:
+Bu maqsadda:
 
-- Content such as messages and comments may be processed by third-party AI providers.
-- When possible, we send anonymized or minimized versions of the data to these AI services.
-- AI providers process the information solely to generate responses or perform analysis.
+- Xabarlar va izohlar kabi kontent uchinchi tomon AI provayderlari tomonidan qayta ishlanishi mumkin.
+- Imkoniyat bo'lganda, biz bu AI xizmatlariga ma'lumotlarning anonimizatsiya qilingan yoki minimallashtirilgan versiyalarini yuboramiz.
+- AI provayderlari ma'lumotlarni faqat javoblar yaratish yoki tahlil qilish maqsadida qayta ishlaydi.
 
-## 4. Data Storage and Retention
+## 4. Ma'lumotlarni saqlash va saqlash muddati
 
-ReplAI stores user data including messages and comments connected to your account.
+ReplAI foydalanuvchi ma'lumotlarini, jumladan hisobingizga ulangan xabarlar va izohlarni saqlaydi.
 
-- Messages and comments may be stored permanently unless you delete them or disconnect your account.
-- If you delete your account, associated data may also be deleted from our systems within a reasonable period.
+- Xabarlar va izohlar siz ularni o'chirmaguncha yoki hisobingizni uzmaguncha doimiy saqlanishi mumkin.
+- Agar hisobingizni o'chirsangiz, tegishli ma'lumotlar ham oqilona muddat ichida tizimlarimizdan o'chirilishi mumkin.
 
-## 5. Third-Party Services
+## 5. Uchinchi tomon xizmatlari
 
-ReplAI may use third-party services to operate the platform, including:
+ReplAI platformani ishlatish uchun uchinchi tomon xizmatlaridan foydalanishi mumkin, jumladan:
 
-- Social media platform APIs
-- Cloud infrastructure providers
-- Artificial intelligence providers
-- Security and analytics tools
+- Ijtimoiy tarmoq platformalari API'lari
+- Bulutli infratuzilma provayderlari
+- Sun'iy intellekt provayderlari
+- Xavfsizlik va tahlil vositalari
 
-These third parties may process limited data only as necessary to provide their services.
+Bu uchinchi tomonlar faqat o'z xizmatlarini ko'rsatish uchun zarur bo'lgan cheklangan ma'lumotlarni qayta ishlashi mumkin.
 
-We require third-party providers to handle data securely and in accordance with applicable privacy standards.
+Biz uchinchi tomon provayderlaridan ma'lumotlarni xavfsiz va amaldagi maxfiylik standartlariga muvofiq qayta ishlashni talab qilamiz.
 
-## 6. Data Security
+## 6. Ma'lumotlar xavfsizligi
 
-We take reasonable technical and organizational measures to protect your information, including:
+Biz ma'lumotlaringizni himoya qilish uchun oqilona texnik va tashkiliy choralarni ko'ramiz, jumladan:
 
-- Secure servers and encrypted connections
-- Access control systems
-- Monitoring and security practices designed to protect user data
+- Xavfsiz serverlar va shifrlangan ulanishlar
+- Kirish nazorati tizimlari
+- Foydalanuvchi ma'lumotlarini himoya qilishga mo'ljallangan monitoring va xavfsizlik amaliyotlari
 
-However, no online service can guarantee absolute security.
+Biroq, hech qanday onlayn xizmat mutlaq xavfsizlikni kafolatlay olmaydi.
 
-## 7. User Rights and Data Control
+## 7. Foydalanuvchi huquqlari va ma'lumotlarni nazorat qilish
 
-Users of ReplAI have the right to:
+ReplAI foydalanuvchilari quyidagi huquqlarga ega:
 
-- Access their stored data
-- Request correction of inaccurate data
-- Delete their account and associated information
-- Disconnect connected social media accounts
+- Saqlangan ma'lumotlariga kirish
+- Noto'g'ri ma'lumotlarni tuzatishni so'rash
+- Hisobini va tegishli ma'lumotlarni o'chirish
+- Ulangan ijtimoiy tarmoq hisoblarini uzish
 
-To request data deletion or assistance, please contact us at: **sokhib@jett.uz**
+Ma'lumotlarni o'chirish yoki yordam so'rash uchun biz bilan bog'laning: **sokhib@jett.uz**
 
-## 8. Business Accounts
+## 8. Biznes hisoblari
 
-ReplAI is designed for users who operate business or professional social media accounts. The platform is intended to help businesses manage communication with their audiences.
+ReplAI biznes yoki professional ijtimoiy tarmoq hisoblarini boshqaradigan foydalanuvchilar uchun mo'ljallangan. Platforma bizneslarning auditoriyalari bilan muloqotni boshqarishiga yordam berish uchun yaratilgan.
 
-## 9. Subscription Services
+## 9. Obuna xizmatlari
 
-ReplAI operates under a subscription-based pricing model.
+ReplAI obunaga asoslangan narxlash modeli bo'yicha ishlaydi.
 
-Payment information may be processed by third-party payment providers. ReplAI does not store full payment card details.
+To'lov ma'lumotlari uchinchi tomon to'lov provayderlari tomonidan qayta ishlanishi mumkin. ReplAI to'lov kartasi ma'lumotlarini to'liq saqlamaydi.
 
-## 10. Children's Privacy
+## 10. Bolalar maxfiyligi
 
-ReplAI is not intended for children. Our services are designed for business account holders.
+ReplAI bolalar uchun mo'ljallanmagan. Bizning xizmatlarimiz biznes hisob egalari uchun yaratilgan.
 
-We do not knowingly collect personal information from individuals under the age of 13. If we become aware that such data has been collected, we will take steps to delete it.
+Biz 13 yoshdan kichik shaxslarning shaxsiy ma'lumotlarini ataylab to'plamaymiz. Agar bunday ma'lumotlar to'planganligini bilsak, ularni o'chirish uchun choralar ko'ramiz.
 
-## 11. Changes to This Privacy Policy
+## 11. Ushbu Maxfiylik siyosatiga o'zgartirishlar
 
-We may update this Privacy Policy from time to time to reflect changes in our services, legal requirements, or security practices.
+Biz ushbu Maxfiylik siyosatini vaqti-vaqti bilan xizmatlarimiz, huquqiy talablar yoki xavfsizlik amaliyotlaridagi o'zgarishlarni aks ettirish uchun yangilashimiz mumkin.
 
-Updated versions will be posted at: `https://replai.uz/privacy`
+Yangilangan versiyalar quyidagi manzilda joylashtiriladi: `https://replai.uz/privacy`
 
-Your continued use of the service after updates indicates acceptance of the revised policy.
+Yangilanishlardan so'ng xizmatdan foydalanishni davom ettirishingiz qayta ko'rib chiqilgan siyosatni qabul qilganingizni bildiradi.
 
-## 12. Contact Information
+## 12. Bog'lanish uchun ma'lumotlar
 
-If you have questions or concerns regarding this Privacy Policy or your personal data, please contact us at:
+Ushbu Maxfiylik siyosati yoki shaxsiy ma'lumotlaringiz bo'yicha savollaringiz yoki tashvishlaringiz bo'lsa, biz bilan bog'laning:
 
-- Email: **sokhib@jett.uz**
-- Company: **ReplAI**
-
+- Elektron pochta: **sokhib@jett.uz**
+- Kompaniya: **ReplAI**

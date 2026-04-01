@@ -3,58 +3,57 @@ title: "Условия использования"
 description: "Условия использования платформы ReplAI."
 ---
 
-Last Updated: **March 06, 2026**
+Последнее обновление: **6 марта 2026 г.**
 
-## 1. About ReplAI
+## 1. О ReplAI
 
-ReplAI is a software platform designed to help businesses manage social media communications using automation and artificial intelligence. The service allows users to connect social media accounts, monitor posts, manage comments and direct messages, and generate AI-assisted responses.
+ReplAI — это программная платформа, предназначенная для помощи бизнесам в управлении коммуникациями в социальных сетях с использованием автоматизации и искусственного интеллекта. Сервис позволяет пользователям подключать аккаунты социальных сетей, отслеживать публикации, управлять комментариями и личными сообщениями, а также генерировать ответы с помощью ИИ.
 
-## 2. Eligibility
+## 2. Право на использование
 
-To use ReplAI, you must be at least 18 years old and have the legal authority to manage any social media account you connect to the platform. The service is intended primarily for business or professional accounts.
+Для использования ReplAI вам должно быть не менее 18 лет, и вы должны обладать законным правом управлять любым аккаунтом социальной сети, который вы подключаете к платформе. Сервис предназначен преимущественно для бизнес- или профессиональных аккаунтов.
 
-## 3. Account Registration
+## 3. Регистрация аккаунта
 
-Users access ReplAI through supported social media login methods. You are responsible for maintaining the security of your account and for all activities conducted under it. You agree to provide accurate and up-to-date information.
+Пользователи входят в ReplAI через поддерживаемые методы авторизации социальных сетей. Вы несёте ответственность за безопасность своего аккаунта и все действия, совершённые под ним. Вы обязуетесь предоставлять точную и актуальную информацию.
 
-## 4. Social Media Platform Integration
+## 4. Интеграция с платформами социальных сетей
 
-By connecting a social media account, you authorize ReplAI to access certain information through official APIs, including posts, comments, direct messages, and usernames. Your use of those platforms remains subject to the terms and policies of the respective providers.
+Подключая аккаунт социальной сети, вы разрешаете ReplAI доступ к определённой информации через официальные API, включая публикации, комментарии, личные сообщения и имена пользователей. Ваше использование этих платформ остаётся предметом условий и политик соответствующих провайдеров.
 
-## 5. Acceptable Use
+## 5. Допустимое использование
 
-You agree not to misuse the service. Prohibited activities include violating laws, sending spam or abusive messages, attempting to access unauthorized data, or interfering with the platform’s operation.
+Вы обязуетесь не злоупотреблять сервисом. Запрещённые действия включают: нарушение законов, отправку спама или оскорбительных сообщений, попытки доступа к неавторизованным данным или вмешательство в работу платформы.
 
-## 6. AI-Generated Content
+## 6. Контент, созданный ИИ
 
-ReplAI may generate automated responses using artificial intelligence technologies. These responses are suggestions and may not always be accurate or appropriate. Users are responsible for reviewing and approving generated content before publishing.
+ReplAI может генерировать автоматизированные ответы с использованием технологий искусственного интеллекта. Эти ответы являются предложениями и не всегда могут быть точными или уместными. Пользователи несут ответственность за проверку и одобрение сгенерированного контента перед публикацией.
 
-## 7. Subscription and Payments
+## 7. Подписка и оплата
 
-ReplAI operates under a subscription-based pricing model. Fees depend on the selected plan. Failure to pay subscription fees may result in suspension or termination of the service.
+ReplAI работает по модели подписки. Стоимость зависит от выбранного тарифного плана. Неуплата подписки может привести к приостановке или прекращению предоставления услуг.
 
-## 8. Data Ownership
+## 8. Право собственности на данные
 
-Users retain ownership of their social media content. By using ReplAI, you grant us a limited license to access, process, and store the content necessary to provide the service and improve platform functionality.
+Пользователи сохраняют право собственности на свой контент в социальных сетях. Используя ReplAI, вы предоставляете нам ограниченную лицензию на доступ, обработку и хранение контента, необходимого для предоставления услуг и улучшения функциональности платформы.
 
-## 9. Service Availability
+## 9. Доступность сервиса
 
-While we aim to maintain reliable service, ReplAI does not guarantee uninterrupted availability. Maintenance, updates, or technical issues may occasionally affect access to the platform.
+Мы стремимся обеспечить надёжную работу сервиса, однако ReplAI не гарантирует бесперебойную доступность. Техническое обслуживание, обновления или технические проблемы могут время от времени влиять на доступ к платформе.
 
-## 10. Limitation of Liability
+## 10. Ограничение ответственности
 
-To the maximum extent permitted by law, ReplAI shall not be liable for indirect damages, business losses, or consequences arising from the use of AI-generated responses or third-party platform restrictions.
+В максимальной степени, допускаемой законом, ReplAI не несёт ответственности за косвенные убытки, потери бизнеса или последствия, возникающие в результате использования ответов, сгенерированных ИИ, или ограничений сторонних платформ.
 
-## 11. Termination
+## 11. Прекращение действия
 
-ReplAI reserves the right to suspend or terminate accounts that violate these Terms or misuse the platform. Users may also stop using the service and request account deletion at any time.
+ReplAI оставляет за собой право приостановить или удалить аккаунты, нарушающие настоящие Условия или злоупотребляющие платформой. Пользователи также могут прекратить использование сервиса и запросить удаление аккаунта в любое время.
 
-## 12. Changes to the Terms
+## 12. Изменения Условий
 
-These Terms may be updated periodically to reflect changes in services, technology, or legal requirements. Continued use of the platform after updates constitutes acceptance of the revised Terms.
+Настоящие Условия могут периодически обновляться для отражения изменений в услугах, технологиях или правовых требованиях. Продолжение использования платформы после обновлений означает принятие пересмотренных Условий.
 
-## 13. Contact Information
+## 13. Контактная информация
 
-For questions regarding these Terms, please contact: **sokhib@jett.uz**  
-Company: **ReplAI**
-
+По вопросам, касающимся настоящих Условий, свяжитесь с нами: **sokhib@jett.uz**
+Компания: **ReplAI**

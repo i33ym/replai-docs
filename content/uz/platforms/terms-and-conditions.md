@@ -3,58 +3,57 @@ title: "Foydalanish shartlari"
 description: "ReplAI platformasidan foydalanish shartlari."
 ---
 
-Last Updated: **March 06, 2026**
+Oxirgi yangilanish: **2026-yil 6-mart**
 
-## 1. About ReplAI
+## 1. ReplAI haqida
 
-ReplAI is a software platform designed to help businesses manage social media communications using automation and artificial intelligence. The service allows users to connect social media accounts, monitor posts, manage comments and direct messages, and generate AI-assisted responses.
+ReplAI — bu bizneslarning ijtimoiy tarmoq muloqotlarini avtomatlashtirish va sun'iy intellekt yordamida boshqarishga mo'ljallangan dasturiy platforma. Xizmat foydalanuvchilarga ijtimoiy tarmoq hisoblarini ulash, postlarni kuzatish, izohlar va to'g'ridan-to'g'ri xabarlarni boshqarish hamda AI yordamida javoblar yaratish imkonini beradi.
 
-## 2. Eligibility
+## 2. Foydalanish huquqi
 
-To use ReplAI, you must be at least 18 years old and have the legal authority to manage any social media account you connect to the platform. The service is intended primarily for business or professional accounts.
+ReplAI'dan foydalanish uchun siz kamida 18 yoshda bo'lishingiz va platformaga ulagan har qanday ijtimoiy tarmoq hisobini boshqarish huquqiga ega bo'lishingiz kerak. Xizmat asosan biznes yoki professional hisoblar uchun mo'ljallangan.
 
-## 3. Account Registration
+## 3. Hisobni ro'yxatdan o'tkazish
 
-Users access ReplAI through supported social media login methods. You are responsible for maintaining the security of your account and for all activities conducted under it. You agree to provide accurate and up-to-date information.
+Foydalanuvchilar ReplAI'ga qo'llab-quvvatlanadigan ijtimoiy tarmoq login usullari orqali kirishadi. Siz hisobingiz xavfsizligini ta'minlash va uning ostida amalga oshirilgan barcha harakatlar uchun javobgarsiz. To'g'ri va dolzarb ma'lumotlar taqdim etishga rozilik bildirasiz.
 
-## 4. Social Media Platform Integration
+## 4. Ijtimoiy tarmoq platformalari integratsiyasi
 
-By connecting a social media account, you authorize ReplAI to access certain information through official APIs, including posts, comments, direct messages, and usernames. Your use of those platforms remains subject to the terms and policies of the respective providers.
+Ijtimoiy tarmoq hisobini ulash orqali siz ReplAI'ga rasmiy API'lar orqali muayyan ma'lumotlarga, jumladan postlar, izohlar, to'g'ridan-to'g'ri xabarlar va foydalanuvchi nomlariga kirish huquqini berasiz. Bu platformalardan foydalanishingiz tegishli provayderlarning shartlari va siyosatlariga bo'ysunadi.
 
-## 5. Acceptable Use
+## 5. Maqbul foydalanish
 
-You agree not to misuse the service. Prohibited activities include violating laws, sending spam or abusive messages, attempting to access unauthorized data, or interfering with the platform’s operation.
+Siz xizmatdan noto'g'ri foydalanmaslikka rozilik bildirasiz. Taqiqlangan harakatlar quyidagilarni o'z ichiga oladi: qonunlarni buzish, spam yoki haqoratomuz xabarlar yuborish, ruxsatsiz ma'lumotlarga kirishga urinish yoki platformaning ishlashiga xalaqit berish.
 
-## 6. AI-Generated Content
+## 6. AI tomonidan yaratilgan kontent
 
-ReplAI may generate automated responses using artificial intelligence technologies. These responses are suggestions and may not always be accurate or appropriate. Users are responsible for reviewing and approving generated content before publishing.
+ReplAI sun'iy intellekt texnologiyalari yordamida avtomatlashtirilgan javoblar yaratishi mumkin. Bu javoblar tavsiyalar bo'lib, har doim to'g'ri yoki mos bo'lmasligi mumkin. Foydalanuvchilar yaratilgan kontentni nashr etishdan oldin ko'rib chiqish va tasdiqlash uchun javobgardirlar.
 
-## 7. Subscription and Payments
+## 7. Obuna va to'lovlar
 
-ReplAI operates under a subscription-based pricing model. Fees depend on the selected plan. Failure to pay subscription fees may result in suspension or termination of the service.
+ReplAI obunaga asoslangan narxlash modeli bo'yicha ishlaydi. To'lovlar tanlangan rejaga bog'liq. Obuna to'lovlarini to'lamaslik xizmatning to'xtatilishi yoki bekor qilinishiga olib kelishi mumkin.
 
-## 8. Data Ownership
+## 8. Ma'lumotlarga egalik
 
-Users retain ownership of their social media content. By using ReplAI, you grant us a limited license to access, process, and store the content necessary to provide the service and improve platform functionality.
+Foydalanuvchilar o'zlarining ijtimoiy tarmoq kontentiga egalik huquqini saqlab qoladilar. ReplAI'dan foydalanish orqali siz bizga xizmatni ko'rsatish va platforma funksionalligini yaxshilash uchun zarur bo'lgan kontentga kirish, qayta ishlash va saqlash uchun cheklangan litsenziya berasiz.
 
-## 9. Service Availability
+## 9. Xizmat mavjudligi
 
-While we aim to maintain reliable service, ReplAI does not guarantee uninterrupted availability. Maintenance, updates, or technical issues may occasionally affect access to the platform.
+Biz ishonchli xizmat ko'rsatishga intilamiz, ammo ReplAI uzluksiz mavjudlikni kafolatlamaydi. Texnik xizmat ko'rsatish, yangilanishlar yoki texnik muammolar vaqti-vaqti bilan platformaga kirishga ta'sir qilishi mumkin.
 
-## 10. Limitation of Liability
+## 10. Javobgarlikni cheklash
 
-To the maximum extent permitted by law, ReplAI shall not be liable for indirect damages, business losses, or consequences arising from the use of AI-generated responses or third-party platform restrictions.
+Qonun tomonidan ruxsat etilgan maksimal darajada, ReplAI bilvosita zararlar, biznes yo'qotishlar yoki AI tomonidan yaratilgan javoblar yoki uchinchi tomon platformalari cheklovlaridan kelib chiqadigan oqibatlar uchun javobgar bo'lmaydi.
 
-## 11. Termination
+## 11. Bekor qilish
 
-ReplAI reserves the right to suspend or terminate accounts that violate these Terms or misuse the platform. Users may also stop using the service and request account deletion at any time.
+ReplAI ushbu Shartlarni buzgan yoki platformadan noto'g'ri foydalangan hisoblarni to'xtatish yoki bekor qilish huquqini o'zida saqlab qoladi. Foydalanuvchilar ham istalgan vaqtda xizmatdan foydalanishni to'xtatishi va hisobni o'chirishni so'rashi mumkin.
 
-## 12. Changes to the Terms
+## 12. Shartlarga o'zgartirishlar
 
-These Terms may be updated periodically to reflect changes in services, technology, or legal requirements. Continued use of the platform after updates constitutes acceptance of the revised Terms.
+Ushbu Shartlar xizmatlar, texnologiya yoki huquqiy talablardagi o'zgarishlarni aks ettirish uchun vaqti-vaqti bilan yangilanishi mumkin. Yangilanishlardan so'ng platformadan foydalanishni davom ettirish qayta ko'rib chiqilgan Shartlarni qabul qilganingizni bildiradi.
 
-## 13. Contact Information
+## 13. Bog'lanish uchun ma'lumotlar
 
-For questions regarding these Terms, please contact: **sokhib@jett.uz**  
-Company: **ReplAI**
-
+Ushbu Shartlar bo'yicha savollaringiz bo'lsa, biz bilan bog'laning: **sokhib@jett.uz**
+Kompaniya: **ReplAI**

@@ -3,29 +3,28 @@ title: "Инструкция по удалению данных"
 description: "Как запросить удаление ваших данных из ReplAI."
 ---
 
-Last Updated: **March 06, 2026**
+Последнее обновление: **6 марта 2026 г.**
 
-If you would like to request deletion of your data from ReplAI, you can do so by contacting our support team.
+Если вы хотите запросить удаление ваших данных из ReplAI, вы можете сделать это, связавшись с нашей службой поддержки.
 
-## How to Request Data Deletion
+## Как запросить удаление данных
 
-To request deletion of your account and associated data, please send an email to: **sokhib@jett.uz**
+Для запроса удаления вашего аккаунта и связанных данных отправьте электронное письмо на адрес: **sokhib@jett.uz**
 
-Please include:
+Пожалуйста, укажите:
 
-- The email address associated with your ReplAI account
-- Your social media username connected to ReplAI (if applicable)
-- A short statement requesting account deletion
+- Адрес электронной почты, связанный с вашим аккаунтом ReplAI
+- Имя пользователя в социальной сети, подключённой к ReplAI (если применимо)
+- Краткое заявление с просьбой об удалении аккаунта
 
-## What Happens After Your Request
+## Что происходит после вашего запроса
 
-1. We will verify your identity.
-2. Your ReplAI account will be deleted.
-3. Associated stored data such as messages, comments, and connected account information will be removed from our systems.
+1. Мы подтвердим вашу личность.
+2. Ваш аккаунт ReplAI будет удалён.
+3. Сохранённые данные, такие как сообщения, комментарии и информация о подключённых аккаунтах, будут удалены из наших систем.
 
-Data deletion requests are typically processed within **7–14 business days**.
+Запросы на удаление данных обычно обрабатываются в течение **7–14 рабочих дней**.
 
-## Third-Party Platforms
+## Сторонние платформы
 
-If you connected your social media accounts through third-party platforms such as Instagram or Facebook, you may also remove ReplAI’s access directly from your social media account settings. Once access is removed, ReplAI will no longer receive new data from those platforms.
-
+Если вы подключали свои аккаунты социальных сетей через сторонние платформы, такие как Instagram или Facebook, вы также можете удалить доступ ReplAI непосредственно из настроек вашего аккаунта социальной сети. После удаления доступа ReplAI больше не будет получать новые данные с этих платформ.
