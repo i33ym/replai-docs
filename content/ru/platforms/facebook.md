@@ -1,6 +1,6 @@
 ---
 title: "Facebook"
-description: "Подключите свою Facebook Page к Replai за несколько простых шагов"
+description: "Подключите свою Facebook Page к Replai и управляйте комментариями с помощью ИИ"
 weight: 9
 ---
 
@@ -10,64 +10,126 @@ weight: 9
 
 ---
 
-## Подготовка
+## Требования
 
-### Требуется Facebook Page
+Перед подключением убедитесь, что у вас есть:
 
-- Вам нужна Facebook **Page** (Business или Community)
+- Facebook **Page** (Business или Community)
 - Вы должны быть **Admin** (администратором) этой Page
 
 > Обычные личные профили не подключаются. Поддерживаются только Facebook Pages.
 
 ---
 
-## Как подключиться
+## 1. Создание Facebook Page
 
-### Шаг 1: Добавьте аккаунт из боковой панели
+Если у вас уже есть Facebook Page, пропустите этот раздел и перейдите к [2. Подключение к Replai](#2-подключение-к-replai).
 
-В панели управления Replai найдите раздел **Accounts** на левой боковой панели. Нажмите кнопку **+ Add account**.
+### Шаг 1: Откройте страницу создания Page
 
-### Шаг 2: Выберите Facebook
+Перейдите на [facebook.com/pages/create](https://facebook.com/pages/create) в браузере. Введите **название Page**, **категорию** и описание. Затем нажмите **Create Page**.
 
-Выберите **Facebook** из списка поддерживаемых платформ.
+<img src="/images/instagram/11-facebook-create-page.png" alt="Создание Facebook Page" style="max-width:100%;border-radius:8px;" />
 
-### Шаг 3: Авторизация через Facebook
+### Шаг 2: Завершите настройку Page
 
-Нажмите кнопку **Continue with Facebook**.
+Введите **контактную информацию**, **адрес** и **часы работы**. Нажмите **Next**.
 
-1. **Войдите в Facebook**: Войдите в свой аккаунт Facebook.
-2. **Подтвердите разрешения**: Проверьте запрашиваемые разрешения и нажмите **Continue**.
+<img src="/images/instagram/12-finish-setting-up-facebook-page.png" alt="Завершение настройки" style="max-width:100%;border-radius:8px;" />
 
-### Шаг 4: Выберите Page
+### Шаг 3: Настройте внешний вид Page
 
-Появится список управляемых вами Page. Выберите нужную Page и нажмите **Connect**.
+Добавьте **фото профиля** и **обложку (Cover Photo)**. Нажмите **Next**.
 
-### Шаг 5: Готово!
+<img src="/images/instagram/13-customise-facebook-page.png" alt="Настройка Page" style="max-width:100%;border-radius:8px;" />
 
-Ваша Facebook Page успешно подключена.
+### Шаг 4: Подключение WhatsApp (необязательно)
+
+Вы можете подключить номер WhatsApp или нажать **Skip**, чтобы пропустить этот шаг.
+
+<img src="/images/instagram/14-connect-whatsapp-facebook-page 2.png" alt="Подключение WhatsApp" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 5: Пригласите друзей (необязательно)
+
+Вы можете пригласить друзей на Page или нажать **Next**, чтобы пропустить.
+
+<img src="/images/instagram/15-build-facebook-page-audience.png" alt="Приглашение аудитории" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 6: Будьте в курсе
+
+Настройте параметры уведомлений и нажмите **Done** для завершения.
+
+<img src="/images/instagram/16-stay-informed-about-facebook-page.png" alt="Быть в курсе" style="max-width:100%;border-radius:8px;" />
+
+### Шаг 7: Facebook Page готова
+
+Ваша новая Facebook Business Page готова!
+
+<img src="/images/instagram/17-new-facebook-business-page.png" alt="Новая Business Page" style="max-width:100%;border-radius:8px;" />
 
 ---
 
-## Что дальше?
+## 2. Подключение к Replai
+
+### Шаг 8: Добавьте аккаунт в Replai
+
+В панели управления Replai найдите раздел **Accounts** на левой боковой панели и нажмите кнопку **+ Add account**.
+
+<!-- <img src="/images/facebook/01-replai-accounts-section.png" alt="Раздел Accounts в Replai" style="max-width:100%;border-radius:8px;" /> -->
+
+### Шаг 9: Выберите Facebook
+
+Выберите **Facebook** из списка поддерживаемых платформ.
+
+<!-- <img src="/images/facebook/02-select-facebook-platform.png" alt="Выбор Facebook" style="max-width:100%;border-radius:8px;" /> -->
+
+### Шаг 10: Авторизация через Facebook
+
+Нажмите кнопку **Continue with Facebook**. Откроется страница входа Facebook:
+
+1. **Войдите в Facebook**: Введите email и пароль
+2. **Подтвердите разрешения**: Проверьте запрашиваемые разрешения и нажмите **Continue**
+
+<!-- <img src="/images/facebook/03-facebook-login.png" alt="Вход в Facebook" style="max-width:100%;border-radius:8px;" /> -->
+
+<!-- <img src="/images/facebook/04-facebook-permissions.png" alt="Подтверждение разрешений" style="max-width:100%;border-radius:8px;" /> -->
+
+### Шаг 11: Выберите Page
+
+Появится список управляемых вами Facebook Page. Выберите нужную Page и нажмите **Connect**.
+
+<!-- <img src="/images/facebook/05-select-facebook-page.png" alt="Выбор Page" style="max-width:100%;border-radius:8px;" /> -->
+
+### Шаг 12: Готово!
+
+Ваша Facebook Page успешно подключена к Replai.
+
+<!-- <img src="/images/facebook/06-connection-successful.png" alt="Подключение успешно" style="max-width:100%;border-radius:8px;" /> -->
+
+> Скриншоты Replai будут добавлены, когда будут готовы.
+
+---
+
+## Что происходит дальше
 
 После подключения Replai автоматически запускает следующие процессы:
 
 1. **Синхронизация публикаций** — Посты вашей Facebook Page появятся в панели управления Replai.
 2. **Мониторинг комментариев** — Система проверяет наличие новых комментариев каждые 5 минут.
-3. **Механизм подсказок ИИ** — Replai генерирует варианты ответов на основе контекста поста.
+3. **Система ИИ-предложений** — Replai генерирует варианты ответов на основе контекста поста.
 
 ---
 
 ## Настройки
 
-Настройте поведение Page в **Account Settings**:
+Настройте поведение Page в **Настройках аккаунта**:
 
 ### Настройки автоответов
-* **Enable auto-reply**: Автоматическая публикация ответов ИИ, соответствующих вашему порогу уверенности.
-* **Review before posting**: Удержание ответов для ручного подтверждения перед публикацией.
+* **Включить автоответ**: Автоматическая публикация ответов ИИ, соответствующих вашему порогу уверенности.
+* **Проверка перед публикацией**: Удержание ответов для ручного подтверждения перед публикацией.
 
 ### Фильтры комментариев
-* **Comment Filter**: Синхронизация всех комментариев или только неотвеченных.
+* **Фильтр комментариев**: Синхронизация всех комментариев или только неотвеченных.
 
 ---
 
