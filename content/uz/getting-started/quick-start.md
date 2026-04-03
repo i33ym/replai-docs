@@ -14,9 +14,9 @@ Ushbu qo'llanma sizga Replai'da birinchi AI javobingizni olishgacha bo'lgan qada
 
 1. [replai.uz](https://replai.uz) sahifasiga o'ting
 2. **Ro'yxatdan o'tish** tugmasini bosing
-3. Ma'lumotlaringizni kiriting yoki **Google/Facebook** orqali tez ro'yxatdan o'ting
-4. Elektron pochtangizga kelgan tasdiqlash havolasini bosing
-5. Tizimga kiring
+3. Ism, elektron pochta va parolni kiriting (parolni 2 marta tasdiqlang) yoki **Google/Facebook** orqali tez ro'yxatdan o'ting
+4. Elektron pochtangizga kelgan tasdiqlash kodini platformaga kiriting
+5. Elektron pochta va parol bilan tizimga kiring
 
 > Agar hisobingiz allaqachon bo'lsa, to'g'ridan-to'g'ri tizimga kiring.
 

@@ -14,9 +14,9 @@ This guide walks you through the steps to get your first AI response in Replai. 
 
 1. Go to [replai.uz](https://replai.uz)
 2. Click the **Sign Up** button
-3. Enter your details or sign up quickly via **Google/Facebook**
-4. Click the verification link sent to your email
-5. Sign in
+3. Enter your name, email and password (confirm password twice) or sign up quickly via **Google/Facebook**
+4. Enter the verification code sent to your email on the platform
+5. Sign in with your email and password
 
 > If you already have an account, simply sign in.
 

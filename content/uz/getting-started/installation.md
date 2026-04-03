@@ -30,9 +30,10 @@ Brauzerda [replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kirin
 
 Quyidagi ma'lumotlarni kiriting:
 
-- **Ism-familiya**
+- **Ism**
 - **Elektron pochta manzili**
 - **Parol** (kamida 8 belgi)
+- **Parolni tasdiqlash** (parolni qayta kiriting)
 
 Yoki ijtimoiy tarmoq orqali tez ro'yxatdan o'ting:
 - **Google** orqali davom etish
@@ -40,11 +41,11 @@ Yoki ijtimoiy tarmoq orqali tez ro'yxatdan o'ting:
 
 ### 3-qadam: Elektron pochtani tasdiqlash
 
-Elektron pochtangizga tasdiqlash xabari yuboriladi. Xabardagi havolani bosib hisobingizni faollashtiring.
+Elektron pochtangizga tasdiqlash kodi yuboriladi. Ushbu kodni platformadagi tasdiqlash maydoniga kiriting.
 
 ### 4-qadam: Tizimga kirish
 
-Tasdiqlangandan so'ng, elektron pochta va parolingiz bilan tizimga kiring.
+Tasdiqlangandan so'ng, elektron pochta va parolingiz bilan hisobingizga kiring.
 
 ---
 

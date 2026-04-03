@@ -30,9 +30,10 @@ Go to [replai.uz](https://replai.uz) and click the **Sign Up** button.
 
 Enter the following details:
 
-- **Full name**
+- **Name**
 - **Email address**
 - **Password** (at least 8 characters)
+- **Confirm password** (re-enter your password)
 
 Or sign up quickly via social login:
 - Continue with **Google**
@@ -40,7 +41,7 @@ Or sign up quickly via social login:
 
 ### Step 3: Verify your email
 
-A verification email will be sent to your inbox. Click the link in the email to activate your account.
+A verification code will be sent to your email. Enter the code on the platform to verify your account.
 
 ### Step 4: Sign in
 
