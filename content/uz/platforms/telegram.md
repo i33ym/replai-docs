@@ -36,7 +36,7 @@ Replai **Open in Telegram** tugmasini ko'rsatadi — bu Replai botiga havolani o
 
 ### 4-qadam: Botni kanalingizga qo'shing
 
-Bot sizni kanalga administrator sifatida qo'shishni taklif qiladi. **Meni kanalingizga qo'shing** tugmasini bosing, so'ng botga telegram kanal nomini yozing va kanallardan sizga keraklisini tanlang. Quyidagi huquqlarni bering:
+Bot sizni kanalga administrator sifatida qo'shishni taklif qiladi. **Meni kanalingizga qo'shing** tugmasini bosing, so'ngra telegram kanal nomini yozing va keraklisini tanlang. Quyidagi huquqlarni bering:
 * **Xabarlarni chop etish**
 * **Xabarlarni o'chirish**
 * **A'zolarni cheklash**
