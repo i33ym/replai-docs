@@ -24,7 +24,7 @@ Telegram kanallari izohlarni o'qish uchun to'g'ridan-to'g'ri API taqdim etmaydi.
 
 ### 1-qadam: Accounts bo'limini oching
 
-Replai boshqaruv panelidagi chap paneldan **Accounts** bo'limini toping. **+ Add account** tugmasini bosing.
+Replai boshqaruv panelidagi chap paneldan **Accounts** bo'limini toping. **+ Akkaunt qo'shish** tugmasini bosing.
 
 ### 2-qadam: Telegram'ni tanlang
 
