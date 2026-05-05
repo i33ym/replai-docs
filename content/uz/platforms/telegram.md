@@ -32,18 +32,18 @@ Qo'llab-quvvatlanadigan platformalar ro'yxatidan **Telegram** ni tanlang.
 
 ### 3-qadam: Telegram'da botni oching
 
-Replai **Open in Telegram** tugmasini ko'rsatadi — bu Replai botiga havolani ochadi. Uni bosing, Telegram ilovangiz ochiladi va bot bilan suhbat boshlanadi.
+Replai **Open in Telegram** tugmasini ko'rsatadi — bu Replai botiga havolani ochadi. Uni bosing, Telegram ilovangiz ochiladi va **Start** tugmasini bosing, keyin bot bilan suhbat boshlanadi.
 
 ### 4-qadam: Botni kanalingizga qo'shing
 
-Bot sizni kanalga administrator sifatida qo'shishni taklif qiladi. **Add me to your channel** tugmasini bosing va quyidagi huquqlarni bering:
+Bot sizni kanalga administrator sifatida qo'shishni taklif qiladi. **Meni kanalingizga qo'shing** tugmasini bosing, so'ng botga telegram kanal nomini yozing va kanallardan sizga keraklisini tanlang. Quyidagi huquqlarni bering:
 * **Xabarlarni chop etish**
 * **Xabarlarni o'chirish**
 * **A'zolarni cheklash**
 
 ### 5-qadam: Botni muhokama guruhiga qo'shing
 
-Kanalga qo'shilgandan so'ng, bot bog'langan muhokama guruhini aniqlab, uni u yerga ham qo'shishingizni so'raydi. **Add me to [guruh nomi]** tugmasini bosing va quyidagi huquqlarni bering:
+Kanalga qo'shilgandan so'ng, bot bog'langan muhokama guruhini aniqlab, uni u yerga ham qo'shishingizni so'raydi. **[guruh nomi]ga meni qo'shing** tugmasini bosing va quyidagi huquqlarni bering:
 * **Xabarlarni o'chirish**
 * **A'zolarni cheklash**
 
@@ -71,7 +71,7 @@ Ulanishdan so'ng:
 
 ### «This channel has no linked discussion group»
 **Muammo:** Telegram kanalingizga bog'langan muhokama guruhi yo'q.
-**Yechim:** Telegram'da kanalingizni oching → **Tahrirlash** → **Muhokama** → mavjud guruhni bog'lang yoki yangi guruh yarating. Keyin botda «Guruhni bog'ladim — yana tekshiring» tugmasini bosing.
+**Yechim:** Telegram'da kanalingizni oching → **Tahrirlash** → **Muhokama** → mavjud guruhni bog'lang yoki yangi guruh yarating. Keyin botda **Guruhni bog'ladim — yana tekshiring** tugmasini bosing.
 
 ### «That link has expired»
 **Muammo:** Ulanish havolasi cheklangan vaqt uchun amal qiladi.
@@ -107,7 +107,7 @@ Ulanishdan so'ng:
 J: Ha. Har bir kanal uchun «Add account» jarayonini takrorlang.
 
 **S: Mening kanalim yopiq — uni ham ulash mumkinmi?**
-J: Ha. Botda **«My channel is private — how to add?»** tugmasini bosing va kanal Administrators sozlamalari orqali botni qo'lda qo'shish bo'yicha ko'rsatmalar olasiz.
+J: Ha. Botda **Kanalim yopiq — qanday qo'shaman?** tugmasini bosing va kanal Administrators sozlamalari orqali botni qo'lda qo'shish bo'yicha ko'rsatmalar olasiz.
 
 **S: Bot tokeni yaratish kerakmi?**
 J: Yo'q. Replai barcha foydalanuvchilar uchun umumiy botdan foydalanadi — siz shunchaki uni kanalingizga taklif qilasiz.

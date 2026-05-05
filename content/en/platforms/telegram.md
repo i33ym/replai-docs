@@ -30,11 +30,11 @@ From the list of supported platforms, select **Telegram**.
 
 ### Step 3: Open the bot in Telegram
 
-Replai will display an **Open in Telegram** button that opens a deep link to the Replai bot. Click it — your Telegram app will open and start a chat with the bot.
+Replai will display an **Open in Telegram** button that opens a deep link to the Replai bot. Click it — your Telegram app will open. Press **Start** and the bot will begin the conversation.
 
 ### Step 4: Add the bot to your channel
 
-The bot will prompt you to add it as an administrator to your channel. Click **Add me to your channel** and grant the following permissions:
+The bot will prompt you to add it as an administrator to your channel. Click **Add me to your channel**, then type your channel name in Telegram and select it from the list. Grant the following permissions:
 * **Post messages**
 * **Delete messages**
 * **Restrict members**
