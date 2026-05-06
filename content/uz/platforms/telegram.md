@@ -1,5 +1,5 @@
 ---
-title: "Telegram'ni ulash"
+title: "Telegram"
 description: "Telegram kanalingizni Replai'ga ulab, izohlarni sun'iy intellekt yordamida boshqaring"
 weight: 9
 ---
