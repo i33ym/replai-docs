@@ -63,6 +63,96 @@ Replai отобразит кнопку **Open in Telegram**, которая от
 
 ---
 
+## Ручная настройка
+
+Если автоматический процесс через бота не сработал или вы предпочитаете настроить всё самостоятельно, вы можете вручную добавить бота Replai как администратора и связать группу обсуждений через настройки канала.
+
+### Часть 1 — Добавьте бота как администратора канала
+
+**Шаг 1.** Откройте ваш канал в Telegram и нажмите **Manage**.
+
+<img src="/images/telegram/image%200.png" alt="Откройте канал и нажмите Manage" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 2.** В экране редактирования канала нажмите **Administrators**.
+
+<img src="/images/telegram/image%20copy%201.png" alt="Нажмите Administrators" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 3.** Нажмите **Add Administrator**.
+
+<img src="/images/telegram/image%20copy%202.png" alt="Нажмите Add Administrator" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 4.** Найдите бота Replai по имени пользователя и выберите его.
+
+<img src="/images/telegram/image%20copy%203.png" alt="Найдите бота" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 5.** Telegram предложит добавить бота в канал. Нажмите **OK**.
+
+<img src="/images/telegram/image%20copy%204.png" alt="Подтвердите добавление бота в канал" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 6.** Предоставьте необходимые права и нажмите **Save**.
+
+<img src="/images/telegram/image%20copy%205.png" alt="Предоставьте права и сохраните" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Бот теперь появится в списке администраторов.
+
+<img src="/images/telegram/image%20copy%206.png" alt="Бот добавлен как администратор" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### Часть 2 — Привяжите группу обсуждений к каналу
+
+**Шаг 7.** В редактировании канала нажмите **Discussion → Add a group**.
+
+<img src="/images/telegram/image%20copy%207.png" alt="Нажмите Discussion" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 8.** Выберите существующую группу или нажмите **Create a new group**.
+
+<img src="/images/telegram/image%20copy%208.png" alt="Создайте новую группу" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 9.** Дайте группе название и нажмите **Create**.
+
+<img src="/images/telegram/image%20copy%209.png" alt="Назовите группу" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 10.** В редактировании канала группа обсуждений теперь привязана. Нажмите **Save**.
+
+<img src="/images/telegram/image%20copy%2010.png" alt="Группа обсуждений привязана" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### Часть 3 — Добавьте бота как администратора группы обсуждений
+
+**Шаг 11.** Откройте группу обсуждений и перейдите в **Manage → Administrators**.
+
+<img src="/images/telegram/image%20copy%2011.png" alt="Откройте раздел Administrators группы" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 12.** Нажмите **Add Administrator** и найдите бота Replai.
+
+<img src="/images/telegram/image%20copy%2012.png" alt="Add Administrator в группе" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 13.** Выберите бота Replai из результатов поиска.
+
+<img src="/images/telegram/image%20copy%2013.png" alt="Выберите бота" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 14.** Подтвердите добавление бота в группу. Нажмите **OK**.
+
+<img src="/images/telegram/image%20copy%2014.png" alt="Подтвердите добавление бота в группу" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 15.** Предоставьте необходимые права и нажмите **Save**.
+
+<img src="/images/telegram/image%20copy%2015.png" alt="Предоставьте права для группы" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Шаг 16.** Сохраните настройки группы.
+
+<img src="/images/telegram/image%20copy%2016.png" alt="Сохраните настройки группы" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Бот теперь является администратором группы обсуждений.
+
+<img src="/images/telegram/image%20copy%2017.png" alt="Бот добавлен в группу" style="max-width:300px;width:100%;border-radius:8px;" />
+
+После выполнения обоих шагов бот Replai автоматически обнаружит подключение и завершит настройку.
+
+---
+
 ## Решение проблем
 
 ### «Please start from the web app Connect button first»

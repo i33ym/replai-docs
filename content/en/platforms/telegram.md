@@ -66,6 +66,96 @@ Once connected:
 
 ---
 
+## Manual Setup
+
+If the automatic bot flow didn't work, or you prefer to set things up yourself, you can add the Replai bot as an administrator manually and link a discussion group from your channel settings.
+
+### Part 1 — Add the bot as admin to your channel
+
+**Step 1.** Open your channel in Telegram and tap **Manage**.
+
+<img src="/images/telegram/image%200.png" alt="Open channel and tap Manage" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 2.** In the Edit channel screen, tap **Administrators**.
+
+<img src="/images/telegram/image%20copy%201.png" alt="Tap Administrators" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 3.** Tap **Add Administrator**.
+
+<img src="/images/telegram/image%20copy%202.png" alt="Tap Add Administrator" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 4.** Search for the Replai bot by its username and select it.
+
+<img src="/images/telegram/image%20copy%203.png" alt="Search for the bot" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 5.** Telegram will ask to add the bot to the channel. Tap **OK**.
+
+<img src="/images/telegram/image%20copy%204.png" alt="Confirm adding bot to channel" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 6.** Grant the required permissions and tap **Save**.
+
+<img src="/images/telegram/image%20copy%205.png" alt="Grant permissions and save" style="max-width:300px;width:100%;border-radius:8px;" />
+
+The bot now appears in your Administrators list.
+
+<img src="/images/telegram/image%20copy%206.png" alt="Bot added as admin" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### Part 2 — Link a discussion group to your channel
+
+**Step 7.** In Edit channel, tap **Discussion → Add a group**.
+
+<img src="/images/telegram/image%20copy%207.png" alt="Tap Discussion" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 8.** Select an existing group or tap **Create a new group**.
+
+<img src="/images/telegram/image%20copy%208.png" alt="Create a new group" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 9.** Give your group a name and tap **Create**.
+
+<img src="/images/telegram/image%20copy%209.png" alt="Name the group" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 10.** Back in Edit channel, your discussion group is now linked. Tap **Save**.
+
+<img src="/images/telegram/image%20copy%2010.png" alt="Discussion group linked" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### Part 3 — Add the bot as admin to the discussion group
+
+**Step 11.** Open your discussion group and go to **Manage → Administrators**.
+
+<img src="/images/telegram/image%20copy%2011.png" alt="Open group Administrators" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 12.** Tap **Add Administrator** and search for the Replai bot.
+
+<img src="/images/telegram/image%20copy%2012.png" alt="Add Administrator in group" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 13.** Select the Replai bot from the search results.
+
+<img src="/images/telegram/image%20copy%2013.png" alt="Select the bot" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 14.** Confirm adding the bot to the group. Tap **OK**.
+
+<img src="/images/telegram/image%20copy%2014.png" alt="Confirm adding bot to group" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 15.** Grant the required permissions and tap **Save**.
+
+<img src="/images/telegram/image%20copy%2015.png" alt="Grant group permissions" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**Step 16.** Save the group settings.
+
+<img src="/images/telegram/image%20copy%2016.png" alt="Save group settings" style="max-width:300px;width:100%;border-radius:8px;" />
+
+The bot is now an administrator in your discussion group.
+
+<img src="/images/telegram/image%20copy%2017.png" alt="Bot added to group" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Once both steps are complete, the Replai bot will automatically detect the connection and finalize setup.
+
+---
+
 ## Troubleshooting
 
 ### "Please start from the web app Connect button first"

@@ -63,6 +63,96 @@ Ulanishdan so'ng:
 
 ---
 
+## Qo'lda sozlash
+
+Agar avtomatik bot jarayoni ishlamagan bo'lsa yoki siz sozlashni o'zingiz qilishni afzal ko'rsangiz, Replai botini administrator sifatida qo'lda qo'shishingiz va kanal sozlamalaridan muhokama guruhini bog'lashingiz mumkin.
+
+### 1-qism — Botni kanalga administrator sifatida qo'shing
+
+**1-qadam.** Telegram'da kanalingizni oching va **Manage** tugmasini bosing.
+
+<img src="/images/telegram/image%200.png" alt="Kanalga kiring va Manage tugmasini bosing" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**2-qadam.** Kanal tahrirlash ekranida **Administrators** ni bosing.
+
+<img src="/images/telegram/image%20copy%201.png" alt="Administrators ni bosing" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**3-qadam.** **Add Administrator** tugmasini bosing.
+
+<img src="/images/telegram/image%20copy%202.png" alt="Add Administrator tugmasini bosing" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**4-qadam.** Replai botini username orqali qidiring va tanlang.
+
+<img src="/images/telegram/image%20copy%203.png" alt="Botni qidiring" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**5-qadam.** Telegram botni kanalga qo'shishni taklif qiladi. **OK** ni bosing.
+
+<img src="/images/telegram/image%20copy%204.png" alt="Botni kanalga qo'shishni tasdiqlang" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**6-qadam.** Kerakli huquqlarni bering va **Save** ni bosing.
+
+<img src="/images/telegram/image%20copy%205.png" alt="Huquqlar bering va saqlang" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Bot endi Administrators ro'yxatida ko'rinadi.
+
+<img src="/images/telegram/image%20copy%206.png" alt="Bot administrator sifatida qo'shildi" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### 2-qism — Muhokama guruhini kanalga bog'lang
+
+**7-qadam.** Kanal tahrirlashda **Discussion → Add a group** ni bosing.
+
+<img src="/images/telegram/image%20copy%207.png" alt="Discussion ni bosing" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**8-qadam.** Mavjud guruhni tanlang yoki **Create a new group** ni bosing.
+
+<img src="/images/telegram/image%20copy%208.png" alt="Yangi guruh yarating" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**9-qadam.** Guruhga nom bering va **Create** ni bosing.
+
+<img src="/images/telegram/image%20copy%209.png" alt="Guruhga nom bering" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**10-qadam.** Kanal tahrirlashda muhokama guruhi bog'landi. **Save** ni bosing.
+
+<img src="/images/telegram/image%20copy%2010.png" alt="Muhokama guruhi bog'landi" style="max-width:300px;width:100%;border-radius:8px;" />
+
+---
+
+### 3-qism — Botni muhokama guruhiga administrator sifatida qo'shing
+
+**11-qadam.** Muhokama guruhini oching va **Manage → Administrators** ga o'ting.
+
+<img src="/images/telegram/image%20copy%2011.png" alt="Guruh Administrators bo'limini oching" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**12-qadam.** **Add Administrator** ni bosing va Replai botini qidiring.
+
+<img src="/images/telegram/image%20copy%2012.png" alt="Guruhda Add Administrator" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**13-qadam.** Qidiruv natijalaridan Replai botini tanlang.
+
+<img src="/images/telegram/image%20copy%2013.png" alt="Botni tanlang" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**14-qadam.** Botni guruhga qo'shishni tasdiqlang. **OK** ni bosing.
+
+<img src="/images/telegram/image%20copy%2014.png" alt="Botni guruhga qo'shishni tasdiqlang" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**15-qadam.** Kerakli huquqlarni bering va **Save** ni bosing.
+
+<img src="/images/telegram/image%20copy%2015.png" alt="Guruh huquqlarini bering" style="max-width:300px;width:100%;border-radius:8px;" />
+
+**16-qadam.** Guruh sozlamalarini saqlang.
+
+<img src="/images/telegram/image%20copy%2016.png" alt="Guruh sozlamalarini saqlang" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Bot endi muhokama guruhida administrator hisoblanadi.
+
+<img src="/images/telegram/image%20copy%2017.png" alt="Bot guruhga qo'shildi" style="max-width:300px;width:100%;border-radius:8px;" />
+
+Ikkala qadam ham bajarilgandan so'ng, Replai boti ulanishni avtomatik ravishda aniqlab, sozlashni yakunlaydi.
+
+---
+
 ## Muammolarni hal qilish
 
 ### «Please start from the web app Connect button first»
