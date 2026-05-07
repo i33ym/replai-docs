@@ -67,7 +67,25 @@ GapexAI bolalar uchun mo'ljallanmagan. Xizmatlarimiz biznes hisob egalari uchun 
 
 Xizmatlarimiz, qonuniy talablar yoki xavfsizlik amaliyotlaridagi o'zgarishlarni aks ettirish uchun ushbu Maxfiylik siyosatini vaqti-vaqti bilan yangilashimiz mumkin. Yangilangan versiyalar quyidagi manzilda e'lon qilinadi: https://gapex.ai/privacy. Yangilanishlardan keyin xizmatdan foydalanishni davom ettirishingiz qayta ko'rib chiqilgan siyosatni qabul qilishingizni bildiradi.
 
-## 12. Bog'lanish ma'lumotlari
+## 12. YouTube API xizmatlari
 
-Ushbu Maxfiylik siyosati yoki shaxsiy ma'lumotlaringiz bo'yicha savollar yoki tashvishlar bo'lsa, biz bilan bog'laning: Elektron pochta: sokhib@jett.uz | Kompaniya: GapexAI
+Gapex YouTube izohlarini boshqarish va AI yordamida javob berish funksiyalarini taqdim etish uchun YouTube API xizmatlaridan foydalanadi. YouTube kanalingizni ulash va ushbu funksiyalardan foydalanish orqali siz [YouTube foydalanish shartlari](https://www.youtube.com/t/terms) va [Google maxfiylik siyosati](http://www.google.com/policies/privacy) bilan ham bog'liq bo'lishga rozilik bildirasiz.
 
+### 12.1 YouTube API xizmatlari orqali olinadigan ma'lumotlar
+
+Google OAuth orqali YouTube kanalingizni ulaganingizda Gapex quyidagilarga kiradi: kanal ID va asosiy kanal ma'lumotlari, kanalingizga yuklangan videolar ro'yxati, videolaringizdagi izohlar, hamda siz tasdiqlagan javoblar. Gapex YouTube'ga javoblarni faqat siz tasdiqlaganingizdan keyin yuboradi.
+
+### 12.2 Saqlash, cookie'lar va shunga o'xshash texnologiyalar
+
+Gapex OAuth access va refresh tokenlarini, kanal metama'lumotlarini, videolaringiz va izohlar ma'lumotlarini, AI tomonidan tavsiya etilgan va tasdiqlangan javoblarni xavfsiz ma'lumotlar bazasida saqlaydi. Gapex shuningdek foydalanuvchilarning brauzer va qurilmalarida sessiyalarni qo'llab-quvvatlash, sozlamalarni eslab qolish va platformani ishlatish uchun cookie'lar va shunga o'xshash texnologiyalardan foydalanadi. Biz foydalanadigan uchinchi tomon xizmatlari (autentifikatsiya, analitika, infratuzilma provayderlari) ham qurilmangizga cookie'lar joylashtirishi mumkin.
+
+### 12.3 YouTube ma'lumotlaringizni qanday o'chirish va kirishni bekor qilish
+
+Saqlangan YouTube ma'lumotlaringizni o'chirishingiz va/yoki Gapex'ning Google akkauntingizga kirishini istalgan vaqtda bekor qilishingiz mumkin: Ilova orqali: Gapex → Sozlamalar → Ulangan akkauntlar → YouTube → Uzish va ma'lumotlarni o'chirish. Bu Google'ning token bekor qilish endpointini chaqiradi va saqlangan YouTube ma'lumotlaringizni 30 kun ichida o'chiradi. Google orqali: https://myaccount.google.com/connections?filters=3,4&hl=en sahifasiga o'ting va Gapex'ning kirishini bekor qiling. Bekor qilingandan so'ng, saqlangan avtorizatsiya tokenlarimiz haqiqiy bo'lmay qoladi va biz YouTube ma'lumotlaringizni 30 kun ichida o'chiramiz. Ma'lumotlarni o'chirish so'rovlari uchun biz bilan bog'laning: sokhib@jett.uz.
+
+## 13. Bog'lanish ma'lumotlari
+
+Ushbu Maxfiylik siyosati yoki shaxsiy ma'lumotlaringiz bo'yicha savollar yoki tashvishlar bo'lsa, biz bilan bog'laning:
+
+- Elektron pochta: **sokhib@jett.uz**
+- Kompaniya: **GapexAI**

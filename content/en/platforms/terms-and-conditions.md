@@ -75,3 +75,7 @@ Gapex stores OAuth access and refresh tokens, channel metadata, your videos and 
 
 You may delete your stored YouTube data and/or revoke Gapex's access to your Google Account at any time: In-app: Open Gapex → Settings → Connected Accounts → YouTube → Disconnect & Delete Data. This calls Google's token revocation endpoint and deletes your stored YouTube-derived data within 30 days. Via Google: Visit https://myaccount.google.com/connections?filters=3,4&hl=en and revoke Gapex's access. Once revoked, our stored authorization tokens become invalid and we will delete your YouTube-derived data within 30 days.
 
+## 14. Contact Information
+
+For questions regarding these Terms, please contact us at: **sokhib@jett.uz**  
+Company: **Gapex**
