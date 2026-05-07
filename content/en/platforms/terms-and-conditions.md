@@ -3,7 +3,13 @@ title: "Terms & Conditions"
 description: "Terms for using the Gapex platform."
 ---
 
-Last Updated: **March 06, 2026**
+Last Updated: May 07, 2026
+
+Welcome to Gapex. These Terms & Conditions ("Terms") govern your use of the Gapex platform and services provided by Gapex ("we", "our", or "us").
+
+These Terms apply to our website and platform available at: https://gapex.ai/terms
+
+By accessing or using Gapex, you agree to be bound by these Terms.
 
 ## 1. About Gapex
 
@@ -19,11 +25,11 @@ Users access Gapex through supported social media login methods. You are respons
 
 ## 4. Social Media Platform Integration
 
-By connecting a social media account, you authorize Gapex to access certain information through official APIs, including posts, comments, direct messages, and usernames. Your use of those platforms remains subject to the terms and policies of the respective providers.
+By connecting a social media account, you authorize Gapex to access certain information through official APIs, including posts, videos, comments, direct messages, and usernames. Your use of those platforms remains subject to the terms and policies of the respective providers. In particular, Gapex uses YouTube API Services to provide its YouTube features. By using Gapex's YouTube features, you agree to be bound by the YouTube Terms of Service, available at https://www.youtube.com/t/terms. You also acknowledge that Google's Privacy Policy (http://www.google.com/policies/privacy) applies to your use of Google services accessed through Gapex. You may revoke Gapex's access to your Google account at any time at https://myaccount.google.com/connections?filters=3,4&hl=en.
 
 ## 5. Acceptable Use
 
-You agree not to misuse the service. Prohibited activities include violating laws, sending spam or abusive messages, attempting to access unauthorized data, or interfering with the platform’s operation.
+You agree not to misuse the service. Prohibited activities include violating laws, sending spam or abusive messages, attempting to access unauthorized data, or interfering with the platform's operation. When using Gapex's YouTube features, you also agree to comply with the YouTube Terms of Service and YouTube's Community Guidelines (https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
 
 ## 6. AI-Generated Content
 
@@ -35,7 +41,7 @@ Gapex operates under a subscription-based pricing model. Fees depend on the sele
 
 ## 8. Data Ownership
 
-Users retain ownership of their social media content. By using Gapex, you grant us a limited license to access, process, and store the content necessary to provide the service and improve platform functionality.
+Users retain ownership of their social media content. By using Gapex, you grant us a limited license to access, process, and store the content solely as necessary to provide the service to you, in accordance with the consent you have granted via the connected platform's authorization flow. Gapex does not use content obtained via YouTube API Services to train machine learning models or for any purpose beyond providing the requested service to you.
 
 ## 9. Service Availability
 
@@ -53,8 +59,19 @@ Gapex reserves the right to suspend or terminate accounts that violate these Ter
 
 These Terms may be updated periodically to reflect changes in services, technology, or legal requirements. Continued use of the platform after updates constitutes acceptance of the revised Terms.
 
-## 13. Contact Information
+## 13. YouTube API Services
 
-For questions regarding these Terms, please contact: **sokhib@jett.uz**  
-Company: **Gapex**
+Gapex uses YouTube API Services to provide its YouTube comment management and AI-assisted reply features. By connecting your YouTube channel and using these features, you also agree to be bound by the YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (http://www.google.com/policies/privacy).
+
+### 13.1 Data accessed via YouTube API Services
+
+When you connect your YouTube channel via Google OAuth, Gapex accesses: your channel ID and basic channel information, the list of videos uploaded to your channel, comment threads on your videos, and the replies you choose to post. Gapex posts replies to YouTube only after you approve them.
+
+### 13.2 Storage, cookies, and similar technologies
+
+Gapex stores OAuth access and refresh tokens, channel metadata, your videos and comment data, and the AI-suggested and approved replies, in our secure database. Gapex also uses cookies and similar technologies in users' browsers and devices to maintain sessions, remember preferences, and operate the platform. Third-party services we use (authentication, analytics, infrastructure providers) may also place cookies on your device.
+
+### 13.3 How to delete your YouTube data and revoke access
+
+You may delete your stored YouTube data and/or revoke Gapex's access to your Google Account at any time: In-app: Open Gapex → Settings → Connected Accounts → YouTube → Disconnect & Delete Data. This calls Google's token revocation endpoint and deletes your stored YouTube-derived data within 30 days. Via Google: Visit https://myaccount.google.com/connections?filters=3,4&hl=en and revoke Gapex's access. Once revoked, our stored authorization tokens become invalid and we will delete your YouTube-derived data within 30 days.
 

@@ -1,59 +1,65 @@
 ---
 title: "Foydalanish shartlari"
-description: "Gapex platformasidan foydalanish shartlari."
+description: "GapexAI platformasidan foydalanish shartlari."
 ---
 
-Oxirgi yangilanish: **2026-yil 6-mart**
+Oxirgi yangilanish: 2026-yil 6-mart
 
-## 1. Gapex haqida
+GapexAI’ga xush kelibsiz. Ushbu Foydalanish shartlari (“Shartlar”) GapexAI (“biz”, “bizning”) tomonidan taqdim etilayotgan platforma va xizmatlardan foydalanishingizni tartibga soladi.
 
-Gapex — bu bizneslarning ijtimoiy tarmoq muloqotlarini avtomatlashtirish va sun'iy intellekt yordamida boshqarishga mo'ljallangan dasturiy platforma. Xizmat foydalanuvchilarga ijtimoiy tarmoq hisoblarini ulash, postlarni kuzatish, izohlar va to'g'ridan-to'g'ri xabarlarni boshqarish hamda AI yordamida javoblar yaratish imkonini beradi.
+Ushbu Shartlar bizning veb-saytimiz va platformamizga nisbatan qo‘llaniladi: https://gapex.ai/terms
 
-## 2. Foydalanish huquqi
+GapexAI’dan foydalanib, siz ushbu Shartlarga rioya qilishga rozilik bildirasiz.
 
-Gapex'dan foydalanish uchun siz kamida 18 yoshda bo'lishingiz va platformaga ulagan har qanday ijtimoiy tarmoq hisobini boshqarish huquqiga ega bo'lishingiz kerak. Xizmat asosan biznes yoki professional hisoblar uchun mo'ljallangan.
+## 1. GapexAI haqida
 
-## 3. Hisobni ro'yxatdan o'tkazish
+GapexAI – bu avtomatlashtirish va sun’iy intellekt yordamida bizneslarga ijtimoiy media aloqalarini boshqarishda yordam berish uchun mo‘ljallangan dasturiy platforma. Xizmat foydalanuvchilarga ijtimoiy media akkauntlarini ulash, postlarni kuzatish, sharhlar va to‘g‘ridan-to‘g‘ri xabarlarni boshqarish hamda sun’iy intellekt yordamida javoblar yaratish imkonini beradi.
 
-Foydalanuvchilar Gapex'ga qo'llab-quvvatlanadigan ijtimoiy tarmoq login usullari orqali kirishadi. Siz hisobingiz xavfsizligini ta'minlash va uning ostida amalga oshirilgan barcha harakatlar uchun javobgarsiz. To'g'ri va dolzarb ma'lumotlar taqdim etishga rozilik bildirasiz.
+## 2. Muosirlik
 
-## 4. Ijtimoiy tarmoq platformalari integratsiyasi
+GapexAI’dan foydalanish uchun siz kamida 18 yoshda bo‘lishingiz va platformaga ulagan har qanday ijtimoiy media akkauntini boshqarishga qonuniy vakolatga ega bo‘lishingiz kerak. Xizmat asosan biznes yoki professional akkauntlar uchun mo‘ljallangan.
 
-Ijtimoiy tarmoq hisobini ulash orqali siz Gapex'ga rasmiy API'lar orqali muayyan ma'lumotlarga, jumladan postlar, izohlar, to'g'ridan-to'g'ri xabarlar va foydalanuvchi nomlariga kirish huquqini berasiz. Bu platformalardan foydalanishingiz tegishli provayderlarning shartlari va siyosatlariga bo'ysunadi.
+## 3. Akkauntni ro'yxatdan o'tkazish
+
+Foydalanuvchilar GapexAI’ga qo‘llab-quvvatlanadigan ijtimoiy media kirish usullari orqali kirishadi. Akkauntingiz xavfsizligini ta’minlash va uning ostida amalga oshirilgan barcha harakatlar uchun siz javobgarsiz. Siz aniq va dolzarb ma’lumotlarni taqdim etishga rozilik bildirasiz.
+
+## 4. Ijtimoiy media platformalarini integratsiya qilish
+
+Ijtimoiy media akkauntini ulab, siz GapexAI’ga rasmiy API’lar orqali ma’lumotlarga, jumladan postlar, sharhlar, to‘g‘ridan-to‘g‘ri xabarlar va foydalanuvchi nomlariga kirishga ruxsat berasiz. Ushbu platformalardan foydalanishingiz tegishli provayderlarning shartlari va siyosatlariga bo‘ysunadi.
 
 ## 5. Maqbul foydalanish
 
-Siz xizmatdan noto'g'ri foydalanmaslikka rozilik bildirasiz. Taqiqlangan harakatlar quyidagilarni o'z ichiga oladi: qonunlarni buzish, spam yoki haqoratomuz xabarlar yuborish, ruxsatsiz ma'lumotlarga kirishga urinish yoki platformaning ishlashiga xalaqit berish.
+Siz xizmatdan noto‘g‘ri foydalanmaslikka rozilik bildirasiz. Taqilangan harakatlar qatoriga qonunlarni buzish, spam yoki haqoratli xabarlar yuborish, ruxsatsiz ma’lumotlarga kirishga urinish yoki platformaning ishlashiga xalaqit berish kiradi.
 
-## 6. AI tomonidan yaratilgan kontent
+## 6. Sun'iy intellekt tomonidan yaratilgan kontent
 
-Gapex sun'iy intellekt texnologiyalari yordamida avtomatlashtirilgan javoblar yaratishi mumkin. Bu javoblar tavsiyalar bo'lib, har doim to'g'ri yoki mos bo'lmasligi mumkin. Foydalanuvchilar yaratilgan kontentni nashr etishdan oldin ko'rib chiqish va tasdiqlash uchun javobgardirlar.
+GapexAI sun’iy intellekt texnologiyalari yordamida avtomatlashtirilgan javoblarni yaratishi mumkin. Bu javoblar takliflar bo‘lib, har doim ham aniq yoki mos kelmasligi mumkin. Foydalanuvchilar yaratilgan kontentni nashr etishdan oldin ko‘rib chiqish va tasdiqlash uchun javobgardir.
 
-## 7. Obuna va to'lovlar
+## 7. Obunalar va to'lovlar
 
-Gapex obunaga asoslangan narxlash modeli bo'yicha ishlaydi. To'lovlar tanlangan rejaga bog'liq. Obuna to'lovlarini to'lamaslik xizmatning to'xtatilishi yoki bekor qilinishiga olib kelishi mumkin.
+GapexAI obuna asosidagi narx modelida ishlaydi. To‘lovlar tanlangan rejaga bog‘liq. Obuna to‘lovlarini to‘lamaslik xizmatning to‘xtatilishiga yoki bekor qilinishiga olib kelishi mumkin.
 
-## 8. Ma'lumotlarga egalik
+## 8. Ma'lumotlar mulki
 
-Foydalanuvchilar o'zlarining ijtimoiy tarmoq kontentiga egalik huquqini saqlab qoladilar. Gapex'dan foydalanish orqali siz bizga xizmatni ko'rsatish va platforma funksionalligini yaxshilash uchun zarur bo'lgan kontentga kirish, qayta ishlash va saqlash uchun cheklangan litsenziya berasiz.
+Foydalanuvchilar o‘zlarining ijtimoiy media kontentiga egalik huquqini saqlab qoladilar. GapexAI’dan foydalanib, siz bizga xizmatni ko‘rsatish va platforma funksionalligini yaxshilash uchun zarur bo‘lgan kontentga kirish, qayta ishlash va saqlash uchun cheklangan litsenziya berasiz.
 
 ## 9. Xizmat mavjudligi
 
-Biz ishonchli xizmat ko'rsatishga intilamiz, ammo Gapex uzluksiz mavjudlikni kafolatlamaydi. Texnik xizmat ko'rsatish, yangilanishlar yoki texnik muammolar vaqti-vaqti bilan platformaga kirishga ta'sir qilishi mumkin.
+Biz ishonchli xizmatni saqlashga intilsak-da, GapexAI uzluksiz mavjudlikni kafolatlamaydi. Ta’mirlash, yangilanishlar yoki texnik muammolar vaqti-vaqti bilan platformaga kirishga ta’sir qilishi mumkin.
 
 ## 10. Javobgarlikni cheklash
 
-Qonun tomonidan ruxsat etilgan maksimal darajada, Gapex bilvosita zararlar, biznes yo'qotishlar yoki AI tomonidan yaratilgan javoblar yoki uchinchi tomon platformalari cheklovlaridan kelib chiqadigan oqibatlar uchun javobgar bo'lmaydi.
+Qonun tomonidan ruxsat etilgan maksimal darajada, GapexAI bilvosita zararlar, biznes yo‘qotishlari yoki sun’iy intellekt tomonidan yaratilgan javoblardan yoki uchinchi tomon platformasi cheklovlaridan kelib chiqadigan oqibatlar uchun javobgar bo‘lmaydi.
 
-## 11. Bekor qilish
+## 11. Tugatish
 
-Gapex ushbu Shartlarni buzgan yoki platformadan noto'g'ri foydalangan hisoblarni to'xtatish yoki bekor qilish huquqini o'zida saqlab qoladi. Foydalanuvchilar ham istalgan vaqtda xizmatdan foydalanishni to'xtatishi va hisobni o'chirishni so'rashi mumkin.
+GapexAI ushbu shartlarni buzgan yoki platformadan noto‘g‘ri foydalangan akkauntlarni to‘xtatish yoki bekor qilish huquqini o‘zida saqlab qoladi. Foydalanuvchilar istalgan vaqtda xizmatdan foydalanishni to‘xtatishi va akkauntni o‘chirishni so‘rashi mumkin.
 
 ## 12. Shartlarga o'zgartirishlar
 
-Ushbu Shartlar xizmatlar, texnologiya yoki huquqiy talablardagi o'zgarishlarni aks ettirish uchun vaqti-vaqti bilan yangilanishi mumkin. Yangilanishlardan so'ng platformadan foydalanishni davom ettirish qayta ko'rib chiqilgan Shartlarni qabul qilganingizni bildiradi.
+Ushbu Shartlar xizmatlar, texnologiya yoki qonuniy talablardagi o‘zgarishlarni aks ettirish uchun vaqti-vaqti bilan yangilanib borishi mumkin. Yangilanishlardan keyin platformadan foydalanishni davom ettirish qayta ko‘rib chiqilgan shartlarni qabul qilishni anglatadi.
 
-## 13. Bog'lanish uchun ma'lumotlar
+## 13. Aloqa ma'lumotlari
 
-Ushbu Shartlar bo'yicha savollaringiz bo'lsa, biz bilan bog'laning: **sokhib@jett.uz**
-Kompaniya: **Gapex**
+Ushbu Shartlarga oid savollar uchun quyidagi manzilga murojaat qiling: sokhib@jett.uz | Kompaniya: GapexAI
+
