@@ -1,12 +1,12 @@
 ---
 title: "YouTube"
-description: "YouTube kanalingizni Replai-ga uchta oddiy qadamda ulang"
+description: "YouTube kanalingizni Gapex-ga uchta oddiy qadamda ulang"
 weight: 8
 ---
 
 ## Umumiy ko'rinish
 
-Videolarni avtomatik sinxronlash, sharhlarni sun'iy intellekt (AI) yordamida boshqarish va auditoriya bilan aloqani yaxshilash uchun YouTube kanalingizni Replai-ga ulang.
+Videolarni avtomatik sinxronlash, sharhlarni sun'iy intellekt (AI) yordamida boshqarish va auditoriya bilan aloqani yaxshilash uchun YouTube kanalingizni Gapex-ga ulang.
 
 ---
 
@@ -14,7 +14,7 @@ Videolarni avtomatik sinxronlash, sharhlarni sun'iy intellekt (AI) yordamida bos
 
 ### 1-qadam: Yon paneldan hisob qo'shish
 
-Replai boshqaruv panelining chap tarafidagi **Accounts** bo'limini toping va **+ Add account** tugmasini bosing.
+Gapex boshqaruv panelining chap tarafidagi **Accounts** bo'limini toping va **+ Add account** tugmasini bosing.
 
 ### 2-qadam: YouTube-ni tanlang
 
@@ -35,11 +35,11 @@ Agar Google hisobingizda bir nechta kanal yoki brend-hisob bo'lsa, ulashni xohla
 
 ## Keyingi jarayonlar
 
-Ulangandan so'ng, Replai quyidagilarni avtomatik boshlaydi:
+Ulangandan so'ng, Gapex quyidagilarni avtomatik boshlaydi:
 
 1. **Videolarni sinxronlash** — Sharhlarni boshqarish uchun ochiq va yopiq videolaringiz yuklanadi.
 2. **Sharhlarni kuzatish** — Tizim har 10 daqiqada yangi sharhlarni tekshiradi.
-3. **AI tavsiyalari** — Replai video kontekstidan kelib chiqib, javob variantlarini tayyorlaydi.
+3. **AI tavsiyalari** — Gapex video kontekstidan kelib chiqib, javob variantlarini tayyorlaydi.
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: "Privacy Policy"
-description: "How ReplAI collects, uses, stores, and protects your information."
+description: "How Gapex collects, uses, stores, and protects your information."
 ---
 
 Last Updated: **March 6, 2026**
 
-Welcome to **ReplAI**. Your privacy is important to us. This Privacy Policy explains how ReplAI ("we", "our", or "us") collects, uses, stores, and protects your information when you use our services.
+Welcome to **Gapex**. Your privacy is important to us. This Privacy Policy explains how Gapex ("we", "our", or "us") collects, uses, stores, and protects your information when you use our services.
 
-This policy applies to our website and platform available at: `https://replai.uz/privacy`
+This policy applies to our website and platform available at: `https://gapex.ai/privacy`
 
-By using ReplAI, you agree to the practices described in this Privacy Policy.
+By using Gapex, you agree to the practices described in this Privacy Policy.
 
 ## 1. Information We Collect
 
-When you use ReplAI, we may collect the following types of information.
+When you use Gapex, we may collect the following types of information.
 
 ### 1.1 Account Information
 
@@ -28,7 +28,7 @@ This information is used to identify your account and provide our services.
 
 ### 1.2 Social Media Data
 
-If you connect your social media accounts to ReplAI, we may access and store the following data depending on permissions granted:
+If you connect your social media accounts to Gapex, we may access and store the following data depending on permissions granted:
 
 - Social media posts
 - Comments on posts
@@ -62,7 +62,7 @@ We use the collected data to provide and improve our services, including:
 
 ## 3. AI Processing of Data
 
-ReplAI uses artificial intelligence technologies to analyze social media interactions and generate suggested responses.
+Gapex uses artificial intelligence technologies to analyze social media interactions and generate suggested responses.
 
 For this purpose:
 
@@ -72,14 +72,14 @@ For this purpose:
 
 ## 4. Data Storage and Retention
 
-ReplAI stores user data including messages and comments connected to your account.
+Gapex stores user data including messages and comments connected to your account.
 
 - Messages and comments may be stored permanently unless you delete them or disconnect your account.
 - If you delete your account, associated data may also be deleted from our systems within a reasonable period.
 
 ## 5. Third-Party Services
 
-ReplAI may use third-party services to operate the platform, including:
+Gapex may use third-party services to operate the platform, including:
 
 - Social media platform APIs
 - Cloud infrastructure providers
@@ -102,7 +102,7 @@ However, no online service can guarantee absolute security.
 
 ## 7. User Rights and Data Control
 
-Users of ReplAI have the right to:
+Users of Gapex have the right to:
 
 - Access their stored data
 - Request correction of inaccurate data
@@ -113,17 +113,17 @@ To request data deletion or assistance, please contact us at: **sokhib@jett.uz**
 
 ## 8. Business Accounts
 
-ReplAI is designed for users who operate business or professional social media accounts. The platform is intended to help businesses manage communication with their audiences.
+Gapex is designed for users who operate business or professional social media accounts. The platform is intended to help businesses manage communication with their audiences.
 
 ## 9. Subscription Services
 
-ReplAI operates under a subscription-based pricing model.
+Gapex operates under a subscription-based pricing model.
 
-Payment information may be processed by third-party payment providers. ReplAI does not store full payment card details.
+Payment information may be processed by third-party payment providers. Gapex does not store full payment card details.
 
 ## 10. Children's Privacy
 
-ReplAI is not intended for children. Our services are designed for business account holders.
+Gapex is not intended for children. Our services are designed for business account holders.
 
 We do not knowingly collect personal information from individuals under the age of 13. If we become aware that such data has been collected, we will take steps to delete it.
 
@@ -131,7 +131,7 @@ We do not knowingly collect personal information from individuals under the age 
 
 We may update this Privacy Policy from time to time to reflect changes in our services, legal requirements, or security practices.
 
-Updated versions will be posted at: `https://replai.uz/privacy`
+Updated versions will be posted at: `https://gapex.ai/privacy`
 
 Your continued use of the service after updates indicates acceptance of the revised policy.
 
@@ -140,5 +140,5 @@ Your continued use of the service after updates indicates acceptance of the revi
 If you have questions or concerns regarding this Privacy Policy or your personal data, please contact us at:
 
 - Email: **sokhib@jett.uz**
-- Company: **ReplAI**
+- Company: **Gapex**
 

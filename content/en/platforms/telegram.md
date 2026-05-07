@@ -1,16 +1,16 @@
 ---
 title: "Connect Telegram"
-description: "Connect your Telegram channel to Replai to manage comments with AI"
+description: "Connect your Telegram channel to Gapex to manage comments with AI"
 weight: 9
 ---
 
-Connect your Telegram channel to Replai to automatically capture comments from your channel's discussion group, generate AI-powered replies, and manage audience engagement — all from one dashboard.
+Connect your Telegram channel to Gapex to automatically capture comments from your channel's discussion group, generate AI-powered replies, and manage audience engagement — all from one dashboard.
 
 ---
 
 ## How Telegram Integration Works
 
-Telegram channels don't expose a direct API for reading comments. Instead, Replai uses a dedicated bot that you invite as an admin to your channel and its linked discussion group. Once the bot is in place, it receives all new messages in real time via a webhook.
+Telegram channels don't expose a direct API for reading comments. Instead, Gapex uses a dedicated bot that you invite as an admin to your channel and its linked discussion group. Once the bot is in place, it receives all new messages in real time via a webhook.
 
 **Requirements before connecting:**
 * A Telegram channel that you own or administer
@@ -22,7 +22,7 @@ Telegram channels don't expose a direct API for reading comments. Instead, Repla
 
 ### Step 1: Open the Accounts sidebar
 
-In the Replai dashboard, locate the **Accounts** section in the left-hand sidebar. Click the **+ Add account** button.
+In the Gapex dashboard, locate the **Accounts** section in the left-hand sidebar. Click the **+ Add account** button.
 
 ### Step 2: Select Telegram
 
@@ -30,7 +30,7 @@ From the list of supported platforms, select **Telegram**.
 
 ### Step 3: Open the bot in Telegram
 
-Replai will display an **Open in Telegram** button that opens a deep link to the Replai bot. Click it — your Telegram app will open. Press **Start** and the bot will begin the conversation.
+Gapex will display an **Open in Telegram** button that opens a deep link to the Gapex bot. Click it — your Telegram app will open. Press **Start** and the bot will begin the conversation.
 
 ### Step 4: Add the bot to your channel
 
@@ -47,7 +47,7 @@ After being added to the channel, the bot will detect the linked discussion grou
 
 ### Step 6: Select your channel
 
-Once the bot is an admin in both places, it will display a list of ready channels. Tap the channel you want to connect. Replai will finalize the connection and your account will appear in the dashboard.
+Once the bot is an admin in both places, it will display a list of ready channels. Tap the channel you want to connect. Gapex will finalize the connection and your account will appear in the dashboard.
 
 ---
 
@@ -55,15 +55,15 @@ Once the bot is an admin in both places, it will display a list of ready channel
 
 Once connected:
 
-1. **Real-time comment capture** — Every new comment in your discussion group is instantly sent to Replai via webhook.
-2. **AI response suggestions** — Replai generates reply suggestions for each comment based on your channel's context.
+1. **Real-time comment capture** — Every new comment in your discussion group is instantly sent to Gapex via webhook.
+2. **AI response suggestions** — Gapex generates reply suggestions for each comment based on your channel's context.
 3. **Post syncing** — New channel posts are automatically tracked so comments are linked to the correct post.
 
 ---
 
 ## Manual Setup
 
-If the automatic bot flow didn't work, or you prefer to set things up yourself, you can add the Replai bot as an administrator manually and link a discussion group from your channel settings.
+If the automatic bot flow didn't work, or you prefer to set things up yourself, you can add the Gapex bot as an administrator manually and link a discussion group from your channel settings.
 
 ### Part 1 — Add the bot as admin to your channel
 
@@ -79,7 +79,7 @@ If the automatic bot flow didn't work, or you prefer to set things up yourself, 
 
 <img src="/images/telegram/image%20copy%202.png" alt="Tap Add Administrator" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**Step 4.** Search for the Replai bot by its username and select it.
+**Step 4.** Search for the Gapex bot by its username and select it.
 
 <img src="/images/telegram/image%20copy%203.png" alt="Search for the bot" style="max-width:300px;width:100%;border-radius:8px;" />
 
@@ -123,11 +123,11 @@ The bot now appears in your Administrators list.
 
 <img src="/images/telegram/image%20copy%2011.png" alt="Open group Administrators" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**Step 12.** Tap **Add Administrator** and search for the Replai bot.
+**Step 12.** Tap **Add Administrator** and search for the Gapex bot.
 
 <img src="/images/telegram/image%20copy%2012.png" alt="Add Administrator in group" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**Step 13.** Select the Replai bot from the search results.
+**Step 13.** Select the Gapex bot from the search results.
 
 <img src="/images/telegram/image%20copy%2013.png" alt="Select the bot" style="max-width:300px;width:100%;border-radius:8px;" />
 
@@ -147,15 +147,15 @@ The bot is now an administrator in your discussion group.
 
 <img src="/images/telegram/image%20copy%2017.png" alt="Bot added to group" style="max-width:300px;width:100%;border-radius:8px;" />
 
-Once both steps are complete, the Replai bot will automatically detect the connection and finalize setup.
+Once both steps are complete, the Gapex bot will automatically detect the connection and finalize setup.
 
 ---
 
 ## Troubleshooting
 
 ### "Please start from the web app Connect button first"
-**Problem:** You opened the bot directly without going through Replai first.
-**Solution:** Return to the Replai dashboard, click **+ Add account**, select Telegram, and use the link provided there.
+**Problem:** You opened the bot directly without going through Gapex first.
+**Solution:** Return to the Gapex dashboard, click **+ Add account**, select Telegram, and use the link provided there.
 
 ### "This channel has no linked discussion group"
 **Problem:** Your Telegram channel does not have a discussion group linked to it.
@@ -163,17 +163,17 @@ Once both steps are complete, the Replai bot will automatically detect the conne
 
 ### "That link has expired"
 **Problem:** The connection link is valid for a limited time.
-**Solution:** Return to Replai, click **+ Add account** again, and start a fresh connection flow.
+**Solution:** Return to Gapex, click **+ Add account** again, and start a fresh connection flow.
 
 ### Comments are not appearing
 **Problem:** The bot may have lost admin access.
-**Solution:** Check that the Replai bot is still an administrator in both your channel and the discussion group with the required permissions.
+**Solution:** Check that the Gapex bot is still an administrator in both your channel and the discussion group with the required permissions.
 
 ---
 
 ## Limitations
 
-* **Webhook-only** — Replai only captures comments received after the connection is made. Historical comments are not imported.
+* **Webhook-only** — Gapex only captures comments received after the connection is made. Historical comments are not imported.
 * **No likes** — Telegram's Bot API does not support liking messages.
 * **No hiding** — Messages can be deleted but not hidden.
 * **Max reply length** — 4,096 characters per reply (Telegram's limit).
@@ -183,7 +183,7 @@ Once both steps are complete, the Replai bot will automatically detect the conne
 
 ## Privacy & Security
 
-* **No passwords** — Replai uses a shared bot; you only need to grant admin permissions.
+* **No passwords** — Gapex uses a shared bot; you only need to grant admin permissions.
 * **Minimal permissions** — The bot only requests delete and restrict permissions — it never reads private messages outside your discussion group.
 * **Revocable** — Remove the bot from your channel and discussion group at any time to disconnect.
 
@@ -198,4 +198,4 @@ A: Yes. Repeat the "Add account" process for each channel.
 A: Yes. In the bot, tap **"My channel is private — how to add?"** for instructions on manually adding the bot via the channel's Administrators settings.
 
 **Q: Do I need to create a bot token?**
-A: No. Replai operates a shared bot for all users — you simply invite it to your channel.
+A: No. Gapex operates a shared bot for all users — you simply invite it to your channel.

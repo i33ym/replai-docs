@@ -1,12 +1,12 @@
 ---
 title: "Facebook"
-description: "Connect your Facebook Page to Replai and manage comments with AI"
+description: "Connect your Facebook Page to Gapex and manage comments with AI"
 weight: 9
 ---
 
 ## Overview
 
-Connect your Facebook Page to Replai to manage comments on your posts with AI, reply to your audience, and improve engagement.
+Connect your Facebook Page to Gapex to manage comments on your posts with AI, reply to your audience, and improve engagement.
 
 ---
 
@@ -23,7 +23,7 @@ Before connecting, make sure you have the following:
 
 ## 1. Create a Facebook Page
 
-If you already have a Facebook Page, skip this section and go to [2. Connect to Replai](#2-connect-to-replai).
+If you already have a Facebook Page, skip this section and go to [2. Connect to Gapex](#2-connect-to-gapex).
 
 ### Step 1: Open the Page creation page
 
@@ -69,11 +69,11 @@ Your new Facebook Business Page is ready!
 
 ---
 
-## 2. Connect to Replai
+## 2. Connect to Gapex
 
-### Step 8: Sign in to Replai
+### Step 8: Sign in to Gapex
 
-Go to [replai.uz](https://replai.uz) and sign in to your account.
+Go to [gapex.ai](https://gapex.ai) and sign in to your account.
 
 ### Step 9: Add account
 
@@ -88,7 +88,7 @@ Select **Facebook** from the list of platforms and click **Continue with Faceboo
 The Facebook login page will open:
 
 1. **Log in to Facebook**: Enter your email and password and sign in
-2. **Confirm permissions**: Replai will request the following permissions:
+2. **Confirm permissions**: Gapex will request the following permissions:
    - View Page posts
    - Manage Page comments
    - Read Page information
@@ -100,17 +100,17 @@ A list of Facebook Pages you manage will appear. Select the Page you want to con
 
 ### Step 13: Done!
 
-Your Facebook Page has been successfully connected to Replai. You can now view your posts and comments on the dashboard.
+Your Facebook Page has been successfully connected to Gapex. You can now view your posts and comments on the dashboard.
 
 ---
 
 ## What happens next
 
-After connecting, Replai automatically starts the following processes:
+After connecting, Gapex automatically starts the following processes:
 
-1. **Post sync** — Your Facebook Page posts appear in the Replai dashboard.
+1. **Post sync** — Your Facebook Page posts appear in the Gapex dashboard.
 2. **Comment monitoring** — The system checks for new comments every 5 minutes.
-3. **AI suggestion system** — Replai generates response suggestions based on post context.
+3. **AI suggestion system** — Gapex generates response suggestions based on post context.
 
 ---
 
@@ -146,8 +146,8 @@ Configure Page behavior in **Account Settings**:
 ## Privacy & Security
 
 * **No passwords needed**: We use official Facebook OAuth. We never see your password.
-* **Limited access**: Replai only accesses your Facebook Page data. We cannot access your personal profile.
-* **Revocable**: You can remove Replai's access at any time via Facebook Settings → Business Integrations.
+* **Limited access**: Gapex only accesses your Facebook Page data. We cannot access your personal profile.
+* **Revocable**: You can remove Gapex's access at any time via Facebook Settings → Business Integrations.
 
 ---
 
@@ -156,8 +156,8 @@ Configure Page behavior in **Account Settings**:
 **Q: Can I connect multiple Facebook Pages?**
 A: Yes! Simply repeat the "Add Account" process for each Page.
 
-**Q: Can I delete comments through Replai?**
-A: Yes, you can view, reply to, hide, and delete comments through Replai.
+**Q: Can I delete comments through Gapex?**
+A: Yes, you can view, reply to, hide, and delete comments through Gapex.
 
 **Q: How do I disconnect a Page?**
 A: Go to Settings and click the **Disconnect** button next to the account.

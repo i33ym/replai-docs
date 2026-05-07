@@ -1,12 +1,12 @@
 ---
 title: "Play Store"
-description: "Replai bilan Play Store'ni ulash va sozlash."
+description: "Gapex bilan Play Store'ni ulash va sozlash."
 weight: 11
 ---
 
 ## Umumiy ma'lumot
 
-Ushbu qo'llanma Google Cloud xizmat hisobini yaratish, JSON hisob ma'lumotlari faylini generatsiya qilish va uni Google Play Console ilovangizga ulash bo'yicha yo'riqnoma bo'lib, Replai ilovangiz sharhlarini o'qishi va ularga javob berishi uchun mo'ljallangan.
+Ushbu qo'llanma Google Cloud xizmat hisobini yaratish, JSON hisob ma'lumotlari faylini generatsiya qilish va uni Google Play Console ilovangizga ulash bo'yicha yo'riqnoma bo'lib, Gapex ilovangiz sharhlarini o'qishi va ularga javob berishi uchun mo'ljallangan.
 
 ## Talablar
 
@@ -47,7 +47,7 @@ Loyiha tanlash oynasida **New Project** tugmasini bosing.
 
 ### 5-qadam: Loyiha nomini kiriting
 
-Loyiha nomini kiriting (masalan, `Replai Play Store`) va **Create** tugmasini bosing.
+Loyiha nomini kiriting (masalan, `Gapex Play Store`) va **Create** tugmasini bosing.
 
 ![Loyiha nomini kiriting](/images/play-store/05-enter-project-name.png)
 
@@ -81,7 +81,7 @@ Sahifa yuqorisidagi **Create Service Account** tugmasini bosing.
 
 ### 10-qadam: Xizmat hisobi nomini kiriting
 
-Xizmat hisobi uchun nom kiriting (masalan, `replai-playstore`) va **Continue** tugmasini bosing.
+Xizmat hisobi uchun nom kiriting (masalan, `gapex-playstore`) va **Continue** tugmasini bosing.
 
 ![Nomni kiriting](/images/play-store/10-enter-service-account-name.png)
 
@@ -135,7 +135,7 @@ Kalit turi sifatida **JSON** ni tanlang va **Create** tugmasini bosing.
 
 ### 17-qadam: JSON faylini yuklab oling
 
-JSON hisob ma'lumotlari fayli kompyuteringizga avtomatik ravishda yuklab olinadi. Ushbu faylni xavfsiz saqlang — uni Replai ga yuklashingiz kerak bo'ladi.
+JSON hisob ma'lumotlari fayli kompyuteringizga avtomatik ravishda yuklab olinadi. Ushbu faylni xavfsiz saqlang — uni Gapex ga yuklashingiz kerak bo'ladi.
 
 ![JSON ni yuklab oling](/images/play-store/17-download-json.png)
 
@@ -209,13 +209,13 @@ Xizmat hisobini qo'shish uchun **Invite** tugmasini bosing.
 
 ---
 
-## 7. Replai ga ulash
+## 7. Gapex ga ulash
 
-### 29-qadam: Replai sozlamalarini oching
+### 29-qadam: Gapex sozlamalarini oching
 
-Replai ga o'ting va **Settings** → **Integrations** bo'limini oching.
+Gapex ga o'ting va **Settings** → **Integrations** bo'limini oching.
 
-![Replai sozlamalarini oching](/images/play-store/29-open-replai-settings.png)
+![Gapex sozlamalarini oching](/images/play-store/29-open-gapex-settings.png)
 
 ### 30-qadam: Play Store ni tanlang
 
@@ -231,7 +231,7 @@ Replai ga o'ting va **Settings** → **Integrations** bo'limini oching.
 
 ### 32-qadam: Ulanish muvaffaqiyatli amalga oshdi
 
-Play Store Replai ga muvaffaqiyatli ulanganligini tasdiqlash xabari ko'rinadi.
+Play Store Gapex ga muvaffaqiyatli ulanganligini tasdiqlash xabari ko'rinadi.
 
 ![Ulanish muvaffaqiyatli](/images/play-store/32-connection-successful.png)
 

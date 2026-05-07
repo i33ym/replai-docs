@@ -6,13 +6,13 @@ weight: 10
 
 ## Umumiy ma'lumot
 
-Instagram Business yoki Creator akkauntingizni Replai'ga ulang — postlaringiz avtomatik sinxronlanadi, izohlarni AI bilan boshqarasiz va auditoriyangiz bilan bitta dashboarddan muloqot qilasiz.
+Instagram Business yoki Creator akkauntingizni Gapex'ga ulang — postlaringiz avtomatik sinxronlanadi, izohlarni AI bilan boshqarasiz va auditoriyangiz bilan bitta dashboarddan muloqot qilasiz.
 
 ---
 
 ## Boshlashdan oldin
 
-Instagramni Replai'ga ulashdan oldin quyidagi talablar bajarilganligiga ishonch hosil qiling:
+Instagramni Gapex'ga ulashdan oldin quyidagi talablar bajarilganligiga ishonch hosil qiling:
 
 ---
 
@@ -212,11 +212,11 @@ Instagram akkauntingiz Facebook Page'ga ulandi. Ulanish tafsilotlarini shu sahif
 
 ---
 
-## 4. Instagramni Replai'ga ulash
+## 4. Instagramni Gapex'ga ulash
 
-### Qadam 1: Replai'ga kiring
+### Qadam 1: Gapex'ga kiring
 
-[replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring.
+[gapex.ai](https://gapex.ai) sahifasiga o'ting va hisobingizga kiring.
 
 ### Qadam 2: Hisob qo'shish
 
@@ -242,17 +242,17 @@ Ulangan Instagram akkauntlaringiz ro'yxati chiqadi. Kerakli akkauntni tanlang va
 
 ### Qadam 6: Tayyor!
 
-Instagram akkauntingiz Replai'ga muvaffaqiyatli ulandi. Endi dashboardda postlaringiz va izohlaringizni ko'rishingiz mumkin.
+Instagram akkauntingiz Gapex'ga muvaffaqiyatli ulandi. Endi dashboardda postlaringiz va izohlaringizni ko'rishingiz mumkin.
 
 ---
 
 ## Keyin nima bo'ladi
 
-Ulangandan so'ng, Replai avtomatik ravishda quyidagi jarayonlarni boshlaydi:
+Ulangandan so'ng, Gapex avtomatik ravishda quyidagi jarayonlarni boshlaydi:
 
-1. **Post sinxronlash** — Instagram postlaringiz Replai dashboardida paydo bo'ladi.
+1. **Post sinxronlash** — Instagram postlaringiz Gapex dashboardida paydo bo'ladi.
 2. **Izoh monitoring** — Tizim har 5 daqiqada yangi izohlarni tekshiradi.
-3. **AI taklif tizimi** — Replai post kontekstiga asoslangan javob takliflarini yaratadi.
+3. **AI taklif tizimi** — Gapex post kontekstiga asoslangan javob takliflarini yaratadi.
 
 ---
 
@@ -288,8 +288,8 @@ Akkaunt xatti-harakatlarini **Akkaunt sozlamalari** da sozlang:
 ## Maxfiylik va xavfsizlik
 
 * **Parolsiz**: Biz rasmiy Facebook OAuth ishlatamiz. Parolingizni hech qachon ko'rmaymiz.
-* **Cheklangan kirish**: Replai faqat Instagram ma'lumotlariga kiradi. Boshqa Facebook ma'lumotlaringizga kira olmaymiz.
-* **Bekor qilish mumkin**: Replai'ning kirishini istalgan vaqtda Facebook sozlamalari orqali olib tashlashingiz mumkin.
+* **Cheklangan kirish**: Gapex faqat Instagram ma'lumotlariga kiradi. Boshqa Facebook ma'lumotlaringizga kira olmaymiz.
+* **Bekor qilish mumkin**: Gapex'ning kirishini istalgan vaqtda Facebook sozlamalari orqali olib tashlashingiz mumkin.
 
 ---
 

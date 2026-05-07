@@ -1,6 +1,6 @@
 ---
 title: "Sozlamalar"
-description: "Replai'ni ehtiyojlaringizga moslab sozlang."
+description: "Gapex'ni ehtiyojlaringizga moslab sozlang."
 weight: 2
 ---
 
@@ -81,10 +81,10 @@ Har bir platformani ulash bo'yicha batafsil qo'llanmani [Platformalar](../../pla
 
 ## Self-hosting uchun sozlamalar
 
-Agar Replai'ni o'z serveringizda ishga tushirgan bo'lsangiz, loyihaning ildiz papkasida `.env` faylini yarating:
+Agar Gapex'ni o'z serveringizda ishga tushirgan bo'lsangiz, loyihaning ildiz papkasida `.env` faylini yarating:
 
 ```env
-DATABASE_URL=postgresql://user:pass@localhost:5432/replai
+DATABASE_URL=postgresql://user:pass@localhost:5432/gapex
 NATS_URL=nats://localhost:4222
 ANTHROPIC_API_KEY=sk-ant-...
 REDIS_URL=redis://localhost:6379

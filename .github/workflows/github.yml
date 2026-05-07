@@ -22,4 +22,4 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        run: sudo rsync -av --delete public/ /var/www/docs.replai.uz/
+        run: sudo rsync -av --delete public/ /var/www/docs.gapex.ai/

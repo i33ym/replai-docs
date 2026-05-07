@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
-description: "Set up Replai and start managing comments with AI."
+description: "Set up Gapex and start managing comments with AI."
 weight: 1
 ---
 
-Welcome to Replai! This guide will walk you through setup and configuration.
+Welcome to Gapex! This guide will walk you through setup and configuration.

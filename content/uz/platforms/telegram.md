@@ -1,18 +1,18 @@
 ---
 title: "Telegram'ni ulash"
-description: "Telegram kanalingizni Replai'ga ulab, izohlarni sun'iy intellekt yordamida boshqaring"
+description: "Telegram kanalingizni Gapex'ga ulab, izohlarni sun'iy intellekt yordamida boshqaring"
 weight: 9
 ---
 
 ## Umumiy ma'lumot
 
-Telegram kanalingizni Replai'ga ulang va kanal muhokama guruhidagi izohlarni avtomatik qabul qiling, AI yordamida javoblar tayyorlang va auditoriya bilan muloqotni yagona paneldan boshqaring.
+Telegram kanalingizni Gapex'ga ulang va kanal muhokama guruhidagi izohlarni avtomatik qabul qiling, AI yordamida javoblar tayyorlang va auditoriya bilan muloqotni yagona paneldan boshqaring.
 
 ---
 
 ## Telegram integratsiyasi qanday ishlaydi
 
-Telegram kanallari izohlarni o'qish uchun to'g'ridan-to'g'ri API taqdim etmaydi. Buning o'rniga Replai maxsus botdan foydalanadi — siz uni kanal va unga bog'langan muhokama guruhida administrator sifatida qo'shasiz. Bot o'rnatilgandan so'ng, barcha yangi xabarlarni webhook orqali real vaqtda qabul qiladi.
+Telegram kanallari izohlarni o'qish uchun to'g'ridan-to'g'ri API taqdim etmaydi. Buning o'rniga Gapex maxsus botdan foydalanadi — siz uni kanal va unga bog'langan muhokama guruhida administrator sifatida qo'shasiz. Bot o'rnatilgandan so'ng, barcha yangi xabarlarni webhook orqali real vaqtda qabul qiladi.
 
 **Ulanishdan oldingi talablar:**
 * Siz egalik qiladigan yoki boshqaradigan Telegram kanali
@@ -24,7 +24,7 @@ Telegram kanallari izohlarni o'qish uchun to'g'ridan-to'g'ri API taqdim etmaydi.
 
 ### 1-qadam: Accounts bo'limini oching
 
-Replai boshqaruv panelidagi chap paneldan **Accounts** bo'limini toping. **+ Add account** tugmasini bosing.
+Gapex boshqaruv panelidagi chap paneldan **Accounts** bo'limini toping. **+ Add account** tugmasini bosing.
 
 ### 2-qadam: Telegram'ni tanlang
 
@@ -32,7 +32,7 @@ Qo'llab-quvvatlanadigan platformalar ro'yxatidan **Telegram** ni tanlang.
 
 ### 3-qadam: Telegram'da botni oching
 
-Replai **Open in Telegram** tugmasini ko'rsatadi — bu Replai botiga havolani ochadi. Uni bosing, Telegram ilovangiz ochiladi va bot bilan suhbat boshlanadi.
+Gapex **Open in Telegram** tugmasini ko'rsatadi — bu Gapex botiga havolani ochadi. Uni bosing, Telegram ilovangiz ochiladi va bot bilan suhbat boshlanadi.
 
 ### 4-qadam: Botni kanalingizga qo'shing
 
@@ -49,7 +49,7 @@ Kanalga qo'shilgandan so'ng, bot bog'langan muhokama guruhini aniqlab, uni u yer
 
 ### 6-qadam: Kanalingizni tanlang
 
-Bot ikkala joyda ham administrator bo'lgach, tayyor kanallar ro'yxatini ko'rsatadi. Ulamoqchi bo'lgan kanalingizni tanlang. Replai ulanishni yakunlaydi va hisob boshqaruv panelingizda paydo bo'ladi.
+Bot ikkala joyda ham administrator bo'lgach, tayyor kanallar ro'yxatini ko'rsatadi. Ulamoqchi bo'lgan kanalingizni tanlang. Gapex ulanishni yakunlaydi va hisob boshqaruv panelingizda paydo bo'ladi.
 
 ---
 
@@ -57,15 +57,15 @@ Bot ikkala joyda ham administrator bo'lgach, tayyor kanallar ro'yxatini ko'rsata
 
 Ulanishdan so'ng:
 
-1. **Real vaqtdagi izohlar** — Muhokama guruhidagi har bir yangi izoh webhook orqali Replai'ga darhol yuboriladi.
-2. **AI javob takliflari** — Replai kanal konteksti asosida har bir izoh uchun javob variantlarini tayyorlaydi.
+1. **Real vaqtdagi izohlar** — Muhokama guruhidagi har bir yangi izoh webhook orqali Gapex'ga darhol yuboriladi.
+2. **AI javob takliflari** — Gapex kanal konteksti asosida har bir izoh uchun javob variantlarini tayyorlaydi.
 3. **Post sinxronizatsiyasi** — Yangi kanal postlari avtomatik kuzatiladi, shuning uchun izohlar to'g'ri postga bog'lanadi.
 
 ---
 
 ## Qo'lda sozlash
 
-Agar avtomatik bot jarayoni ishlamagan bo'lsa yoki siz sozlashni o'zingiz qilishni afzal ko'rsangiz, Replai botini administrator sifatida qo'lda qo'shishingiz va kanal sozlamalaridan muhokama guruhini bog'lashingiz mumkin.
+Agar avtomatik bot jarayoni ishlamagan bo'lsa yoki siz sozlashni o'zingiz qilishni afzal ko'rsangiz, Gapex botini administrator sifatida qo'lda qo'shishingiz va kanal sozlamalaridan muhokama guruhini bog'lashingiz mumkin.
 
 ### 1-qism — Botni kanalga administrator sifatida qo'shing
 
@@ -81,7 +81,7 @@ Agar avtomatik bot jarayoni ishlamagan bo'lsa yoki siz sozlashni o'zingiz qilish
 
 <img src="/images/telegram/image%20copy%202.png" alt="Add Administrator tugmasini bosing" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**4-qadam.** Replai botini username orqali qidiring va tanlang.
+**4-qadam.** Gapex botini username orqali qidiring va tanlang.
 
 <img src="/images/telegram/image%20copy%203.png" alt="Botni qidiring" style="max-width:300px;width:100%;border-radius:8px;" />
 
@@ -125,11 +125,11 @@ Bot endi Administrators ro'yxatida ko'rinadi.
 
 <img src="/images/telegram/image%20copy%2011.png" alt="Guruh Administrators bo'limini oching" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**12-qadam.** **Add Administrator** ni bosing va Replai botini qidiring.
+**12-qadam.** **Add Administrator** ni bosing va Gapex botini qidiring.
 
 <img src="/images/telegram/image%20copy%2012.png" alt="Guruhda Add Administrator" style="max-width:300px;width:100%;border-radius:8px;" />
 
-**13-qadam.** Qidiruv natijalaridan Replai botini tanlang.
+**13-qadam.** Qidiruv natijalaridan Gapex botini tanlang.
 
 <img src="/images/telegram/image%20copy%2013.png" alt="Botni tanlang" style="max-width:300px;width:100%;border-radius:8px;" />
 
@@ -149,15 +149,15 @@ Bot endi muhokama guruhida administrator hisoblanadi.
 
 <img src="/images/telegram/image%20copy%2017.png" alt="Bot guruhga qo'shildi" style="max-width:300px;width:100%;border-radius:8px;" />
 
-Ikkala qadam ham bajarilgandan so'ng, Replai boti ulanishni avtomatik ravishda aniqlab, sozlashni yakunlaydi.
+Ikkala qadam ham bajarilgandan so'ng, Gapex boti ulanishni avtomatik ravishda aniqlab, sozlashni yakunlaydi.
 
 ---
 
 ## Muammolarni hal qilish
 
 ### «Please start from the web app Connect button first»
-**Muammo:** Replai orqali o'tmasdan botni to'g'ridan-to'g'ri ochdingiz.
-**Yechim:** Replai boshqaruv paneliga qayting, **+ Add account** tugmasini bosing, Telegram'ni tanlang va berilgan havoladan foydalaning.
+**Muammo:** Gapex orqali o'tmasdan botni to'g'ridan-to'g'ri ochdingiz.
+**Yechim:** Gapex boshqaruv paneliga qayting, **+ Add account** tugmasini bosing, Telegram'ni tanlang va berilgan havoladan foydalaning.
 
 ### «This channel has no linked discussion group»
 **Muammo:** Telegram kanalingizga bog'langan muhokama guruhi yo'q.
@@ -165,17 +165,17 @@ Ikkala qadam ham bajarilgandan so'ng, Replai boti ulanishni avtomatik ravishda a
 
 ### «That link has expired»
 **Muammo:** Ulanish havolasi cheklangan vaqt uchun amal qiladi.
-**Yechim:** Replai'ga qayting, **+ Add account** tugmasini yana bosing va yangi ulanish jarayonini boshlang.
+**Yechim:** Gapex'ga qayting, **+ Add account** tugmasini yana bosing va yangi ulanish jarayonini boshlang.
 
 ### Izohlar ko'rinmayapti
 **Muammo:** Bot administrator huquqlarini yo'qotgan bo'lishi mumkin.
-**Yechim:** Replai botining ham kanalda, ham muhokama guruhida zarur huquqlar bilan administrator sifatida qolganligini tekshiring.
+**Yechim:** Gapex botining ham kanalda, ham muhokama guruhida zarur huquqlar bilan administrator sifatida qolganligini tekshiring.
 
 ---
 
 ## Cheklovlar
 
-* **Faqat webhook** — Replai faqat ulanishdan keyin kelgan izohlarni qabul qiladi. Avvalgi izohlar import qilinmaydi.
+* **Faqat webhook** — Gapex faqat ulanishdan keyin kelgan izohlarni qabul qiladi. Avvalgi izohlar import qilinmaydi.
 * **Like yo'q** — Telegram Bot API xabarlarga like qo'yishni qo'llab-quvvatlamaydi.
 * **Yashirish yo'q** — Xabarlarni faqat o'chirish mumkin, yashirish imkoni yo'q.
 * **Maksimal javob uzunligi** — Har bir javob uchun 4 096 ta belgi (Telegram cheklovi).
@@ -185,7 +185,7 @@ Ikkala qadam ham bajarilgandan so'ng, Replai boti ulanishni avtomatik ravishda a
 
 ## Maxfiylik va xavfsizlik
 
-* **Parolsiz** — Replai umumiy botdan foydalanadi; siz faqat administrator huquqlari berasiz.
+* **Parolsiz** — Gapex umumiy botdan foydalanadi; siz faqat administrator huquqlari berasiz.
 * **Minimal huquqlar** — Bot faqat o'chirish va cheklash huquqlarini so'raydi — muhokama guruhingizdan tashqarida shaxsiy xabarlarni hech qachon o'qimaydi.
 * **Istalgan vaqtda bekor qilish** — Botni kanaldan va muhokama guruhidan o'chirish orqali istalgan vaqtda ulanishni uzish mumkin.
 
@@ -200,4 +200,4 @@ J: Ha. Har bir kanal uchun «Add account» jarayonini takrorlang.
 J: Ha. Botda **«My channel is private — how to add?»** tugmasini bosing va kanal Administrators sozlamalari orqali botni qo'lda qo'shish bo'yicha ko'rsatmalar olasiz.
 
 **S: Bot tokeni yaratish kerakmi?**
-J: Yo'q. Replai barcha foydalanuvchilar uchun umumiy botdan foydalanadi — siz shunchaki uni kanalingizga taklif qilasiz.
+J: Yo'q. Gapex barcha foydalanuvchilar uchun umumiy botdan foydalanadi — siz shunchaki uni kanalingizga taklif qilasiz.

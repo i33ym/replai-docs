@@ -6,13 +6,13 @@ weight: 10
 
 ## Overview
 
-Connect your Instagram Business or Creator account to Replai to automatically sync posts, manage comments with AI, and engage with your audience — all from one dashboard.
+Connect your Instagram Business or Creator account to Gapex to automatically sync posts, manage comments with AI, and engage with your audience — all from one dashboard.
 
 ---
 
 ## Before You Start
 
-Before connecting Instagram to Replai, make sure the following requirements are met:
+Before connecting Instagram to Gapex, make sure the following requirements are met:
 
 ---
 
@@ -212,11 +212,11 @@ Your Instagram account is now linked to your Facebook Page. You can see the conn
 
 ---
 
-## 4. Connect Instagram to Replai
+## 4. Connect Instagram to Gapex
 
-### Step 1: Sign in to Replai
+### Step 1: Sign in to Gapex
 
-Go to [replai.uz](https://replai.uz) and sign in to your account.
+Go to [gapex.ai](https://gapex.ai) and sign in to your account.
 
 ### Step 2: Add account
 
@@ -242,17 +242,17 @@ A list of your linked Instagram accounts will appear. Select the account you wan
 
 ### Step 6: Done!
 
-Your Instagram account has been successfully connected to Replai. You can now view your posts and comments on the dashboard.
+Your Instagram account has been successfully connected to Gapex. You can now view your posts and comments on the dashboard.
 
 ---
 
 ## What Happens Next
 
-Once connected, Replai automatically begins the following processes:
+Once connected, Gapex automatically begins the following processes:
 
-1. **Post Syncing** — Your Instagram posts will appear in the Replai dashboard.
+1. **Post Syncing** — Your Instagram posts will appear in the Gapex dashboard.
 2. **Comment Monitoring** — The system checks for new comments every 5 minutes.
-3. **AI Suggestion Engine** — Replai generates response suggestions based on your post context.
+3. **AI Suggestion Engine** — Gapex generates response suggestions based on your post context.
 
 ---
 
@@ -288,8 +288,8 @@ Configure your account behavior in **Account Settings**:
 ## Privacy & Security
 
 * **No Passwords**: We use official Facebook OAuth. We never see your password.
-* **Limited Access**: Replai only accesses Instagram data. We cannot access your other Facebook data.
-* **Revocable**: You can remove Replai's access at any time via Facebook Settings.
+* **Limited Access**: Gapex only accesses Instagram data. We cannot access your other Facebook data.
+* **Revocable**: You can remove Gapex's access at any time via Facebook Settings.
 
 ---
 

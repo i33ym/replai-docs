@@ -1,11 +1,11 @@
 ---
 title: "Ma'lumotlarni o'chirish bo'yicha yo'riqnoma"
-description: "ReplAI'dagi ma'lumotlaringizni o'chirishni qanday so'rash mumkin."
+description: "Gapex'dagi ma'lumotlaringizni o'chirishni qanday so'rash mumkin."
 ---
 
 Oxirgi yangilanish: **2026-yil 6-mart**
 
-Agar ReplAI'dan ma'lumotlaringizni o'chirishni so'ramoqchi bo'lsangiz, qo'llab-quvvatlash jamoamiz bilan bog'lanish orqali buni amalga oshirishingiz mumkin.
+Agar Gapex'dan ma'lumotlaringizni o'chirishni so'ramoqchi bo'lsangiz, qo'llab-quvvatlash jamoamiz bilan bog'lanish orqali buni amalga oshirishingiz mumkin.
 
 ## Ma'lumotlarni o'chirishni qanday so'rash mumkin
 
@@ -13,18 +13,18 @@ Hisobingiz va tegishli ma'lumotlarni o'chirishni so'rash uchun quyidagi manzilga
 
 Iltimos, quyidagilarni ko'rsating:
 
-- ReplAI hisobingiz bilan bog'langan elektron pochta manzili
-- ReplAI'ga ulangan ijtimoiy tarmoq foydalanuvchi nomingiz (agar mavjud bo'lsa)
+- Gapex hisobingiz bilan bog'langan elektron pochta manzili
+- Gapex'ga ulangan ijtimoiy tarmoq foydalanuvchi nomingiz (agar mavjud bo'lsa)
 - Hisobni o'chirishni so'ragan qisqacha bayonot
 
 ## So'rovingizdan keyin nima bo'ladi
 
 1. Biz shaxsingizni tasdiqlaymiz.
-2. ReplAI hisobingiz o'chiriladi.
+2. Gapex hisobingiz o'chiriladi.
 3. Saqlangan ma'lumotlar, jumladan xabarlar, izohlar va ulangan hisob ma'lumotlari tizimlarimizdan o'chiriladi.
 
 Ma'lumotlarni o'chirish so'rovlari odatda **7–14 ish kuni** ichida bajariladi.
 
 ## Uchinchi tomon platformalari
 
-Agar ijtimoiy tarmoq hisoblaringizni Instagram yoki Facebook kabi uchinchi tomon platformalari orqali ulagan bo'lsangiz, ReplAI'ning kirishini bevosita ijtimoiy tarmoq hisob sozlamalaringizdan olib tashlashingiz ham mumkin. Kirish olib tashlangandan so'ng, ReplAI bu platformalardan yangi ma'lumotlarni olmaydi.
+Agar ijtimoiy tarmoq hisoblaringizni Instagram yoki Facebook kabi uchinchi tomon platformalari orqali ulagan bo'lsangiz, Gapex'ning kirishini bevosita ijtimoiy tarmoq hisob sozlamalaringizdan olib tashlashingiz ham mumkin. Kirish olib tashlangandan so'ng, Gapex bu platformalardan yangi ma'lumotlarni olmaydi.

@@ -1,16 +1,16 @@
 ---
 title: "Installation"
-description: "Install and deploy Replai."
+description: "Install and deploy Gapex."
 weight: 1
 ---
 
-## Accessing Replai
+## Accessing Gapex
 
-Replai is a cloud-based platform. No installation is required — you can use it through your browser or mobile app.
+Gapex is a cloud-based platform. No installation is required — you can use it through your browser or mobile app.
 
 ### Web version
 
-Go to [replai.uz](https://replai.uz) in your browser and sign in or create a new account.
+Go to [gapex.ai](https://gapex.ai) in your browser and sign in or create a new account.
 
 **Supported browsers:**
 - Google Chrome (recommended)
@@ -24,7 +24,7 @@ Go to [replai.uz](https://replai.uz) in your browser and sign in or create a new
 
 ### Step 1: Sign up
 
-Go to [replai.uz](https://replai.uz) and click the **Sign Up** button.
+Go to [gapex.ai](https://gapex.ai) and click the **Sign Up** button.
 
 ### Step 2: Enter your information
 
@@ -51,7 +51,7 @@ Once verified, sign in with your email and password.
 
 ## Self-hosting
 
-If you want to run Replai on your own server, the following requirements must be met.
+If you want to run Gapex on your own server, the following requirements must be met.
 
 ### System requirements
 
@@ -63,22 +63,22 @@ If you want to run Replai on your own server, the following requirements must be
 ### Install via Docker
 
 ```bash
-docker pull replai/replai:latest
+docker pull gapex/gapex:latest
 docker compose up -d
 ```
 
 ### Install from source
 
 ```bash
-git clone https://github.com/i33ym/replai.git
-cd replai
+git clone https://github.com/i33ym/gapex.git
+cd gapex
 uv sync
 ```
 
-> For more details on self-hosting, see the [GitHub](https://github.com/i33ym/replai) page.
+> For more details on self-hosting, see the [GitHub](https://github.com/i33ym/gapex) page.
 
 ---
 
 ## Next step
 
-Once your account is created, go to the [Configuration](../configuration/) page to customize Replai for your needs.
+Once your account is created, go to the [Configuration](../configuration/) page to customize Gapex for your needs.

@@ -6,13 +6,13 @@ weight: 3
 
 ## Umumiy ko'rinish
 
-Ushbu qo'llanma sizga Replai'da birinchi AI javobingizni olishgacha bo'lgan qadamlarni ko'rsatadi. Jarayon 5 daqiqadan kam vaqt oladi.
+Ushbu qo'llanma sizga Gapex'da birinchi AI javobingizni olishgacha bo'lgan qadamlarni ko'rsatadi. Jarayon 5 daqiqadan kam vaqt oladi.
 
 ---
 
 ## 1. Hisob yaratish
 
-1. [replai.uz](https://replai.uz) sahifasiga o'ting
+1. [gapex.ai](https://gapex.ai) sahifasiga o'ting
 2. **Ro'yxatdan o'tish** tugmasini bosing
 3. Ism, elektron pochta va parolni kiriting (parolni 2 marta tasdiqlang) yoki **Google/Facebook** orqali tez ro'yxatdan o'ting
 4. Elektron pochtangizga kelgan tasdiqlash kodini platformaga kiriting
@@ -46,7 +46,7 @@ Har bir platforma uchun batafsil qo'llanma:
 
 ## 3. Dashboard bilan tanishish
 
-Platforma ulangandan so'ng, Replai dashboardi quyidagi bo'limlardan iborat:
+Platforma ulangandan so'ng, Gapex dashboardi quyidagi bo'limlardan iborat:
 
 ### Asosiy panel
 - **Izohlar/Sharhlar** — barcha platformalardan kelgan izohlar bitta joyda
@@ -64,7 +64,7 @@ Platforma ulangandan so'ng, Replai dashboardi quyidagi bo'limlardan iborat:
 
 1. **Dashboard**da yangi izohlarni ko'ring
 2. Biror izohni bosing
-3. Replai avtomatik ravishda AI javob taklifini ko'rsatadi
+3. Gapex avtomatik ravishda AI javob taklifini ko'rsatadi
 4. Javobni ko'rib chiqing:
    - **Joylash** — javobni to'g'ridan-to'g'ri joylash
    - **Tahrirlash** — javobni o'zgartirish va keyin joylash
@@ -75,7 +75,7 @@ Platforma ulangandan so'ng, Replai dashboardi quyidagi bo'limlardan iborat:
 
 ## 5. Javob qoidalarini sozlash (ixtiyoriy)
 
-Replai'ni o'zingizga moslab sozlashingiz mumkin:
+Gapex'ni o'zingizga moslab sozlashingiz mumkin:
 
 ### AI ton sozlamalari
 **Sozlamalar → AI → Ton** bo'limida javob uslubini tanlang:
@@ -97,7 +97,7 @@ Replai'ni o'zingizga moslab sozlashingiz mumkin:
 
 ## Tayyor!
 
-Tabriklaymiz! Siz Replai'ni muvaffaqiyatli sozladingiz. Endi AI yordamida ijtimoiy tarmoq izohlaringizni samarali boshqarishingiz mumkin.
+Tabriklaymiz! Siz Gapex'ni muvaffaqiyatli sozladingiz. Endi AI yordamida ijtimoiy tarmoq izohlaringizni samarali boshqarishingiz mumkin.
 
 **Foydali havolalar:**
 - [Platformalar qo'llanmasi](../../platforms/) — barcha platformalarni ulash bo'yicha batafsil ko'rsatmalar

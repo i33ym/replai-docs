@@ -1,6 +1,6 @@
 ---
 title: "Configuration"
-description: "Configure Replai for your needs."
+description: "Configure Gapex for your needs."
 weight: 2
 ---
 
@@ -81,10 +81,10 @@ Detailed guides for connecting each platform can be found in the [Platforms](../
 
 ## Self-hosting configuration
 
-If you are running Replai on your own server, create a `.env` file in the project root:
+If you are running Gapex on your own server, create a `.env` file in the project root:
 
 ```env
-DATABASE_URL=postgresql://user:pass@localhost:5432/replai
+DATABASE_URL=postgresql://user:pass@localhost:5432/gapex
 NATS_URL=nats://localhost:4222
 ANTHROPIC_API_KEY=sk-ant-...
 REDIS_URL=redis://localhost:6379

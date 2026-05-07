@@ -1,12 +1,12 @@
 ---
 title: "App Store"
-description: "App Store Connect'ni Replai bilan ulang va sharhlarni AI yordamida boshqaring"
+description: "App Store Connect'ni Gapex bilan ulang va sharhlarni AI yordamida boshqaring"
 weight: 10
 ---
 
 ## Umumiy ma'lumot
 
-App Store Connect hisobingizni Replai'ga ulang — ilovangiz sharhlarini avtomatik sinxronlang, foydalanuvchilar fikrlariga AI yordamida javob bering va barchasini bitta dashboarddan boshqaring.
+App Store Connect hisobingizni Gapex'ga ulang — ilovangiz sharhlarini avtomatik sinxronlang, foydalanuvchilar fikrlariga AI yordamida javob bering va barchasini bitta dashboarddan boshqaring.
 
 ---
 
@@ -57,7 +57,7 @@ App Store Connect bosh sahifasida **Users and Access** bo'limini bosing.
 
 ### 5-qadam: Integrations tabiga o'ting va Issuer ID ni nusxalang
 
-Yuqori menyuda **Integrations** tabini bosing. Chapda **App Store Connect API** tanlangan bo'lishi kerak. Sahifaning yuqori qismida **Issuer ID** ko'rsatiladi — uni nusxalab oling. Bu ID Replai'ga kiritiladi.
+Yuqori menyuda **Integrations** tabini bosing. Chapda **App Store Connect API** tanlangan bo'lishi kerak. Sahifaning yuqori qismida **Issuer ID** ko'rsatiladi — uni nusxalab oling. Bu ID Gapex'ga kiritiladi.
 
 <img src="/images/app-store/05-integrations-tab-page-and-take-issuer-id.png" alt="Integrations tab va Issuer ID" style="max-width:100%;border-radius:8px;" />
 
@@ -65,7 +65,7 @@ Yuqori menyuda **Integrations** tabini bosing. Chapda **App Store Connect API** 
 
 **"+"** yoki **Generate API Key** tugmasini bosing. Ochilgan oynada:
 
-- **Name** maydoniga kalit nomini kiriting (masalan, `Replai`)
+- **Name** maydoniga kalit nomini kiriting (masalan, `Gapex`)
 - **Access** sifatida rolni tanlang (masalan, **Developer**)
 - **Generate** tugmasini bosing
 
@@ -100,9 +100,9 @@ Ilova sahifasi ochilgandan so'ng brauzer manzil satriga qarang. URL manzilida **
 
 ---
 
-## 5. Replai'ga ulash
+## 5. Gapex'ga ulash
 
-[replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring. Chap paneldagi **Accounts** bo'limiga o'ting, **+ Add account** tugmasini bosing va **App Store** ni tanlang. Quyidagi ma'lumotlarni kiriting:
+[gapex.ai](https://gapex.ai) sahifasiga o'ting va hisobingizga kiring. Chap paneldagi **Accounts** bo'limiga o'ting, **+ Add account** tugmasini bosing va **App Store** ni tanlang. Quyidagi ma'lumotlarni kiriting:
 
 | Maydon | Tavsif | Qayerdan olish |
 |--------|--------|----------------|
@@ -117,11 +117,11 @@ Ma'lumotlarni kiritgandan so'ng **Connect** tugmasini bosing.
 
 ## Keyin nima bo'ladi
 
-Ulangandan so'ng, Replai avtomatik ravishda quyidagi jarayonlarni boshlaydi:
+Ulangandan so'ng, Gapex avtomatik ravishda quyidagi jarayonlarni boshlaydi:
 
-1. **Sharh sinxronlash** — App Store sharhlari Replai dashboardida paydo bo'ladi.
+1. **Sharh sinxronlash** — App Store sharhlari Gapex dashboardida paydo bo'ladi.
 2. **Sharh monitoring** — Tizim muntazam yangi sharhlarni tekshiradi.
-3. **AI taklif tizimi** — Replai sharh kontekstiga asoslangan javob takliflarini yaratadi.
+3. **AI taklif tizimi** — Gapex sharh kontekstiga asoslangan javob takliflarini yaratadi.
 
 ---
 
@@ -141,7 +141,7 @@ Akkaunt xatti-harakatlarini **Akkaunt sozlamalari** da sozlang:
 ## Muammolarni hal qilish
 
 ### "API kalit topilmadi"
-**Muammo:** Replai API kalitni qabul qilmayapti.
+**Muammo:** Gapex API kalitni qabul qilmayapti.
 **Yechim:** `.p8` faylni qaytadan yuklang. Issuer ID va Key ID to'g'ri nusxalanganligini tekshiring.
 
 ### "Ruxsat yo'q (Forbidden)"
@@ -161,7 +161,7 @@ Akkaunt xatti-harakatlarini **Akkaunt sozlamalari** da sozlang:
 ## Maxfiylik va xavfsizlik
 
 * **Xavfsiz ulanish**: API kalit shifrlangan holda saqlanadi.
-* **Cheklangan kirish**: Replai faqat sharhlarni o'qish va ularga javob berish uchun kiradi. Boshqa ilova ma'lumotlaringizga kira olmaydi.
+* **Cheklangan kirish**: Gapex faqat sharhlarni o'qish va ularga javob berish uchun kiradi. Boshqa ilova ma'lumotlaringizga kira olmaydi.
 * **Bekor qilish mumkin**: API kalitni istalgan vaqtda App Store Connect'dan Revoke qilishingiz mumkin.
 
 ---

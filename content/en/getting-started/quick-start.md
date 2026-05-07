@@ -6,13 +6,13 @@ weight: 3
 
 ## Overview
 
-This guide walks you through the steps to get your first AI response in Replai. The process takes less than 5 minutes.
+This guide walks you through the steps to get your first AI response in Gapex. The process takes less than 5 minutes.
 
 ---
 
 ## 1. Create an account
 
-1. Go to [replai.uz](https://replai.uz)
+1. Go to [gapex.ai](https://gapex.ai)
 2. Click the **Sign Up** button
 3. Enter your name, email and password (confirm password twice) or sign up quickly via **Google/Facebook**
 4. Enter the verification code sent to your email on the platform
@@ -46,7 +46,7 @@ Detailed guides for each platform:
 
 ## 3. Explore the dashboard
 
-After connecting a platform, the Replai dashboard consists of the following sections:
+After connecting a platform, the Gapex dashboard consists of the following sections:
 
 ### Main panel
 - **Comments/Reviews** — comments from all platforms in one place
@@ -64,7 +64,7 @@ After connecting a platform, the Replai dashboard consists of the following sect
 
 1. View new comments on the **Dashboard**
 2. Click on a comment
-3. Replai automatically shows an AI response suggestion
+3. Gapex automatically shows an AI response suggestion
 4. Review the response:
    - **Post** — post the response directly
    - **Edit** — modify the response before posting
@@ -75,7 +75,7 @@ After connecting a platform, the Replai dashboard consists of the following sect
 
 ## 5. Configure response rules (optional)
 
-You can customize Replai to fit your needs:
+You can customize Gapex to fit your needs:
 
 ### AI tone settings
 In **Settings → AI → Tone**, select a response style:
@@ -97,7 +97,7 @@ In **Settings → Filters**:
 
 ## Done!
 
-Congratulations! You have successfully set up Replai. You can now efficiently manage your social media comments with AI assistance.
+Congratulations! You have successfully set up Gapex. You can now efficiently manage your social media comments with AI assistance.
 
 **Useful links:**
 - [Platforms guide](../../platforms/) — detailed instructions for connecting all platforms
