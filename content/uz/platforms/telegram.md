@@ -1,6 +1,6 @@
 ---
-title: "Telegram'ni ulash"
-description: "Telegram kanalingizni Gapex'ga ulab, izohlarni sun'iy intellekt yordamida boshqaring"
+title: "Telegram"
+description: "Telegram kanalingizni Replai'ga ulab, izohlarni sun'iy intellekt yordamida boshqaring"
 weight: 9
 ---
 
