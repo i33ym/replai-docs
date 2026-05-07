@@ -1,19 +1,19 @@
 ---
 title: "Maxfiylik siyosati"
-description: "ReplAI ma'lumotlarni qanday to'playdi, ishlatadi, saqlaydi va himoya qiladi."
+description: "Gapex ma'lumotlarni qanday to'playdi, ishlatadi, saqlaydi va himoya qiladi."
 ---
 
 Oxirgi yangilanish: **2026-yil 6-mart**
 
-**ReplAI** ga xush kelibsiz. Sizning maxfiyligingiz biz uchun muhim. Ushbu Maxfiylik siyosati ReplAI ("biz", "bizning") xizmatlarimizdan foydalanganingizda ma'lumotlaringizni qanday to'plashi, ishlatishi, saqlashi va himoya qilishini tushuntiradi.
+**Gapex** ga xush kelibsiz. Sizning maxfiyligingiz biz uchun muhim. Ushbu Maxfiylik siyosati Gapex ("biz", "bizning") xizmatlarimizdan foydalanganingizda ma'lumotlaringizni qanday to'plashi, ishlatishi, saqlashi va himoya qilishini tushuntiradi.
 
-Ushbu siyosat veb-saytimiz va platformamizga tegishli: `https://replai.uz/privacy`
+Ushbu siyosat veb-saytimiz va platformamizga tegishli: `https://gapex.ai/privacy`
 
-ReplAI'dan foydalanish orqali siz ushbu Maxfiylik siyosatida tavsiflangan amaliyotlarga rozilik bildirasiz.
+Gapex'dan foydalanish orqali siz ushbu Maxfiylik siyosatida tavsiflangan amaliyotlarga rozilik bildirasiz.
 
 ## 1. Biz to'playdigan ma'lumotlar
 
-ReplAI'dan foydalanganingizda, biz quyidagi turdagi ma'lumotlarni to'plashimiz mumkin.
+Gapex'dan foydalanganingizda, biz quyidagi turdagi ma'lumotlarni to'plashimiz mumkin.
 
 ### 1.1 Hisob ma'lumotlari
 
@@ -28,7 +28,7 @@ Bu ma'lumotlar hisobingizni aniqlash va xizmatlarimizni ko'rsatish uchun ishlati
 
 ### 1.2 Ijtimoiy tarmoq ma'lumotlari
 
-Agar ijtimoiy tarmoq hisoblaringizni ReplAI'ga ulasangiz, berilgan ruxsatlarga qarab quyidagi ma'lumotlarga kirishimiz va saqlashimiz mumkin:
+Agar ijtimoiy tarmoq hisoblaringizni Gapex'ga ulasangiz, berilgan ruxsatlarga qarab quyidagi ma'lumotlarga kirishimiz va saqlashimiz mumkin:
 
 - Ijtimoiy tarmoq postlari
 - Postlardagi izohlar
@@ -62,7 +62,7 @@ Biz to'plangan ma'lumotlarni xizmatlarimizni ko'rsatish va yaxshilash uchun ishl
 
 ## 3. Ma'lumotlarni AI orqali qayta ishlash
 
-ReplAI ijtimoiy tarmoq o'zaro ta'sirlarini tahlil qilish va tavsiya etilgan javoblarni yaratish uchun sun'iy intellekt texnologiyalaridan foydalanadi.
+Gapex ijtimoiy tarmoq o'zaro ta'sirlarini tahlil qilish va tavsiya etilgan javoblarni yaratish uchun sun'iy intellekt texnologiyalaridan foydalanadi.
 
 Bu maqsadda:
 
@@ -72,14 +72,14 @@ Bu maqsadda:
 
 ## 4. Ma'lumotlarni saqlash va saqlash muddati
 
-ReplAI foydalanuvchi ma'lumotlarini, jumladan hisobingizga ulangan xabarlar va izohlarni saqlaydi.
+Gapex foydalanuvchi ma'lumotlarini, jumladan hisobingizga ulangan xabarlar va izohlarni saqlaydi.
 
 - Xabarlar va izohlar siz ularni o'chirmaguncha yoki hisobingizni uzmaguncha doimiy saqlanishi mumkin.
 - Agar hisobingizni o'chirsangiz, tegishli ma'lumotlar ham oqilona muddat ichida tizimlarimizdan o'chirilishi mumkin.
 
 ## 5. Uchinchi tomon xizmatlari
 
-ReplAI platformani ishlatish uchun uchinchi tomon xizmatlaridan foydalanishi mumkin, jumladan:
+Gapex platformani ishlatish uchun uchinchi tomon xizmatlaridan foydalanishi mumkin, jumladan:
 
 - Ijtimoiy tarmoq platformalari API'lari
 - Bulutli infratuzilma provayderlari
@@ -102,7 +102,7 @@ Biroq, hech qanday onlayn xizmat mutlaq xavfsizlikni kafolatlay olmaydi.
 
 ## 7. Foydalanuvchi huquqlari va ma'lumotlarni nazorat qilish
 
-ReplAI foydalanuvchilari quyidagi huquqlarga ega:
+Gapex foydalanuvchilari quyidagi huquqlarga ega:
 
 - Saqlangan ma'lumotlariga kirish
 - Noto'g'ri ma'lumotlarni tuzatishni so'rash
@@ -113,17 +113,17 @@ Ma'lumotlarni o'chirish yoki yordam so'rash uchun biz bilan bog'laning: **sokhib
 
 ## 8. Biznes hisoblari
 
-ReplAI biznes yoki professional ijtimoiy tarmoq hisoblarini boshqaradigan foydalanuvchilar uchun mo'ljallangan. Platforma bizneslarning auditoriyalari bilan muloqotni boshqarishiga yordam berish uchun yaratilgan.
+Gapex biznes yoki professional ijtimoiy tarmoq hisoblarini boshqaradigan foydalanuvchilar uchun mo'ljallangan. Platforma bizneslarning auditoriyalari bilan muloqotni boshqarishiga yordam berish uchun yaratilgan.
 
 ## 9. Obuna xizmatlari
 
-ReplAI obunaga asoslangan narxlash modeli bo'yicha ishlaydi.
+Gapex obunaga asoslangan narxlash modeli bo'yicha ishlaydi.
 
-To'lov ma'lumotlari uchinchi tomon to'lov provayderlari tomonidan qayta ishlanishi mumkin. ReplAI to'lov kartasi ma'lumotlarini to'liq saqlamaydi.
+To'lov ma'lumotlari uchinchi tomon to'lov provayderlari tomonidan qayta ishlanishi mumkin. Gapex to'lov kartasi ma'lumotlarini to'liq saqlamaydi.
 
 ## 10. Bolalar maxfiyligi
 
-ReplAI bolalar uchun mo'ljallanmagan. Bizning xizmatlarimiz biznes hisob egalari uchun yaratilgan.
+Gapex bolalar uchun mo'ljallanmagan. Bizning xizmatlarimiz biznes hisob egalari uchun yaratilgan.
 
 Biz 13 yoshdan kichik shaxslarning shaxsiy ma'lumotlarini ataylab to'plamaymiz. Agar bunday ma'lumotlar to'planganligini bilsak, ularni o'chirish uchun choralar ko'ramiz.
 
@@ -131,7 +131,7 @@ Biz 13 yoshdan kichik shaxslarning shaxsiy ma'lumotlarini ataylab to'plamaymiz. 
 
 Biz ushbu Maxfiylik siyosatini vaqti-vaqti bilan xizmatlarimiz, huquqiy talablar yoki xavfsizlik amaliyotlaridagi o'zgarishlarni aks ettirish uchun yangilashimiz mumkin.
 
-Yangilangan versiyalar quyidagi manzilda joylashtiriladi: `https://replai.uz/privacy`
+Yangilangan versiyalar quyidagi manzilda joylashtiriladi: `https://gapex.ai/privacy`
 
 Yangilanishlardan so'ng xizmatdan foydalanishni davom ettirishingiz qayta ko'rib chiqilgan siyosatni qabul qilganingizni bildiradi.
 
@@ -140,4 +140,4 @@ Yangilanishlardan so'ng xizmatdan foydalanishni davom ettirishingiz qayta ko'rib
 Ushbu Maxfiylik siyosati yoki shaxsiy ma'lumotlaringiz bo'yicha savollaringiz yoki tashvishlaringiz bo'lsa, biz bilan bog'laning:
 
 - Elektron pochta: **sokhib@jett.uz**
-- Kompaniya: **ReplAI**
+- Kompaniya: **Gapex**

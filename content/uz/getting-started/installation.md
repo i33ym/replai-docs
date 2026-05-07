@@ -1,16 +1,16 @@
 ---
 title: "O'rnatish"
-description: "Replai'ni o'rnating va ishga tushiring."
+description: "Gapex'ni o'rnating va ishga tushiring."
 weight: 1
 ---
 
-## Replai'ga kirish
+## Gapex'ga kirish
 
-Replai — bu bulutli (cloud) platforma. Hech narsa o'rnatish shart emas — brauzer yoki mobil ilova orqali foydalanishingiz mumkin.
+Gapex — bu bulutli (cloud) platforma. Hech narsa o'rnatish shart emas — brauzer yoki mobil ilova orqali foydalanishingiz mumkin.
 
 ### Veb-versiya
 
-Brauzerda [replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring yoki yangi hisob yarating.
+Brauzerda [gapex.ai](https://gapex.ai) sahifasiga o'ting va hisobingizga kiring yoki yangi hisob yarating.
 
 **Qo'llab-quvvatlanadigan brauzerlar:**
 - Google Chrome (tavsiya etiladi)
@@ -24,7 +24,7 @@ Brauzerda [replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kirin
 
 ### 1-qadam: Ro'yxatdan o'tish
 
-[replai.uz](https://replai.uz) sahifasiga o'ting va **Ro'yxatdan o'tish** tugmasini bosing.
+[gapex.ai](https://gapex.ai) sahifasiga o'ting va **Ro'yxatdan o'tish** tugmasini bosing.
 
 ### 2-qadam: Ma'lumotlarni kiriting
 
@@ -51,7 +51,7 @@ Tasdiqlangandan so'ng, elektron pochta va parolingiz bilan hisobingizga kiring.
 
 ## O'z-o'zini joylashtirish (Self-hosting)
 
-Agar Replai'ni o'z serveringizda ishga tushirmoqchi bo'lsangiz, quyidagi talablar bajarilishi kerak.
+Agar Gapex'ni o'z serveringizda ishga tushirmoqchi bo'lsangiz, quyidagi talablar bajarilishi kerak.
 
 ### Tizim talablari
 
@@ -63,22 +63,22 @@ Agar Replai'ni o'z serveringizda ishga tushirmoqchi bo'lsangiz, quyidagi talabla
 ### Docker orqali o'rnatish
 
 ```bash
-docker pull replai/replai:latest
+docker pull gapex/gapex:latest
 docker compose up -d
 ```
 
 ### Manba koddan o'rnatish
 
 ```bash
-git clone https://github.com/i33ym/replai.git
-cd replai
+git clone https://github.com/i33ym/gapex.git
+cd gapex
 uv sync
 ```
 
-> Self-hosting haqida batafsil ma'lumot uchun [GitHub](https://github.com/i33ym/replai) sahifasiga qarang.
+> Self-hosting haqida batafsil ma'lumot uchun [GitHub](https://github.com/i33ym/gapex) sahifasiga qarang.
 
 ---
 
 ## Keyingi qadam
 
-Hisob yaratilgandan so'ng, [Sozlamalar](../configuration/) sahifasiga o'ting va Replai'ni ehtiyojlaringizga moslab sozlang.
+Hisob yaratilgandan so'ng, [Sozlamalar](../configuration/) sahifasiga o'ting va Gapex'ni ehtiyojlaringizga moslab sozlang.

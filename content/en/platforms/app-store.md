@@ -1,12 +1,12 @@
 ---
 title: "App Store"
-description: "Connect App Store Connect with Replai and manage reviews with AI"
+description: "Connect App Store Connect with Gapex and manage reviews with AI"
 weight: 10
 ---
 
 ## Overview
 
-Connect your App Store Connect account to Replai — automatically sync your app reviews, respond to user feedback with AI assistance, and manage everything from a single dashboard.
+Connect your App Store Connect account to Gapex — automatically sync your app reviews, respond to user feedback with AI assistance, and manage everything from a single dashboard.
 
 ---
 
@@ -57,7 +57,7 @@ On the App Store Connect home page, click the **Users and Access** section.
 
 ### Step 5: Go to the Integrations tab and copy the Issuer ID
 
-Click the **Integrations** tab in the top menu. Make sure **App Store Connect API** is selected in the left panel. The **Issuer ID** is displayed at the top of the page — copy it. This ID will be entered into Replai.
+Click the **Integrations** tab in the top menu. Make sure **App Store Connect API** is selected in the left panel. The **Issuer ID** is displayed at the top of the page — copy it. This ID will be entered into Gapex.
 
 <img src="/images/app-store/05-integrations-tab-page-and-take-issuer-id.png" alt="Integrations tab and Issuer ID" style="max-width:100%;border-radius:8px;" />
 
@@ -65,7 +65,7 @@ Click the **Integrations** tab in the top menu. Make sure **App Store Connect AP
 
 Click the **"+"** or **Generate API Key** button. In the dialog that appears:
 
-- Enter a name for the key in the **Name** field (e.g., `Replai`)
+- Enter a name for the key in the **Name** field (e.g., `Gapex`)
 - Select a role under **Access** (e.g., **Developer**)
 - Click **Generate**
 
@@ -100,9 +100,9 @@ After the app page opens, look at the browser address bar. The **App ID** number
 
 ---
 
-## 5. Connect to Replai
+## 5. Connect to Gapex
 
-Go to [replai.uz](https://replai.uz) and sign in to your account. Go to the **Accounts** section in the left panel, click **+ Add account** and select **App Store**. Enter the following information:
+Go to [gapex.ai](https://gapex.ai) and sign in to your account. Go to the **Accounts** section in the left panel, click **+ Add account** and select **App Store**. Enter the following information:
 
 | Field | Description | Where to find |
 |-------|-------------|---------------|
@@ -117,11 +117,11 @@ After entering the information, click **Connect**.
 
 ## What happens next
 
-After connecting, Replai automatically starts the following processes:
+After connecting, Gapex automatically starts the following processes:
 
-1. **Review sync** — App Store reviews appear in the Replai dashboard.
+1. **Review sync** — App Store reviews appear in the Gapex dashboard.
 2. **Review monitoring** — The system regularly checks for new reviews.
-3. **AI suggestion system** — Replai generates response suggestions based on review context.
+3. **AI suggestion system** — Gapex generates response suggestions based on review context.
 
 ---
 
@@ -141,7 +141,7 @@ Configure account behavior in **Account Settings**:
 ## Troubleshooting
 
 ### "API key not found"
-**Problem:** Replai is not accepting the API key.
+**Problem:** Gapex is not accepting the API key.
 **Solution:** Re-upload the `.p8` file. Verify that the Issuer ID and Key ID are correctly copied.
 
 ### "Permission denied (Forbidden)"
@@ -161,7 +161,7 @@ Configure account behavior in **Account Settings**:
 ## Privacy and Security
 
 * **Secure connection**: The API key is stored encrypted.
-* **Limited access**: Replai only accesses reviews for reading and responding. It cannot access your other app data.
+* **Limited access**: Gapex only accesses reviews for reading and responding. It cannot access your other app data.
 * **Revocable**: You can revoke the API key from App Store Connect at any time.
 
 ---

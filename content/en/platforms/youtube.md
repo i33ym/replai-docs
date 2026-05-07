@@ -1,12 +1,12 @@
 ---
 title: "YouTube"
-description: "Connect your YouTube channel to Replai in three simple steps"
+description: "Connect your YouTube channel to Gapex in three simple steps"
 weight: 8
 ---
 
 ## Overview
 
-Connect your YouTube channel to Replai to automatically sync videos, manage comments with AI, and grow your audience engagement.
+Connect your YouTube channel to Gapex to automatically sync videos, manage comments with AI, and grow your audience engagement.
 
 ---
 
@@ -14,7 +14,7 @@ Connect your YouTube channel to Replai to automatically sync videos, manage comm
 
 ### Step 1: Add Account from Sidebar
 
-In the Replai dashboard, locate the **Accounts** section on the left-hand sidebar. Click the **+ Add account** button.
+In the Gapex dashboard, locate the **Accounts** section on the left-hand sidebar. Click the **+ Add account** button.
 
 ### Step 2: Select YouTube
 
@@ -35,11 +35,11 @@ If your Google account manages multiple channels or Brand Accounts, select the s
 
 ## What Happens Next
 
-Once connected, Replai automatically begins the following processes:
+Once connected, Gapex automatically begins the following processes:
 
 1. **Video Syncing** - We fetch your public and private videos to prepare for comment management.
 2. **Comment Monitoring** - The system checks for new comments every 10 minutes.
-3. **AI Suggestion Engine** - Replai starts generating high-quality response suggestions based on your video context.
+3. **AI Suggestion Engine** - Gapex starts generating high-quality response suggestions based on your video context.
 
 ---
 
@@ -65,15 +65,15 @@ Configure your channel behavior in the **Account Settings**:
 
 ### "No YouTube Channel Found"
 **Problem:** The selected Google account doesn't have an active channel.
-**Solution:** Go to YouTube, ensure a channel is created for that account, then return to Replai.
+**Solution:** Go to YouTube, ensure a channel is created for that account, then return to Gapex.
 
 ---
 
 ## Privacy & Security
 
 * **No Passwords**: We use official Google OAuth. We never see your password.
-* **Limited Access**: Replai only accesses YouTube data. We cannot read your Emails or Drive files.
-* **Revocable**: You can remove Replai's access at any time via your Google Security Dashboard.
+* **Limited Access**: Gapex only accesses YouTube data. We cannot read your Emails or Drive files.
+* **Revocable**: You can remove Gapex's access at any time via your Google Security Dashboard.
 
 ---
 
@@ -81,4 +81,4 @@ Configure your channel behavior in the **Account Settings**:
 
 **Q: Can I connect multiple YouTube channels?** A: Yes! Simply repeat the "Add Account" process for each channel.
 
-**Q: Does Replai support Unlisted videos?** A: To keep your workspace focused, we filter out Unlisted videos by default. Public and Private videos are supported.
+**Q: Does Gapex support Unlisted videos?** A: To keep your workspace focused, we filter out Unlisted videos by default. Public and Private videos are supported.

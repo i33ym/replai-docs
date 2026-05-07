@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Connect and configure Telegram with Replai."
+description: "Connect and configure Telegram with Gapex."
 weight: 9
 ---
 

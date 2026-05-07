@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Подключение и настройка Telegram в Replai."
+description: "Подключение и настройка Telegram в Gapex."
 weight: 9
 ---
 

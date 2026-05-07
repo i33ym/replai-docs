@@ -1,12 +1,12 @@
 ---
 title: "Facebook"
-description: "Facebook Page'ingizni Replai'ga ulang va commentlarni AI yordamida boshqaring"
+description: "Facebook Page'ingizni Gapex'ga ulang va commentlarni AI yordamida boshqaring"
 weight: 9
 ---
 
 ## Umumiy ma'lumot
 
-Facebook Page'ingizni Replai'ga ulab, postlaringizdagi commentlarni AI yordamida boshqaring, javob yozing va auditoriya bilan aloqani yaxshilang.
+Facebook Page'ingizni Gapex'ga ulab, postlaringizdagi commentlarni AI yordamida boshqaring, javob yozing va auditoriya bilan aloqani yaxshilang.
 
 ---
 
@@ -23,7 +23,7 @@ Ulashdan oldin quyidagilar tayyor bo'lishi kerak:
 
 ## 1. Facebook Page yaratish
 
-Agar Facebook Page'ingiz allaqachon bo'lsa, bu bo'limni o'tkazib yuboring va [2. Replai'ga ulash](#2-replaiga-ulash) ga o'ting.
+Agar Facebook Page'ingiz allaqachon bo'lsa, bu bo'limni o'tkazib yuboring va [2. Gapex'ga ulash](#2-gapexga-ulash) ga o'ting.
 
 ### 1-qadam: Page yaratish sahifasini oching
 
@@ -69,11 +69,11 @@ Yangi Facebook Business Page'ingiz tayyor!
 
 ---
 
-## 2. Replai'ga ulash
+## 2. Gapex'ga ulash
 
-### 8-qadam: Replai'ga kiring
+### 8-qadam: Gapex'ga kiring
 
-[replai.uz](https://replai.uz) sahifasiga o'ting va hisobingizga kiring.
+[gapex.ai](https://gapex.ai) sahifasiga o'ting va hisobingizga kiring.
 
 ### 9-qadam: Hisob qo'shish
 
@@ -88,7 +88,7 @@ Platformalar ro'yxatidan **Facebook**'ni tanlang va **Continue with Facebook** t
 Facebook login sahifasi ochiladi:
 
 1. **Facebook'ga kirish**: Email va parolingizni kiriting va tizimga kiring
-2. **Ruxsatlarni tasdiqlash**: Replai quyidagi ruxsatlarni so'raydi:
+2. **Ruxsatlarni tasdiqlash**: Gapex quyidagi ruxsatlarni so'raydi:
    - Page postlarini ko'rish
    - Page commentlarini boshqarish
    - Page ma'lumotlarini o'qish
@@ -100,17 +100,17 @@ Boshqarayotgan Facebook Page'laringiz ro'yxati chiqadi. Kerakli Page'ni tanlang 
 
 ### 13-qadam: Tayyor!
 
-Facebook Page'ingiz Replai'ga muvaffaqiyatli ulandi. Endi dashboardda postlaringiz va commentlaringizni ko'rishingiz mumkin.
+Facebook Page'ingiz Gapex'ga muvaffaqiyatli ulandi. Endi dashboardda postlaringiz va commentlaringizni ko'rishingiz mumkin.
 
 ---
 
 ## Keyin nima bo'ladi
 
-Ulangandan so'ng, Replai avtomatik ravishda quyidagi jarayonlarni boshlaydi:
+Ulangandan so'ng, Gapex avtomatik ravishda quyidagi jarayonlarni boshlaydi:
 
-1. **Post sinxronlash** — Facebook Page postlaringiz Replai dashboardida paydo bo'ladi.
+1. **Post sinxronlash** — Facebook Page postlaringiz Gapex dashboardida paydo bo'ladi.
 2. **Comment monitoring** — Tizim har 5 daqiqada yangi commentlarni tekshiradi.
-3. **AI taklif tizimi** — Replai post kontekstiga asoslangan javob takliflarini yaratadi.
+3. **AI taklif tizimi** — Gapex post kontekstiga asoslangan javob takliflarini yaratadi.
 
 ---
 
@@ -146,8 +146,8 @@ Page xatti-harakatini **Akkaunt sozlamalari** da sozlang:
 ## Maxfiylik va xavfsizlik
 
 * **Parol talab qilinmaydi**: Biz rasmiy Facebook OAuth'dan foydalanamiz. Parolingizni hech qachon ko'rmaymiz.
-* **Cheklangan kirish**: Replai faqat Facebook Page ma'lumotlariga kiradi. Shaxsiy profilingizga kira olmaydi.
-* **Bekor qilish mumkin**: Replai'ning kirishini istalgan vaqtda Facebook Settings → Business Integrations orqali bekor qilishingiz mumkin.
+* **Cheklangan kirish**: Gapex faqat Facebook Page ma'lumotlariga kiradi. Shaxsiy profilingizga kira olmaydi.
+* **Bekor qilish mumkin**: Gapex'ning kirishini istalgan vaqtda Facebook Settings → Business Integrations orqali bekor qilishingiz mumkin.
 
 ---
 
@@ -157,7 +157,7 @@ Page xatti-harakatini **Akkaunt sozlamalari** da sozlang:
 J: Ha! Har bir Page uchun "Add Account" jarayonini takrorlang.
 
 **S: Commentlarni o'chirish mumkinmi?**
-J: Ha, Replai orqali commentlarni ko'rish, javob yozish, yashirish va o'chirish mumkin.
+J: Ha, Gapex orqali commentlarni ko'rish, javob yozish, yashirish va o'chirish mumkin.
 
 **S: Page'ni qanday uzish mumkin?**
 J: Settings → akkaunt yonidagi **Disconnect** tugmasini bosing.

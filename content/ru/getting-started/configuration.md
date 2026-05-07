@@ -1,6 +1,6 @@
 ---
 title: "Конфигурация"
-description: "Настройте Replai под ваши нужды."
+description: "Настройте Gapex под ваши нужды."
 weight: 2
 ---
 
@@ -81,10 +81,10 @@ weight: 2
 
 ## Конфигурация для self-hosting
 
-Если вы запускаете Replai на собственном сервере, создайте файл `.env` в корневой папке проекта:
+Если вы запускаете Gapex на собственном сервере, создайте файл `.env` в корневой папке проекта:
 
 ```env
-DATABASE_URL=postgresql://user:pass@localhost:5432/replai
+DATABASE_URL=postgresql://user:pass@localhost:5432/gapex
 NATS_URL=nats://localhost:4222
 ANTHROPIC_API_KEY=sk-ant-...
 REDIS_URL=redis://localhost:6379

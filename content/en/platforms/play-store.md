@@ -1,12 +1,12 @@
 ---
 title: "Play Store"
-description: "Connect and configure Play Store with Replai."
+description: "Connect and configure Play Store with Gapex."
 weight: 11
 ---
 
 ## Overview
 
-This guide walks you through creating a Google Cloud service account, generating a JSON credentials file, and connecting it to your Google Play Console app so Replai can read and reply to your app's reviews.
+This guide walks you through creating a Google Cloud service account, generating a JSON credentials file, and connecting it to your Google Play Console app so Gapex can read and reply to your app's reviews.
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ In the project selector dialog, click **New Project**.
 
 ### Step 5: Enter Project Name
 
-Enter a project name (e.g., `Replai Play Store`) and click **Create**.
+Enter a project name (e.g., `Gapex Play Store`) and click **Create**.
 
 ![Enter project name](/images/play-store/05-enter-project-name.png)
 
@@ -81,7 +81,7 @@ Click **Create Service Account** at the top of the page.
 
 ### Step 10: Enter Service Account Name
 
-Enter a name for the service account (e.g., `replai-playstore`) and click **Continue**.
+Enter a name for the service account (e.g., `gapex-playstore`) and click **Continue**.
 
 ![Enter name](/images/play-store/10-enter-service-account-name.png)
 
@@ -135,7 +135,7 @@ Select **JSON** as the key type and click **Create**.
 
 ### Step 17: Download JSON File
 
-The JSON credentials file will be automatically downloaded to your computer. Keep this file safe — you will upload it to Replai.
+The JSON credentials file will be automatically downloaded to your computer. Keep this file safe — you will upload it to Gapex.
 
 ![Download JSON](/images/play-store/17-download-json.png)
 
@@ -209,13 +209,13 @@ Click **Invite** to add the service account.
 
 ![Set permissions](/images/play-store/27-set-permissions.png)
 
-<!-- ## 7. Connect to Replai
+<!-- ## 7. Connect to Gapex
 
-### Step 29: Open Replai Settings
+### Step 29: Open Gapex Settings
 
-Go to Replai and navigate to **Settings** → **Integrations**.
+Go to Gapex and navigate to **Settings** → **Integrations**.
 
-![Open Replai settings](/images/play-store/29-open-replai-settings.png)
+![Open Gapex settings](/images/play-store/29-open-gapex-settings.png)
 
 ### Step 30: Select Play Store
 
@@ -231,7 +231,7 @@ Upload the JSON credentials file you downloaded in Step 17.
 
 ### Step 32: Connection Successful
 
-You will see a confirmation that Play Store is connected to Replai.
+You will see a confirmation that Play Store is connected to Gapex.
 
 ![Connection successful](/images/play-store/32-connection-successful.png)
 

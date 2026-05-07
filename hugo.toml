@@ -1,6 +1,6 @@
-baseURL = 'https://docs.replai.uz/'
+baseURL = 'https://docs.gapex.ai/'
 languageCode = 'en-us'
-title = 'Replai Docs'
+title = 'Gapex Docs'
 theme = "hugo-noir"
 defaultContentLanguage = "uz"
 
@@ -26,10 +26,10 @@ defaultContentLanguage = "uz"
     contentDir = "content/uz"
 
 [params]
-  name = "Replai"
+  name = "Gapex"
   description = "AI-powered social media comment management"
   github = "https://github.com/i33ym/replai-docs"
-  email = "help@replai.uz"
+  email = "help@gapex.ai"
 
 [menu]
   [[menu.main]]

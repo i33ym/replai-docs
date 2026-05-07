@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Telegram-ni Replai bilan bog'lash va sozlash."
+description: "Telegram-ni Gapex bilan bog'lash va sozlash."
 weight: 9
 ---
 
