@@ -3,7 +3,33 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+        {{ $title := cond .IsHome .Site.Title (printf "%s - %s" .Title .Site.Title) }}
+        {{ $description := or .Description .Site.Params.description }}
+        {{ $ogImage := "images/logo/gapex-logo.png" | absURL }}
+        <title>{{ $title }}</title>
+        <meta name="description" content="{{ $description }}">
+        <link rel="canonical" href="{{ .Permalink }}">
+
+        <!-- Language alternates (hreflang) -->
+        {{ range .AllTranslations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+        {{ if eq .Language.Lang "uz" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}
+        {{ end }}
+
+        <!-- Open Graph -->
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="{{ .Site.Title }}">
+        <meta property="og:title" content="{{ $title }}">
+        <meta property="og:description" content="{{ $description }}">
+        <meta property="og:url" content="{{ .Permalink }}">
+        <meta property="og:locale" content="{{ .Language.Lang }}">
+        <meta property="og:image" content="{{ $ogImage }}">
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="{{ $title }}">
+        <meta name="twitter:description" content="{{ $description }}">
+        <meta name="twitter:image" content="{{ $ogImage }}">
 
         <link rel="apple-touch-icon" sizes="180x180" href="{{ "favicon_io/apple-touch-icon.png" | relURL }}">
         <link rel="icon" type="image/svg+xml" href="{{ "favicon_io/favicon.svg" | relURL }}">
