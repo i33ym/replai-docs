@@ -235,6 +235,8 @@ You will see a confirmation that Play Store is connected to Gapex.
 
 ![Connection successful](/images/play-store/32-connection-successful.png)
 
+-->
+
 ---
 
 ## Limitations
@@ -242,4 +244,4 @@ You will see a confirmation that Play Store is connected to Gapex.
 - **API Quota**: Google Play Developer API has daily quota limits for review replies.
 - **Review Access**: Only reviews from the last 7 days can be replied to via the API.
 - **Service Account Scope**: The service account only has access to apps explicitly granted in Google Play Console permissions.
-- **Reply Length**: Google Play review replies have a maximum length of 350 characters. -->
+- **Reply Length**: Google Play review replies have a maximum length of 350 characters.

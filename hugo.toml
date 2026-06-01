@@ -1,7 +1,6 @@
 baseURL = 'https://docs.gapex.ai/'
 languageCode = 'en-us'
 title = 'Gapex Docs'
-theme = "hugo-noir"
 defaultContentLanguage = "uz"
 enableRobotsTXT = true
 

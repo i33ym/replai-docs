@@ -4,6 +4,8 @@ description: "Connect your Telegram channel to Gapex to manage comments with AI"
 weight: 9
 ---
 
+## Overview
+
 Connect your Telegram channel to Gapex to automatically capture comments from your channel's discussion group, generate AI-powered replies, and manage audience engagement — all from one dashboard.
 
 ---
