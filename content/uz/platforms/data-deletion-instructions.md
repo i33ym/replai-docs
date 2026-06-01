@@ -3,7 +3,7 @@ title: "Ma'lumotlarni o'chirish bo'yicha yo'riqnoma"
 description: "Gapex'dagi ma'lumotlaringizni o'chirishni qanday so'rash mumkin."
 ---
 
-Oxirgi yangilanish: **2026-yil 6-mart**
+Oxirgi yangilanish: **2026-yil 1-iyun**
 
 Agar Gapex'dan ma'lumotlaringizni o'chirishni so'ramoqchi bo'lsangiz, qo'llab-quvvatlash jamoamiz bilan bog'lanish orqali buni amalga oshirishingiz mumkin.
 
@@ -23,7 +23,7 @@ Iltimos, quyidagilarni ko'rsating:
 2. Gapex hisobingiz o'chiriladi.
 3. Saqlangan ma'lumotlar, jumladan xabarlar, izohlar va ulangan hisob ma'lumotlari tizimlarimizdan o'chiriladi.
 
-Ma'lumotlarni o'chirish so'rovlari odatda **7–14 ish kuni** ichida bajariladi.
+Ma'lumotlarni o'chirish so'rovlari odatda **7–14 ish kuni** ichida ko'rib chiqiladi va ma'lumotlaringiz tizimlarimizdan **30 kun** ichida to'liq o'chiriladi.
 
 ## Uchinchi tomon platformalari
 

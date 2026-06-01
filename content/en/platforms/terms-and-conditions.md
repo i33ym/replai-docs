@@ -3,9 +3,9 @@ title: "Terms & Conditions"
 description: "Terms for using the Gapex platform."
 ---
 
-Last Updated: May 07, 2026
+Last Updated: June 1, 2026
 
-Welcome to Gapex. These Terms & Conditions ("Terms") govern your use of the Gapex platform and services provided by Gapex ("we", "our", or "us").
+Welcome to Gapex. These Terms & Conditions ("Terms") govern your use of the Gapex platform and services provided by Gapex ("we", "our", or "us"), operated by MULTIBROKER MChJ.
 
 These Terms apply to our website and platform available at: https://gapex.ai/terms
 
@@ -78,4 +78,4 @@ You may delete your stored YouTube data and/or revoke Gapex's access to your Goo
 ## 14. Contact Information
 
 For questions regarding these Terms, please contact us at: **sokhib@jett.uz**  
-Company: **Gapex**
+Company: **Gapex (operated by MULTIBROKER MChJ)**

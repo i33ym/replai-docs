@@ -3,9 +3,9 @@ title: "Privacy Policy"
 description: "How Gapex collects, uses, stores, and protects your information."
 ---
 
-Last Updated: May 7, 2026
+Last Updated: June 1, 2026
 
-Welcome to Gapex. Your privacy is important to us. This Privacy Policy explains how Gapex ("we", "our", or "us") collects, uses, stores, and protects your information when you use our services.
+Welcome to Gapex. Your privacy is important to us. This Privacy Policy explains how Gapex ("we", "our", or "us"), operated by MULTIBROKER MChJ, collects, uses, stores, and protects your information when you use our services.
 
 This policy applies to our website and platform available at: https://gapex.ai/privacy
 
@@ -21,7 +21,7 @@ When you create an account using social login, we may collect: your name, email 
 
 ### 1.2 Social Media Data
 
-If you connect your social media accounts to Gapex (including YouTube via the YouTube API Services), we may access and store the following data depending on permissions granted: posts and videos, comments on posts and videos, replies you author, username and profile information. This data is used to enable comment management, content analysis, and AI-assisted responses. For details specific to YouTube, see Section 13.
+If you connect your social media accounts to Gapex (including Facebook and Instagram via the Meta APIs, and YouTube via the YouTube API Services), we may access and store the following data depending on permissions granted: posts and videos, comments on posts and videos, replies you author, username and profile information. This data is used to enable comment management, content analysis, and AI-assisted responses. For platform-specific details, see Section 12 (YouTube) and Section 13 (Facebook and Instagram).
 
 ### 1.3 Usage Data
 
@@ -37,11 +37,11 @@ Gapex uses artificial intelligence technologies to analyze social media interact
 
 ## 4. Data Storage and Retention
 
-Gapex stores user data including videos, posts, comments, and replies connected to your account. We also store authentication tokens (including OAuth refresh tokens) for as long as your account remains active and consent is granted. Gapex uses cookies and similar technologies in users' browsers and devices to operate the service and maintain sessions. If you delete your account, disconnect a social media account, or revoke access via the relevant provider's security settings, the associated data and tokens are deleted from our systems within 30 days. For YouTube-specific deletion and revocation procedures, see Section 13.3.
+Gapex stores user data including videos, posts, comments, and replies connected to your account. We also store authentication tokens (including OAuth refresh tokens) for as long as your account remains active and consent is granted. Gapex uses cookies and similar technologies in users' browsers and devices to operate the service and maintain sessions. If you delete your account, disconnect a social media account, or revoke access via the relevant provider's security settings, we begin processing your deletion request — typically reviewed within 7–14 business days — and the associated data and tokens are fully removed from our systems within 30 days. For platform-specific deletion and revocation procedures, see Section 12 (YouTube) and Section 13 (Facebook and Instagram).
 
 ## 5. Third-Party Services
 
-Gapex may use third-party services to operate the platform, including: social media platform APIs; cloud infrastructure providers; artificial intelligence providers; security and analytics tools. These third parties may process limited data only as necessary to provide their services. We require third-party providers to handle data securely and in accordance with applicable privacy standards.
+Gapex may use third-party services to operate the platform and may transfer limited data to trusted processors as necessary to provide the service, including: social media platform APIs (Meta — Facebook and Instagram, Google/YouTube, Telegram, Apple App Store, Google Play); AI providers for response generation (such as OpenAI and Anthropic); cloud hosting and storage providers; and error-tracking, security, and analytics tools. These providers process data only on Gapex's behalf and solely to deliver their services, and do not sell it. We require third-party providers to handle data securely and in accordance with applicable privacy standards.
 
 ## 6. Data Security
 
@@ -49,7 +49,7 @@ We take reasonable technical and organizational measures to protect your informa
 
 ## 7. User Rights and Data Control
 
-To request data deletion or assistance, please contact us at sokhib@jett.uz. If you have connected a Google account (including YouTube), you can also revoke Gapex's access at any time via the Google security settings page: https://myaccount.google.com/connections?filters=3,4&hl=en.
+Gapex users have the right to: access their stored data; request correction of inaccurate data; delete their account and associated information; and disconnect connected social media accounts. To request data deletion or assistance, contact us at sokhib@jett.uz. For step-by-step instructions, see our [Data Deletion Instructions](../data-deletion-instructions/). If you have connected a Google account (including YouTube), you can also revoke Gapex's access at any time via the Google security settings page: https://myaccount.google.com/connections?filters=3,4&hl=en. If you have connected a Facebook Page or Instagram account, you can remove Gapex's access at any time in your Facebook Settings → Business Integrations.
 
 ## 8. Business Accounts
 
@@ -83,9 +83,31 @@ Gapex stores OAuth access and refresh tokens, channel metadata, your videos and 
 
 You may delete your stored YouTube data and/or revoke Gapex's access to your Google Account at any time: In-app: Open Gapex → Settings → Connected Accounts → YouTube → Disconnect & Delete Data. This calls Google's token revocation endpoint and deletes your stored YouTube-derived data within 30 days. Via Google: Visit https://myaccount.google.com/connections?filters=3,4&hl=en and revoke Gapex's access. Once revoked, our stored authorization tokens become invalid and we will delete your YouTube-derived data within 30 days. For data deletion requests, contact us at sokhib@jett.uz.
 
-## 13. Contact Information
+## 13. Facebook and Instagram Data
+
+When you connect your Facebook Page or Instagram business account to Gapex (operated by MULTIBROKER MChJ), we access and process the following data through the Meta (Facebook/Instagram) APIs — only for the pages/accounts you have explicitly connected and authorized:
+
+- **Page/account information:** ID, name, profile picture, category.
+- **Content and activity:** posts on your page, comments left by users, comment metadata (author name/ID, timestamp), and reaction/like counts.
+- **Access tokens** required to call the Meta APIs on your behalf.
+
+### 13.1 How we use it
+
+We display this content in the Gapex dashboard so you can monitor and manage customer engagement from one place; we let you reply to comments and hide or delete them; and we use webhooks to sync new comments in real time.
+
+### 13.2 How we store and protect it
+
+Data is stored in a secure database and object storage; access tokens are protected; and access is limited to the organization of the connected account.
+
+### 13.3 Retention and deletion
+
+Data is retained for as long as the account/connection remains active. You may disconnect a page/account at any time and request deletion of your data. Once a request is reviewed (typically within 7–14 business days), we delete the stored Meta data within 30 days. You can also revoke Gapex's access directly in your Facebook/Instagram settings.
+
+We do not sell this data and use it solely to provide the Gapex service, in accordance with the Meta Platform Terms and Developer Policies.
+
+## 14. Contact Information
 
 If you have questions or concerns regarding this Privacy Policy or your personal data, please contact us at:
 
 - Email: **sokhib@jett.uz**
-- Company: **Gapex**
+- Company: **Gapex (operated by MULTIBROKER MChJ)**

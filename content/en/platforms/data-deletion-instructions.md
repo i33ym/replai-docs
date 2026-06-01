@@ -3,7 +3,7 @@ title: "Data Deletion Instructions"
 description: "How to request deletion of your Gapex data."
 ---
 
-Last Updated: **March 06, 2026**
+Last Updated: **June 1, 2026**
 
 If you would like to request deletion of your data from Gapex, you can do so by contacting our support team.
 
@@ -23,7 +23,7 @@ Please include:
 2. Your Gapex account will be deleted.
 3. Associated stored data such as messages, comments, and connected account information will be removed from our systems.
 
-Data deletion requests are typically processed within **7–14 business days**.
+Data deletion requests are typically reviewed within **7–14 business days**, and your data is fully removed from our systems within **30 days**.
 
 ## Third-Party Platforms
 
