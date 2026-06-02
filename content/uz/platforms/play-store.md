@@ -207,36 +207,6 @@ Xizmat hisobini qo'shish uchun **Invite** tugmasini bosing.
 
 ![Invite tugmasini bosing](/images/play-store/28-click-invite.png)
 
----
-
-## 7. Gapex ga ulash
-
-### 29-qadam: Gapex sozlamalarini oching
-
-Gapex ga o'ting va **Settings** → **Integrations** bo'limini oching.
-
-![Gapex sozlamalarini oching](/images/play-store/29-open-gapex-settings.png)
-
-### 30-qadam: Play Store ni tanlang
-
-**Play Store** integratsiyasini bosing.
-
-![Play Store ni tanlang](/images/play-store/30-select-play-store.png)
-
-### 31-qadam: JSON hisob ma'lumotlarini yuklang
-
-22-qadamda yuklab olingan JSON hisob ma'lumotlari faylini yuklang.
-
-![JSON ni yuklang](/images/play-store/31-upload-json.png)
-
-### 32-qadam: Ulanish muvaffaqiyatli amalga oshdi
-
-Play Store Gapex ga muvaffaqiyatli ulanganligini tasdiqlash xabari ko'rinadi.
-
-![Ulanish muvaffaqiyatli](/images/play-store/32-connection-successful.png)
-
----
-
 ## Cheklovlar
 
 - **API kvotasi**: Google Play Developer API da sharhlariga javob berish uchun kunlik kvota chegaralari mavjud.

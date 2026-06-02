@@ -209,34 +209,6 @@ weight: 11
 
 ---
 
-## 7. Подключение к Gapex
-
-### Шаг 29: Откройте настройки Gapex
-
-Перейдите в Gapex и откройте **Settings** → **Integrations**.
-
-![Открыть настройки Gapex](/images/play-store/29-open-gapex-settings.png)
-
-### Шаг 30: Выберите Play Store
-
-Нажмите на интеграцию **Play Store**.
-
-![Выбрать Play Store](/images/play-store/30-select-play-store.png)
-
-### Шаг 31: Загрузите учётные данные JSON
-
-Загрузите файл учётных данных JSON, скачанный на шаге 22.
-
-![Загрузить JSON](/images/play-store/31-upload-json.png)
-
-### Шаг 32: Подключение выполнено успешно
-
-Вы увидите подтверждение того, что Play Store подключён к Gapex.
-
-![Подключение выполнено](/images/play-store/32-connection-successful.png)
-
----
-
 ## Ограничения
 
 - **Квота API**: Google Play Developer API имеет дневные ограничения квоты для ответов на отзывы.
