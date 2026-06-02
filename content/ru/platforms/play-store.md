@@ -147,25 +147,25 @@ weight: 11
 
 Перейдите в **APIs & Services** → **Library**.
 
-![APIs и Services](/images/play-store/20-apis-and-services.png)
+![APIs и Services](/images/play-store/18-apis-and-services.png)
 
 ### Шаг 21: Найдите Google Play Android Developer API
 
 В библиотеке API выполните поиск по запросу `Google Play Android Developer API`.
 
-![Поиск API](/images/play-store/21-search-play-api.png)
+![Поиск API](/images/play-store/20-search-play-api.png)
 
 ### Шаг 22: Выберите API
 
 Нажмите на **Google Play Android Developer API** в результатах поиска.
 
-![Выбрать API](/images/play-store/22-select-play-api.png)
+![Выбрать API](/images/play-store/21-select-play-api.png)
 
 ### Шаг 23: Включите API
 
 Нажмите кнопку **Enable**.
 
-![Включить API](/images/play-store/23-enable-play-api.png)
+![Включить API](/images/play-store/22-enable-play-api.png)
 
 ---
 
