@@ -209,33 +209,6 @@ Click **Invite** to add the service account.
 
 ![Set permissions](/images/play-store/27-set-permissions.png)
 
-<!-- ## 7. Connect to Gapex
-
-### Step 29: Open Gapex Settings
-
-Go to Gapex and navigate to **Settings** → **Integrations**.
-
-![Open Gapex settings](/images/play-store/29-open-gapex-settings.png)
-
-### Step 30: Select Play Store
-
-Click on the **Play Store** integration.
-
-![Select Play Store](/images/play-store/30-select-play-store.png)
-
-### Step 31: Upload JSON Credentials
-
-Upload the JSON credentials file you downloaded in Step 17.
-
-![Upload JSON](/images/play-store/31-upload-json.png)
-
-### Step 32: Connection Successful
-
-You will see a confirmation that Play Store is connected to Gapex.
-
-![Connection successful](/images/play-store/32-connection-successful.png)
-
--->
 
 ---
 

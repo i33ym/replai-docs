@@ -197,16 +197,11 @@ weight: 11
 
 ### Шаг 27: Настройте права доступа
 
-В разделе **Permissions** выберите приложение, которое хотите подключить. Предоставьте следующие права: **View app information and download bulk reports**, **Reply to reviews** и **View app quality information**.
-
-![Настроить права](/images/play-store/27-set-permissions.png)
-
-### Шаг 28: Нажмите Invite
+В разделе **Permissions** выберите приложение, которое хотите подключить. Предоставьте следующие права: **View app information and download bulk reports**, **Reply to reviews** и **View app quality information**.  
 
 Нажмите **Invite**, чтобы добавить сервисный аккаунт.
 
-![Нажать Invite](/images/play-store/28-click-invite.png)
-
+![Настроить права](/images/play-store/27-set-permissions.png)
 ---
 
 ## Ограничения

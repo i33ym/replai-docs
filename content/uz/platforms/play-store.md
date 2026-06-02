@@ -197,15 +197,9 @@ Chap yon paneldagi **Users and permissions** tugmasini bosing.
 
 ### 27-qadam: Ruxsatlarni sozlang
 
-**Permissions** bo'limida ulashni xohlagan ilovangizni tanlang. Quyidagi ruxsatlarni bering: **View app information and download bulk reports**, **Reply to reviews** va **View app quality information**.
+**Permissions** bo'limida ulashni xohlagan ilovangizni tanlang. Quyidagi ruxsatlarni bering: **View app information and download bulk reports**, **Reply to reviews** va **View app quality information**. Xizmat hisobini qo'shish uchun **Invite** tugmasini bosing.
 
 ![Ruxsatlarni sozlang](/images/play-store/27-set-permissions.png)
-
-### 28-qadam: Invite tugmasini bosing
-
-Xizmat hisobini qo'shish uchun **Invite** tugmasini bosing.
-
-![Invite tugmasini bosing](/images/play-store/28-click-invite.png)
 
 ## Cheklovlar
 
